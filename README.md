@@ -14,6 +14,7 @@ This system uses markdown files to manage and track various engineering manageme
 - **`/projects/`** - Project-specific documentation
 - **`/processes/`** - Team processes and workflows
 - **`/decisions/`** - Decision records and ADRs
+- **`/notes/`** - Knowledge base, learnings, and reference materials
 - **`/templates/`** - Reusable templates for consistency
 
 ## Quick Start
@@ -33,6 +34,7 @@ Create a file in `/people/` using the person-profile template.
 - `team-meeting.md` - Team meeting template
 - `person-profile.md` - Team member profile
 - `decision-record.md` - Decision documentation
+- `note.md` - Knowledge capture and learnings
 - `project-brief.md` - Project overview and tracking
 
 ## Getting Started
