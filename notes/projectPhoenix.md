@@ -1,16 +1,3 @@
-# global picture
-- the full company at bird's eye view
-- all the departments and their relations
-- who is who in the management and how they relate to each other
-- company strategy and priorities
-
-# first focused information gathering
-- current projects and commitments
-- priorities
-- dependencies, blockages, bottlenecks and challenges
-- teams and people
-- pain and frustration points - work out what needs changing together with the people
-
 # stuff to understand
 - estimates like "one man year"
 - the Theory of Constraints (E. M. Goldratt)
