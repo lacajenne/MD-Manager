@@ -4,7 +4,7 @@
 - 80/20 rule
 
 # ideas
-- preventive maintenance - analysis following any incident
+- preventive work supports the most important objectives 
 - identify themes out of specific issues
 - away from firefighting into a stable flow - be reliable but also adaptable
 - WIP is the silent killer (see: "no inventory" in the Toyota Production System)
