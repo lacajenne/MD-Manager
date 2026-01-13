@@ -5,7 +5,7 @@
 
 # ideas
 - preventive work supports the most important objectives 
-- identify themes out of specific issues
+- identify recurring themes out of specific issues
 - away from firefighting into a stable flow - be reliable but also adaptable
 - WIP is the silent killer (see: "no inventory" in the Toyota Production System)
 - "Your job as vp of it Operations is to ensure the fast, predictable, and uninterrupted flow of planned work that delivers value to the business while minimizing the impact and disruption of unplanned work, so you can provide stable, predictable, and secure it service."
@@ -22,6 +22,7 @@
     - internal IT projects
     - changes
     - necessary but unplanned work (the destructive one!)
+- constant, fast feedback loops - always running
 
 # questions
 - what can be our kanban?
