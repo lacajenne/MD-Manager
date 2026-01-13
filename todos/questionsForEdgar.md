@@ -1,0 +1,2 @@
+- how to deal with lack of motivation
+- how to deal with inconsistent availability
