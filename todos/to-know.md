@@ -1,2 +1,3 @@
 - Standard Platform
+- SimCorp One
 

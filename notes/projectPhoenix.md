@@ -24,6 +24,7 @@
     - changes
     - necessary but unplanned work (the destructive one!)
 - constant, fast feedback loops - always running
+- protect your teams while still delivering
 
 # questions
 - what can be our kanban?
