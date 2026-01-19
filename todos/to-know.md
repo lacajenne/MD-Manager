@@ -1,3 +1,4 @@
 - Standard Platform
 - SimCorp One
 - VMO: Value Stream Management Office
+- going to use Slack?
