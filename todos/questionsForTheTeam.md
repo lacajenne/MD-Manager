@@ -1,1 +1,2 @@
 - how long are your sprints?
+- what is your definition of Done
