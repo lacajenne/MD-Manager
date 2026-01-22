@@ -1,10 +1,3 @@
-# stuff to understand
-- estimates like "one man year"
-- the Theory of Constraints (E. M. Goldratt)
-- 80/20 rule
-- better understanding of Continuous Delivery
-
-# ideas
 - preventive work supports the most important objectives 
 - identify recurring themes out of specific issues
 - away from firefighting into a stable flow - be reliable but also adaptable
@@ -25,10 +18,4 @@
     - necessary but unplanned work (the destructive one!)
 - constant, fast feedback loops - always running
 - protect your teams while still delivering
-
-# questions
-- what can be our kanban?
-
-
-
 
