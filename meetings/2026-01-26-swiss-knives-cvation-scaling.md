@@ -19,4 +19,7 @@
 - learn, document, spread the knowledge
 - internal people to shadow consultants
 
+# Questions
+- how much is already documented? do we have a platform ready for it?
+- [yes] can we have a gradual transition?
 
