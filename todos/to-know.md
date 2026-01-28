@@ -1,3 +1,4 @@
+# open
 - Standard Platform
 - SimCorp One
 - VMO: Value Stream Management Office
@@ -7,7 +8,7 @@
 - 80/20 rule
 - better understanding of Continuous Delivery
 
-
+# archive
 
 
 
