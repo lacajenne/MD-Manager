@@ -19,8 +19,11 @@
     - what is the approach here
 
 - code reviews for tests
+    - mandatory?
 
 - technical debt, test maintenance
+
+- performance testing
 
 - security testing
 
