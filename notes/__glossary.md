@@ -1,3 +1,5 @@
+- ETF: Exchange Traded Fund
+
 - FTE: Full Time Equivalent
 
 - HC: Head Count (see FTE, Full Time Equivalent)
