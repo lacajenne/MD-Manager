@@ -4,7 +4,11 @@
 > **Focus for today:** Understand VMO level processes and Value Streams Mappings
 
 # important
-- [Driss Biya] discuss testing strategy 
+- [Driss Biya] 
+    - discuss testing strategy points 
+    - create a living shared document with status, ideas, plans...
+    - agree on next steps
+    - assessment of resources needed for testing (people...)
 
 # normal
 - retry accessing Miro and acknowledge in the ticket (ITSD-50311)
