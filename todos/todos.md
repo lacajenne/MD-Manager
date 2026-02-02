@@ -4,6 +4,9 @@
 > **Focus for today:** Understand VMO level processes and Value Streams Mappings
 
 # important
+- [Swiss Knives] standup
+    - share current goals - get to know the team, get on board with the work
+    - discuss and document the testing strategy, mention Driss
 - [Driss Biya] 
     - discuss testing strategy points 
     - create a living shared document with status, ideas, plans...
@@ -14,7 +17,10 @@
 
 # normal
 - retry accessing Miro and acknowledge in the ticket (ITSD-50311)
-- check out Flowtopia - get invitation - do course "VSM Foundation"
+- do course "VSM Foundation" in Flowtopia
+- [chat] meet Hanna
+- [chat] meet Artur
+- [chat] meet Richard
 
 # done
 - [meeting][Driss Biya] Get to know - Introduction to testing in Swiss Knives
@@ -22,5 +28,5 @@
 - [Aleksandra Jovanovic] Discuss PowerPoint on Swiss Knives scaling
 - new background check (see email on 30/01)
 - [meeting][Artur Cybruch] QAN Active ETF Value Stream Map - Demo 
-
+- [chat] meet Dawid
 
