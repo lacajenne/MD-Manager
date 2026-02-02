@@ -4,8 +4,10 @@
 > **Focus for today:** Understand VMO level processes and Value Streams Mappings
 
 # important
+- [Driss Biya] discuss testing strategy 
 
 # normal
+- retry accessing Miro and acknowledge in the ticket (ITSD-50311)
 
 # done
 - [meeting][Driss Biya] Get to know - Introduction to testing in Swiss Knives
