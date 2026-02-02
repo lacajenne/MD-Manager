@@ -17,7 +17,7 @@
 
 # normal
 - retry accessing Miro and acknowledge in the ticket (ITSD-50311)
-- do course "VSM Foundation" in Flowtopia
+- do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [chat] meet Hanna
 - [chat] meet Artur
 - [chat] meet Richard
