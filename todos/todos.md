@@ -12,6 +12,7 @@
 
 # normal
 - retry accessing Miro and acknowledge in the ticket (ITSD-50311)
+- check out Flowtopia - get invitation - do course "VSM Foundation"
 
 # done
 - [meeting][Driss Biya] Get to know - Introduction to testing in Swiss Knives
