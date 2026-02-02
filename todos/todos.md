@@ -9,6 +9,8 @@
     - create a living shared document with status, ideas, plans...
     - agree on next steps
     - assessment of resources needed for testing (people...)
+- Workday - wait for update
+    - contact Aleksandra about recording time
 
 # normal
 - retry accessing Miro and acknowledge in the ticket (ITSD-50311)
