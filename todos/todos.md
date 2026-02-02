@@ -4,6 +4,7 @@
 > **Focus for today:** Understand VMO level processes and Value Streams Mappings
 
 # important
+- [DevOps Boards] get used to both VMO and Swiss Knives boards: read some items
 - [Swiss Knives] standup
     - share current goals - get to know the team, get on board with the work
     - discuss and document the testing strategy, mention Driss
