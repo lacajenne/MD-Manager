@@ -3,6 +3,7 @@
 > **Last Updated:** 2026-02-03
 
 # todo - important
+- list all Swiss Knives people and arrange 1-on-1 meeting with everyone
 - [meeting] Mathias Hecht Alexander (cVation) - onboarding meeting
 - [TBA][meeting] meet Kateryna Zhebanova about the people in the team 
 - [chat] talk to Natalia Voitsekhivska about the team - what they do, how they work and so on
@@ -17,10 +18,10 @@
 - [chat][VMO] meet Hanna
 - [chat][VMO] meet Artur
 - [chat][VMO] meet Richard
-- [chat][Swiss Knives] meet Felix Hvidtfeldt
+- [chat][Swiss Knives] meet Felix Hvidtfeldt Larsen (external)
 - [chat][Swiss Knives] meet Marchus Pagh (external)
 - [chat][Swiss Knives] meet Matteo Christian Vogt (external)
-- [chat][Swiss Knives] meet Dmytro Pavlenko
+- [chat][Swiss Knives] meet Dmytro Pavlenko (external)
 - [chat][Swiss Knives] meet Chhitiz Shrestha
 - [chat][Swiss Knives] meet Mathias Hecht
 
