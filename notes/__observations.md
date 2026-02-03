@@ -1,6 +1,7 @@
 # My observations
 - is what is happening to the Swiss Knives similar to the scenarios involving the Brett guy in "The Phoenix Project"?
     - can we figure out similar measures?
+- Swiss Knives seem very skilled and professional, but are they are acting as a team or more as a collection of individuals?
 
 # My manager's observations
 
