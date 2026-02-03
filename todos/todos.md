@@ -17,23 +17,22 @@
     - contact Aleksandra about recording time
 
 # todo - normal
+- get Draw.io 
 - retry accessing Miro and acknowledge in the ticket (ITSD-50311)
 - do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [chat][VMO] meet Hanna
 - [chat][VMO] meet Artur
 - [chat][VMO] meet Richard
 - [chat][Swiss Knives] meet Felix Hvidtfeldt
-- [chat][Swiss Knives] meet Natalia Voitsekhviska
-- [chat][Swiss Knives] meet Mykola Yevstihnieiev
 - [chat][Swiss Knives] meet Marchus Pagh (external)
 - [chat][Swiss Knives] meet Matteo Christian Vogt (external)
 - [chat][Swiss Knives] meet Dmytro Pavlenko
 - [chat][Swiss Knives] meet Chhitiz Shrestha
 - [chat][Swiss Knives] meet Mathias Hecht
 
-
 # under way
-
+- [chat][Swiss Knives] meet Natalia Voitsekhviska
+- [chat][Swiss Knives] meet Mykola Yevstihnieiev
 
 # done
 - [chat][Swiss Knives] meet Stefan Meyer
