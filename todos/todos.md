@@ -4,6 +4,7 @@
 > **Focus for today:** Understand VMO level processes and Value Streams Mappings
 
 # todo - important
+- [GAIN] meeting with Flo on request by Driss - to announce GAIN upgrades to avoid disrupting work
 - [DevOps Boards] get used to both VMO and Swiss Knives boards: read some items
 - [Swiss Knives] standup
     - share current goals - get to know the team, get on board with the work
@@ -31,8 +32,8 @@
 - [chat][Swiss Knives] meet Mathias Hecht
 
 # under way
-- [chat][Swiss Knives] meet Natalia Voitsekhviska
-- [chat][Swiss Knives] meet Mykola Yevstihnieiev
+- [chat][Swiss Knives] meet Natalia Voitsekhviska 
+- [chat][Swiss Knives] meet Mykola Yevstihnieiev 
 
 # done
 - [chat][Swiss Knives] meet Stefan Meyer
