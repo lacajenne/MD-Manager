@@ -1,23 +1,15 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-02-02
-> **Focus for today:** Understand VMO level processes and Value Streams Mappings
+> **Last Updated:** 2026-02-03
 
 # todo - important
-- [GAIN] meeting with Flo on request by Driss - to announce GAIN upgrades to avoid disrupting work
-- [DevOps Boards] get used to both VMO and Swiss Knives boards: read some items
-- [Swiss Knives] standup
-    - share current goals - get to know the team, get on board with the work
-    - discuss and document the testing strategy, mention Driss
-- [Driss Biya] 
-    - discuss testing strategy points 
-    - create a living shared document with status, ideas, plans...
-    - agree on next steps
-    - assessment of resources needed for testing (people...)
-- Workday - wait for update
-    - contact Aleksandra about recording time
+- Mathias Hecht Alexander (cVation) - organize onboarding meeting for next week
+- mark absence in the calendar and create an automated reply - vacation at the end of the month
+- Workday - wait for update - contact Aleksandra about recording time
 
 # todo - normal
+- create a new file with important overarching themes
+- check Miro with Aleksandra
 - get Draw.io 
 - retry accessing Miro and acknowledge in the ticket (ITSD-50311)
 - do course "VSM Foundation" in Flowtopia - finish it by the end of March
@@ -33,9 +25,19 @@
 
 # under way
 - [chat][Swiss Knives] meet Natalia Voitsekhviska 
-- [chat][Swiss Knives] meet Mykola Yevstihnieiev 
 
 # done
+- [chat][Swiss Knives] meet Mykola Yevstihnieiev 
+- organize a meeting with Flo and Driss regarding maintenace, announcements, avoiding disruption of work
+- [Swiss Knives] standup
+    - share current goals - get to know the team, get on board with the work
+    - discuss and document the testing strategy, mention Driss
+- [Driss Biya] 
+    - discuss testing strategy points 
+    - agree on next steps
+    - assessment of resources needed for testing (people...)
+- [DevOps Boards] get used to both VMO and Swiss Knives boards: read some items
+- [GAIN] meeting with Flo on request by Driss - to announce GAIN upgrades to avoid disrupting work
 - [chat][Swiss Knives] meet Stefan Meyer
 - [meeting][Driss Biya] Get to know - Introduction to testing in Swiss Knives
 - [Genadi Marinchev] BMAD 

@@ -49,6 +49,7 @@
 
 - collection  and analysis of test data - testing metrics
 
-- reporting 
-    - how easy is it to get a picture of the overall testing 
+- reporting  and testing evidence
+
+- how easy is it to get a picture of the overall testing 
 
