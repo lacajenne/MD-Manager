@@ -4,18 +4,16 @@
 
 # todo - important
 - [meeting] Mathias Hecht Alexander (cVation) - onboarding meeting
-- [meeting] meet Kateryna Zhebanova about the people in the team
+- [TBA][meeting] meet Kateryna Zhebanova about the people in the team 
 - [chat] talk to Natalia Voitsekhivska about the team - what they do, how they work and so on
 - [hackaton] figure out what to do about the hackaton - move first steps
 - [office] mark absence in the calendar and create an automated reply - vacation at the end of the month
 - [office] Workday - wait for update - contact Aleksandra about recording time
+- [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # todo - normal
 - meet Mykola in the office and support his onboarding
-- check Miro with Aleksandra
 - get Draw.io 
-- retry accessing Miro and acknowledge in the ticket (ITSD-50311)
-- do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [chat][VMO] meet Hanna
 - [chat][VMO] meet Artur
 - [chat][VMO] meet Richard
