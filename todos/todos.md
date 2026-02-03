@@ -3,12 +3,15 @@
 > **Last Updated:** 2026-02-03
 
 # todo - important
-- Mathias Hecht Alexander (cVation) - organize onboarding meeting for next week
-- mark absence in the calendar and create an automated reply - vacation at the end of the month
-- Workday - wait for update - contact Aleksandra about recording time
+- [meeting] Mathias Hecht Alexander (cVation) - organize onboarding meeting for next week
+- [meeting] create a meeting with kateryna Zhebanova about the people in the team
+- [chat] talk to Natalia Voitsekhivska about the team - what they do, how they work and so on
+- [hackaton] figure out what to do about the hackaton - move first steps
+- [office] mark absence in the calendar and create an automated reply - vacation at the end of the month
+- [office] Workday - wait for update - contact Aleksandra about recording time
 
 # todo - normal
-- create a new file with important overarching themes
+- meet Mykola in the office and support his onboarding
 - check Miro with Aleksandra
 - get Draw.io 
 - retry accessing Miro and acknowledge in the ticket (ITSD-50311)
