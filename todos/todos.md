@@ -3,8 +3,8 @@
 > **Last Updated:** 2026-02-03
 
 # todo - important
-- [meeting] Mathias Hecht Alexander (cVation) - organize onboarding meeting for next week
-- [meeting] create a meeting with kateryna Zhebanova about the people in the team
+- [meeting] Mathias Hecht Alexander (cVation) - onboarding meeting
+- [meeting] meet Kateryna Zhebanova about the people in the team
 - [chat] talk to Natalia Voitsekhivska about the team - what they do, how they work and so on
 - [hackaton] figure out what to do about the hackaton - move first steps
 - [office] mark absence in the calendar and create an automated reply - vacation at the end of the month
