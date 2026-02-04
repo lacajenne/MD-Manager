@@ -5,10 +5,10 @@
 # todo - important
 - change system password
 - [Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO 
-- meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him
+- [SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
 - add stories to the boards (VMO and Swiss Knives)
-- arrange for recurring 1-on-1 meetings with all the Swiss Knives
-- list all Swiss Knives people and arrange 1-on-1 meeting with everyone
+- [SN] arrange for recurring 1-on-1 meetings with all the Swiss Knives
+- [SN] list all Swiss Knives people and arrange 1-on-1 meeting with everyone
 - [meeting] Mathias Hecht Alexander (cVation) - onboarding meeting
 - [TBA][meeting] meet Kateryna Zhebanova about the people in the team 
 - [chat] talk to Natalia Voitsekhivska about the team - what they do, how they work and so on
