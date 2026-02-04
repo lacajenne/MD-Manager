@@ -3,16 +3,16 @@
 > **Last Updated:** 2026-02-04
 
 # todo - important
-- change system password
+- [general] change system password
 - [Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO 
 - [SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
-- add stories to the boards (VMO and Swiss Knives)
+- [general] add stories to the boards (VMO and Swiss Knives)
 - [SN] arrange for recurring 1-on-1 meetings with all the Swiss Knives
 - [SN] list all Swiss Knives people and arrange 1-on-1 meeting with everyone
-- [meeting] Mathias Hecht Alexander (cVation) - onboarding meeting
-- [TBA][meeting] meet Kateryna Zhebanova about the people in the team 
-- [chat] talk to Natalia Voitsekhivska about the team - what they do, how they work and so on
-- [hackaton] figure out what to do about the hackaton - move first steps
+- [meeting] Mathias Hecht Alexander (cVation) - onboarding meeting [260211.10:30]
+- [TBA][meeting] meet Kateryna Zhebanova about the people in the team [20260206.13:30]
+- [chat] talk to Natalia Voitsekhivska about the team - what they do, how they work and so on [260212.14:00]
+- [hackaton] start thinking about a project
 - [office] mark absence in the calendar and create an automated reply - vacation at the end of the month
 - [office] Workday - contact Aleksandra about recording time - change picture
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
@@ -20,13 +20,14 @@
 # todo - normal
 - [Aleksandra] check the list of managers
 - [260216] meet Mykola in the office and support his onboarding
-- get to know Draw.io and Mermaid
+- [general] get to know Draw.io and Mermaid
 - [chat][Swiss Knives] meet all Swiss Knives 1-on-1
 - [chat][VMO] meet all managers 1-on-1
 
 # under way
 
 # done
+- [hackaton] figure out what to do about the hackaton - move first steps
 - [chat][Swiss Knives] meet Mykola Yevstihnieiev 
 - organize a meeting with Flo and Driss regarding maintenace, announcements, avoiding disruption of work
 - [Swiss Knives] standup
