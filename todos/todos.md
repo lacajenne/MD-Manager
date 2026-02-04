@@ -3,8 +3,9 @@
 > **Last Updated:** 2026-02-04
 
 # todo - important
+- [PD] follow discussion with Driss and Flo - provide support
 - [general] change system password
-- [Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO 
+- [Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
 - [SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
 - [general] add stories to the boards (VMO and Swiss Knives)
 - [SN] arrange for recurring 1-on-1 meetings with all the Swiss Knives
