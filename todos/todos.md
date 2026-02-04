@@ -3,7 +3,10 @@
 > **Last Updated:** 2026-02-04
 
 # todo - important
-- meeting with the Swiss Knives [260212.15:00] - prepare a Miro board
+- change system password
+- [Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO 
+- meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him
+- add stories to the boards (VMO and Swiss Knives)
 - arrange for recurring 1-on-1 meetings with all the Swiss Knives
 - list all Swiss Knives people and arrange 1-on-1 meeting with everyone
 - [meeting] Mathias Hecht Alexander (cVation) - onboarding meeting
@@ -15,6 +18,7 @@
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # todo - normal
+- [Aleksandra] check the list of managers
 - [260216] meet Mykola in the office and support his onboarding
 - get to know Draw.io and Mermaid
 - [chat][Swiss Knives] meet all Swiss Knives 1-on-1

@@ -1,4 +1,8 @@
-- prepare the Miro board for the ceremonies meeting 
-- Hackaton email on next steps
-- check managers file with Aleksandra
-- change password
+
+
+
+
+
+
+
+
