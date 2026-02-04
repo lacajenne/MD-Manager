@@ -1,32 +1,25 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-02-03
+> **Last Updated:** 2026-02-04
 
 # todo - important
+- arrange for a ceremonies meeting with the Swiss Knives - discussion - prepare a Miro board
 - list all Swiss Knives people and arrange 1-on-1 meeting with everyone
 - [meeting] Mathias Hecht Alexander (cVation) - onboarding meeting
 - [TBA][meeting] meet Kateryna Zhebanova about the people in the team 
 - [chat] talk to Natalia Voitsekhivska about the team - what they do, how they work and so on
 - [hackaton] figure out what to do about the hackaton - move first steps
 - [office] mark absence in the calendar and create an automated reply - vacation at the end of the month
-- [office] Workday - wait for update - contact Aleksandra about recording time
+- [office] Workday - contact Aleksandra about recording time - change picture
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # todo - normal
-- meet Mykola in the office and support his onboarding
-- get Draw.io 
-- [chat][VMO] meet Hanna
-- [chat][VMO] meet Artur
-- [chat][VMO] meet Richard
-- [chat][Swiss Knives] meet Felix Hvidtfeldt Larsen (external)
-- [chat][Swiss Knives] meet Marchus Pagh (external)
-- [chat][Swiss Knives] meet Matteo Christian Vogt (external)
-- [chat][Swiss Knives] meet Dmytro Pavlenko (external)
-- [chat][Swiss Knives] meet Chhitiz Shrestha
-- [chat][Swiss Knives] meet Mathias Hecht
+- [260216] meet Mykola in the office and support his onboarding
+- get to know Draw.io and Mermaid
+- [chat][Swiss Knives] meet all Swiss Knives 1-on-1
+- [chat][VMO] meet all managers 1-on-1
 
 # under way
-- [chat][Swiss Knives] meet Natalia Voitsekhviska 
 
 # done
 - [chat][Swiss Knives] meet Mykola Yevstihnieiev 
@@ -47,4 +40,5 @@
 - new background check (see email on 30/01)
 - [meeting][Artur Cybruch] QAN Active ETF Value Stream Map - Demo 
 - [chat][VMO] meet Dawid
+- [chat][Swiss Knives] meet Natalia Voitsekhviska 
 
