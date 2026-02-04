@@ -3,7 +3,8 @@
 > **Last Updated:** 2026-02-04
 
 # todo - important
-- arrange for a ceremonies meeting with the Swiss Knives - discussion - prepare a Miro board
+- meeting with the Swiss Knives [260212.15:00] - prepare a Miro board
+- arrange for recurring 1-on-1 meetings with all the Swiss Knives
 - list all Swiss Knives people and arrange 1-on-1 meeting with everyone
 - [meeting] Mathias Hecht Alexander (cVation) - onboarding meeting
 - [TBA][meeting] meet Kateryna Zhebanova about the people in the team 
