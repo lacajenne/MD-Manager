@@ -13,8 +13,11 @@ wave 2 - onboarding of value teams
 wave 3 - Standard Platform - 1 SN to 10 configurators 
 
 
+[16:55]
+Maybe we can define a timeline for these upgrades together. My understanding is that we want
 
-
+to announce them at least a few days in advance
+figure out how long they will take and whether we expect down time
 
 
 
