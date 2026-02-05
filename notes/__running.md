@@ -1,6 +1,17 @@
 
 [2026-02-05]
 
+[10:30]
+Chat with Dmytro Pavlenko. 10 years experience, with SimCorp since November. Works in Warsaw.
+Works in test automation mostly. Seems as skilled and confident as all others.
+Sees cVation as Site Reliability Engineers mostly.
+He finds the stress levels acceptable, the environment friendly.
+They are building a network of contacts and escalation paths appear to exist.
+I told him about my approach - that I will observe, that I know that the team is pretty independent already.
+I do not wish to change things in a top-down approach. I want to get there together with them, sharing vision and strategy
+from the company. The ceremonies we are going to implement are to be discussed within the team, and we want to reach a pragmatic agreement
+on whatever workd best.
+
 [09:45]
 Varun was hired in VS SC1 as Test Architect. No one knows what he is expected to do. 
 He was tasked to create a testing strategy. But there was a draft from the Swiss Knives that was approved by Paul.
