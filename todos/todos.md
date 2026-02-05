@@ -5,6 +5,7 @@
 # reminders 
 - follow Workday every day 
 - keep an eye on the salary review - need to be ready by the 6th of march
+- find a spot for the VMO fundamentals course on Flowtopia
 
 # todo - important
 - [Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
