@@ -2,12 +2,18 @@ Onboarding. With Aleksandra and Mathias Hecht Alexander.
 
 It takes a LONG time to onboard clients because of the existing silos.
 Smaller organizations are not willing to accept the high costs involved. 
+
 SimCorp is not even close to being able to deliver something that works out of the box.
+
 Silos have been broken at least on paper. 
+
 Value Streams are SimCorp One and Business Services, the latter having most focus on right now.
 It contains Managed Business Services - whose ambition is to offer "we are going to do everything for you".
 We want to standardize the basis we give to all customers.
+
 Customers follow the operations via regular reports. SimCorp takes care of the nitty-gritty details.  
+This is the goal of SimCorp One - a full service.
+
 SimCorp One is steadily growing. The SimCorp One is the place for all standard configurations, from many product areas.
 There are many configuration stakeholders working with SimCorp One, and they are NOT on the same page.
 - IOS are the ones most on board.
@@ -23,7 +29,7 @@ People are used to the silos and the associated way of working.
 - Regulatory service - they want to join SimCorp One but have problems with legacy clients.
 - DMS Value Team - issues with data standardization. This includes test data. That needs to be managed and mantained. 
 
-Swiss Knives are effective because of their experience in the Release Office, they have a deep understanding and knowledge of
+Swiss Knives are very effective because of their experience in the Release Office, they have a deep understanding and knowledge of
 what needs to be done when, wherem by whom. They have the right communication channels.
 
 Who is working with the SNs
@@ -33,3 +39,4 @@ Who is working with the SNs
     - XMGR, INS File Management (license files) 
 - Project Unicorn - the most pressured place in SimCorp - constantly on fire - they are not able to put it out - Seven Samurai team 
     - very difficult to get stuff done from them 
+    
