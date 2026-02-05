@@ -3,7 +3,6 @@
 > **Last Updated:** 2026-02-04
 
 # todo - important
-- [general] change system password
 - [Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
 - [SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
 - [general] add stories to the boards (VMO and Swiss Knives)
@@ -28,6 +27,7 @@
 - [PD] follow discussion with Driss and Flo - provide support - meeting [20260211.16:00]
 
 # done
+- [general] change system password
 - [hackaton] figure out what to do about the hackaton - move first steps
 - [chat][Swiss Knives] meet Mykola Yevstihnieiev 
 - organize a meeting with Flo and Driss regarding maintenace, announcements, avoiding disruption of work
