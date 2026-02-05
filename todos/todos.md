@@ -48,4 +48,3 @@
 - [meeting][Artur Cybruch] QAN Active ETF Value Stream Map - Demo 
 - [chat][VMO] meet Dawid
 - [chat][Swiss Knives] meet Natalia Voitsekhviska 
-

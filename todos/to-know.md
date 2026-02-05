@@ -1,4 +1,9 @@
 # open
+- Cockpit
+- Kobold - environment management
+- XMGR
+- Front Office 
+- Release Office
 - Standard Platform
 - Data Warehouse
 - IBOR

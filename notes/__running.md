@@ -1,6 +1,19 @@
 
 [2026-02-05]
 
+[11:00]
+Chat with Driss.
+SimCorp One going into Value Streams.
+There are people going to do front office configuration - new people involved in the whole workflow.
+Joining back and middle office in value streams - front office probably are not that mature
+Ryan started hiring people without being aware - or ignoring - what was aready happening.
+He was looking to hire people for front office when SNs are already covering the process E2E.
+He hired Varun - but it was not a good fit. A lot of confusion, a lot of time was spent onboarding him. 
+There was a strict hiring process and this hiring jumped over it completely - Varun does not have any of the mandatory knowledge.
+He is creating chaos and noise right and left inviting a lot of people that are not concerned - an agent of entropy.
+We need to stop this noise from the outside. 
+If he accepts to fully work as a Swiss Knife, the team is ready to accept him. 
+
 [10:30]
 Chat with Dmytro Pavlenko. 10 years experience, with SimCorp since November. Works in Warsaw.
 Works in test automation mostly. Seems as skilled and confident as all others.
@@ -23,11 +36,9 @@ He should be onboarded with the team, brought to the team and let him do what he
 Natalia and Driss wanted to talk with Ryan but apparently were not allowed.
 Varun seems to have the wrong compentences and aspirations.
 
-
 [09:30]
 Continuing onboarding and testing strategy discussions
 Following the topic with Driss and Florian, we have planned a meeting, going to figure out if other people need to be involved
-
 
 [09:00]
 unplanned work - reserving buffers for unplanned work
