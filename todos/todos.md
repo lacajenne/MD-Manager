@@ -3,7 +3,6 @@
 > **Last Updated:** 2026-02-04
 
 # todo - important
-- [PD] follow discussion with Driss and Flo - provide support
 - [general] change system password
 - [Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
 - [SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
@@ -26,6 +25,7 @@
 - [chat][VMO] meet all managers 1-on-1
 
 # under way
+- [PD] follow discussion with Driss and Flo - provide support - meeting [20260211.16:00]
 
 # done
 - [hackaton] figure out what to do about the hackaton - move first steps
