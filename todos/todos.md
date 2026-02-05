@@ -2,6 +2,10 @@
 
 > **Last Updated:** 2026-02-04
 
+# reminders 
+- follow Workday every day 
+- keep an eye on the salary review - need to be ready by the 6th of march
+
 # todo - important
 - [Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
 - [SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]

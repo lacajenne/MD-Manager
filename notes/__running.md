@@ -1,6 +1,30 @@
 
 [2026-02-05]
 
+[16:00]
+Salary Review 2026 - Tobias Sheppard
+
+- pay outcomes feel deeply personal to employees - can feel equally challenging for managers
+
+- there are a lot of sources of pressure: fainness, budget, performance data, morale, expectations... 
+    and the EU Pay Transparency requirements
+
+- annual salary review is a check point to validate employee compensation, considering performance along with positioning
+    within the pay range and against peers
+
+- approach - data driven
+- fairness principle - considering location, performance and position in the range (compa-ratio)
+- communication
+- practicalities 
+
+Learn about Compa Ratio - actual salary / mid range point
+
+High level principles
+market alignment - we benchmark with the technology sector but also consider financial services for some roles
+competitive positioning - total cash compensation is centered around market median to insure internal equity 
+pay fo performance
+
+
 [11:00]
 Chat with Driss.
 SimCorp One going into Value Streams.
