@@ -7,7 +7,6 @@
 - [SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
 - [general] add stories to the boards (VMO and Swiss Knives)
 - [SN] arrange for recurring 1-on-1 meetings with all the Swiss Knives
-- [SN] list all Swiss Knives people and arrange 1-on-1 meeting with everyone
 - [meeting] Mathias Hecht Alexander (cVation) - onboarding meeting [260211.10:30]
 - [TBA][meeting] meet Kateryna Zhebanova about the people in the team [20260206.13:30]
 - [chat] talk to Natalia Voitsekhivska about the team - what they do, how they work and so on [260212.14:00]

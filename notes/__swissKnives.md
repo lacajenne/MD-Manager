@@ -6,7 +6,7 @@ Swiss Knives
 - Chhitiz Shrestha #
 - Dmytro Pavlenko 
 - Driss Biya 
-- Felix Larsen (cVation) #
+- Felix Larsen (cVation) 
 - Kasper Fehrend (cVation) #
 - Marcus Pagh (cVation) # 
 - Mathias Hecht (cVation) # 
