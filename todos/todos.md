@@ -7,6 +7,7 @@
 - understand and implement Kanban with the SN - prepare a draft Miro board 
 - introduction to SN work items - figure out the stady state question with Driss and others
 - document on the SC1 ways of working - with the team - decide whether we want to restructure the channels
+- keep an eye on the team inputs and discuss them regularly with Aleksandra
 
 # reminders 
 - follow Workday every day 
@@ -16,6 +17,7 @@
 - [*] figure out exactly activities and themes around the SNs
 
 # todo - important
+- [general] use the Miro app
 - [*][SN][Aleksandra] share document on SC1 ways of working and present the idea to the team - it is open for collaboration
 - [*][Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
 - [SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
