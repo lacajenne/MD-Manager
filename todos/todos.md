@@ -2,13 +2,21 @@
 
 > **Last Updated:** 2026-02-04
 
+# current focus
+- testing strategy and placement of Varun
+- understand and implement Kanban with the SN - prepare a draft Miro board 
+- introduction to SN work items
+- document on the SC1 ways of working - with the team
+
 # reminders 
 - follow Workday every day 
+- [*] check VMO and Swiss Knives boards every day and keep them up-to-date
 - [*] keep an eye on the salary review - need to be ready by the 6th of march
 - find a spot for the VMO fundamentals course on Flowtopia
 - [*] figure out exactly activities and themes around the SNs
 
 # todo - important
+- [*][SN][Aleksandra] share document on SC1 ways of working and present the idea to the team - it is open for collaboration
 - [*][Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
 - [SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
 - [general] add stories to the boards (VMO and Swiss Knives)
