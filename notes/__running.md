@@ -1,6 +1,10 @@
 
 [2026-02-05]
 
+[13:45]
+Question for Driss.
+Hi! I am starting to build a picture in my head about the work of the Swiss Knives. I’d like to get a sense of where the Swiss Knives team stands at the moment: are you already in a normal operational rhythm, or are you still dealing with a higher share of urgent or temporary tasks while moving toward that steady‑state mode?
+
 [16:00]
 Salary Review 2026 - Tobias Sheppard
 
