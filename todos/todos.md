@@ -3,7 +3,7 @@
 > **Last Updated:** 2026-02-04
 
 # current focus
-- testing strategy and placement of Varun
+- testing strategy and placement of Varun - talk to Tommy and Ryan - Varun was hired as Front Office engineer - we need clarity around the role
 - understand and implement Kanban with the SN - prepare a draft Miro board 
 - introduction to SN work items
 - document on the SC1 ways of working - with the team - decide whether we want to restructure the channels
