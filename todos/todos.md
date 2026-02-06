@@ -17,6 +17,7 @@
 - [*] figure out exactly activities and themes around the SNs
 
 # todo - important
+- [SN] Input from Dmytro - discuss it with Aleksandra
 - [general] use the Miro app
 - [*][SN][Aleksandra] share document on SC1 ways of working and present the idea to the team - it is open for collaboration
 - [*][Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
