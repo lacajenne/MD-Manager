@@ -10,7 +10,7 @@ Swiss Knives
 - Kasper Fehrend (cVation) #
 - Marcus Pagh (cVation) # 
 - Mathias Hecht (cVation) # 
-- Matteo Christian Vogt (cVation) #
+- Matteo Christian Vogt (cVation) 
 - Mykola Yevstihnieiev 
 - Stefan Mayer 
 
