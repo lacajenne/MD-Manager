@@ -4,28 +4,27 @@
 
 # reminders 
 - follow Workday every day 
-- keep an eye on the salary review - need to be ready by the 6th of march
+- [*] keep an eye on the salary review - need to be ready by the 6th of march
 - find a spot for the VMO fundamentals course on Flowtopia
+- [*] figure out exactly activities and themes around the SNs
 
 # todo - important
-- [Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
+- [*][Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
 - [SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
 - [general] add stories to the boards (VMO and Swiss Knives)
-- [SN] arrange for recurring 1-on-1 meetings with all the Swiss Knives
+- [*][SN] arrange for recurring 1-on-1 meetings with all the Swiss Knives
 - [meeting] Mathias Hecht Alexander (cVation) - onboarding meeting [260211.10:30]
 - [TBA][meeting] meet Kateryna Zhebanova about the people in the team [20260206.13:30]
 - [chat] talk to Natalia Voitsekhivska about the team - what they do, how they work and so on [260212.14:00]
 - [hackaton] start thinking about a project
 - [office] mark absence in the calendar and create an automated reply - vacation at the end of the month
-- [office] Workday - contact Aleksandra about recording time - change picture
+- [*][office] Workday - contact Aleksandra about recording time - change picture
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
-
-# todo - normal
 - [Aleksandra] check the list of managers
 - [260216] meet Mykola in the office and support his onboarding
 - [general] get to know Draw.io and Mermaid
-- [chat][Swiss Knives] meet all Swiss Knives 1-on-1
-- [chat][VMO] meet all managers 1-on-1
+- [*][chat][Swiss Knives] meet all Swiss Knives 1-on-1
+- [*][chat][VMO] meet all managers 1-on-1
 
 # under way
 - [PD] follow discussion with Driss and Flo - provide support - meeting [20260211.16:00]
