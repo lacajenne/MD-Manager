@@ -6,7 +6,7 @@
 - testing strategy and placement of Varun
 - understand and implement Kanban with the SN - prepare a draft Miro board 
 - introduction to SN work items
-- document on the SC1 ways of working - with the team
+- document on the SC1 ways of working - with the team - decide whether we want to restructure the channels
 
 # reminders 
 - follow Workday every day 
