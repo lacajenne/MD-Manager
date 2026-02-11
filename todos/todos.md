@@ -1,12 +1,11 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-02-04
+> **Last Updated:** 2026-02-11
 
 # current focus
-- testing strategy and placement of Varun - talk to Tommy and Ryan - Varun was hired as Front Office engineer - we need clarity around the role
+- testing strategy and placement of Varun 
 - understand and implement Kanban with the SN - prepare a draft Miro board 
-- introduction to SN work items - figure out the stady state question with Driss and others
-- document on the SC1 ways of working - with the team - decide whether we want to restructure the channels
+- introduction to SN work items - work on the red pipeline issue
 - keep an eye on the team inputs and discuss them regularly with Aleksandra
 
 # reminders 
@@ -16,16 +15,12 @@
 - find a spot for the VMO fundamentals course on Flowtopia
 - [*] figure out exactly activities and themes around the SNs
 
-# todo - important
-- [SN] Input from Dmytro - discuss it with Aleksandra
+# todo 
+- [SN] discuss general ideas on the SN and establish focus and milestones with Aleksandra
 - [general] use the Miro app
-- [*][SN][Aleksandra] share document on SC1 ways of working and present the idea to the team - it is open for collaboration
 - [*][Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
 - [SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
-- [general] add stories to the boards (VMO and Swiss Knives)
 - [*][SN] arrange for recurring 1-on-1 meetings with all the Swiss Knives
-- [meeting] Mathias Hecht Alexander (cVation) - onboarding meeting [260211.10:30]
-- [TBA][meeting] meet Kateryna Zhebanova about the people in the team [20260206.13:30]
 - [chat] talk to Natalia Voitsekhivska about the team - what they do, how they work and so on [260212.14:00]
 - [hackaton] start thinking about a project
 - [office] mark absence in the calendar and create an automated reply - vacation at the end of the month
@@ -41,6 +36,8 @@
 - [PD] follow discussion with Driss and Flo - provide support - meeting [20260211.16:00]
 
 # done
+- [TBA][meeting] meet Kateryna Zhebanova about the people in the team [20260206.13:30]
+- [meeting] Mathias Hecht Alexander (cVation) - onboarding meeting [260211.10:30]
 - [general] change system password
 - [hackaton] figure out what to do about the hackaton - move first steps
 - [chat][Swiss Knives] meet Mykola Yevstihnieiev 

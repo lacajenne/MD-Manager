@@ -3,7 +3,7 @@ Swiss Knives
 
 # 1st 1-on-1 done
 
-- Chhitiz Shrestha #
+- Chhitiz Shrestha 
 - Dmytro Pavlenko 
 - Driss Biya 
 - Felix Larsen (cVation) 
