@@ -16,6 +16,7 @@
 - [*] figure out exactly activities and themes around the SNs
 
 # todo 
+- [*][SN][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
 - [*][SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
 - [*][office] Workday - contact Aleksandra about recording time - change picture
 - [*][SN] discuss general ideas on the SN and establish focus and milestones with Aleksandra

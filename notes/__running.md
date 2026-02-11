@@ -7,6 +7,9 @@ DMS Value Stream should be responsible for DM Core upgrades in the standard envi
 26.01 upgrade for SimCorp Dimension will require DM Core to be upgraded too.
 Platform people are responsible for deployments.
 
+We want to talk to the DMS Value Stream to see how they are going to manage this in the future.
+And see who else should be involved.
+
 =====================================================================================================================================================
 
 [2026-02-05]
