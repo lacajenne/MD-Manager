@@ -16,7 +16,7 @@
 - [*] figure out exactly activities and themes around the SNs
 
 # todo 
-- [*] apply to become an approver for access packages - https://dev.azure.com/SimCorpCloud/Service%20Release%20Office/_wiki/wikis/Service-Release-Office/112895/Guide-for-approvers
+- [*] APs - apply to become an ap-ios-approver for all clients - https://dev.azure.com/SimCorpCloud/Service%20Release%20Office/_wiki/wikis/Service-Release-Office/112895/Guide-for-approvers
 - [*][SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
 - [*][office] Workday - contact Aleksandra about recording time - change picture
 - [*][SN] discuss general ideas on the SN and establish focus and milestones with Aleksandra
@@ -35,6 +35,8 @@
 - [PD] follow discussion with Driss and Flo - provide support - meeting [20260211.16:00]
 
 # done
+- [SN] request AP account-manager for sppdsc1t, srodev
+- [SN] request AP ap-ios-approvers for ardea, axafr, intch, itl, qam
 - [office] mark absence in the calendar and create an automated reply - vacation at the end of the month
 - [TBA][meeting] meet Kateryna Zhebanova about the people in the team [20260206.13:30]
 - [meeting] Mathias Hecht Alexander (cVation) - onboarding meeting [260211.10:30]
