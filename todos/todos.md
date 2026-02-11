@@ -16,6 +16,7 @@
 - [*] figure out exactly activities and themes around the SNs
 
 # todo 
+- [*] apply to become an approver for access packages - https://dev.azure.com/SimCorpCloud/Service%20Release%20Office/_wiki/wikis/Service-Release-Office/112895/Guide-for-approvers
 - [*][SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
 - [*][office] Workday - contact Aleksandra about recording time - change picture
 - [*][SN] discuss general ideas on the SN and establish focus and milestones with Aleksandra
