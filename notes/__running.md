@@ -1,6 +1,14 @@
 
 [2026-02-12]
 
+[14:00]
+Natalia Voitsekhivska
+SimCorp Dimension Academy - something to sign in to - check with Aleksandra
+
+We do not have people for the execution of the Front Office tests.
+Apparently Varun was promised to have a team. 
+
+
 [10:30]
 
 VMO Planning priorities
