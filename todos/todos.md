@@ -29,12 +29,12 @@
 - [general] use the Miro app
 
 # under way
-- [chat] talk to Natalia Voitsekhivska about the team - what they do, how they work and so on [260212.14:00]
 - [*][SN] book Driss for an introduction to the SN testing framework
 - [*][SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
 - [*][chat][Swiss Knives] meet all Swiss Knives 1-on-1
 
 # done
+- [chat] talk to Natalia Voitsekhivska about the team - what they do, how they work and so on [260212.14:00]
 - [PD] follow discussion with Driss and Flo - provide support - meeting [20260211.16:00]
 - [SN] request AP account-manager for sppdsc1t, srodev, sppd
 - [SN] request AP ap-ios-approvers for ardea, axafr, intch, itl, qam
