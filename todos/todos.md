@@ -35,7 +35,7 @@
 
 # done
 - [PD] follow discussion with Driss and Flo - provide support - meeting [20260211.16:00]
-- [SN] request AP account-manager for sppdsc1t, srodev
+- [SN] request AP account-manager for sppdsc1t, srodev, sppd
 - [SN] request AP ap-ios-approvers for ardea, axafr, intch, itl, qam
 - [office] mark absence in the calendar and create an automated reply - vacation at the end of the month
 - [TBA][meeting] meet Kateryna Zhebanova about the people in the team [20260206.13:30]
