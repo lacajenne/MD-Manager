@@ -16,6 +16,8 @@
 - figure out exactly activities and themes around the SNs
 
 # todo 
+- [*][SN] discuss findings on Kanban
+- [*][SN] give access to Miro board to all team members and setup a recurrent retrospective (bi-weekly for now) - consider DevOps as retro tool
 - [*][SN][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
 - [*][office] Workday - contact Aleksandra about recording time and absence management (for me and others) - change the picture
 - [*][SN] discuss general ideas on the SN and establish focus and milestones with Aleksandra
