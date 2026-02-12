@@ -16,11 +16,11 @@
 - figure out exactly activities and themes around the SNs
 
 # todo 
-- [*][SN] discuss findings on Kanban
+- [*][SN] discuss findings on Kanban with Aleksandra
+- [*][SN] discuss general ideas on the SN and establish focus and milestones with Aleksandra
 - [*][SN] give access to Miro board to all team members and setup a recurrent retrospective (bi-weekly for now) - consider DevOps as retro tool
 - [*][SN][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
 - [*][office] Workday - contact Aleksandra about recording time and absence management (for me and others) - change the picture
-- [*][SN] discuss general ideas on the SN and establish focus and milestones with Aleksandra
 - [*][Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
 - [*][chat][VMO] meet all managers 1-on-1
 - [*][SN] arrange for recurring 1-on-1 meetings with all the Swiss Knives
@@ -32,10 +32,10 @@
 
 # under way
 - [*][SN] book Driss for an introduction to the SN testing framework
-- [*][SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
 - [*][chat][Swiss Knives] meet all Swiss Knives 1-on-1
 
 # done
+- [*][SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
 - [chat] talk to Natalia Voitsekhivska about the team - what they do, how they work and so on [260212.14:00]
 - [PD] follow discussion with Driss and Flo - provide support - meeting [20260211.16:00]
 - [SN] request AP account-manager for sppdsc1t, srodev, sppd
