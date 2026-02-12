@@ -10,28 +10,29 @@
 
 # reminders 
 - follow Workday every day 
-- [*] check VMO and Swiss Knives boards every day and keep them up-to-date
-- [*] keep an eye on the salary review - need to be ready by the 6th of march
+- check VMO and Swiss Knives boards every day and keep them up-to-date
+- keep an eye on the salary review - need to be ready by the 6th of march
 - find a spot for the VMO fundamentals course on Flowtopia
-- [*] figure out exactly activities and themes around the SNs
+- figure out exactly activities and themes around the SNs
 
 # todo 
 - [*][SN][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
-- [*][SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
-- [*][office] Workday - contact Aleksandra about recording time - change picture
+- [*][office] Workday - contact Aleksandra about recording time and absence management (for me and others) - change the picture
 - [*][SN] discuss general ideas on the SN and establish focus and milestones with Aleksandra
 - [*][Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
-- [*][chat][Swiss Knives] meet all Swiss Knives 1-on-1
 - [*][chat][VMO] meet all managers 1-on-1
 - [*][SN] arrange for recurring 1-on-1 meetings with all the Swiss Knives
 - [260216] meet Mykola in the office and support his onboarding
-- [chat] talk to Natalia Voitsekhivska about the team - what they do, how they work and so on [260212.14:00]
 - [hackaton] start thinking about a project
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [Aleksandra] check the list of managers
 - [general] use the Miro app
 
 # under way
+- [chat] talk to Natalia Voitsekhivska about the team - what they do, how they work and so on [260212.14:00]
+- [*][SN] book Driss for an introduction to the SN testing framework
+- [*][SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
+- [*][chat][Swiss Knives] meet all Swiss Knives 1-on-1
 
 # done
 - [PD] follow discussion with Driss and Flo - provide support - meeting [20260211.16:00]
