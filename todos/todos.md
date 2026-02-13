@@ -17,8 +17,9 @@
 - figure out exactly activities and themes around the SNs
 
 # todo 
-- [*][SN] support Chhitiz on his parental leave - ask Bettina 
-- [*][SN][260216.13:00] check Workday items from Kateryna with Aleksandra
+- [*][SN] support Chhitiz on his parental leave - ask Bettina - use Help Center if necessary - C. should be able to enter it himself into Workday
+- [*][SN][260216.13:00] check Workday items from Kateryna with Aleksandra - CLARIFY "Stay within 95% of your total budget"
+- [*][SN][260216.13:00] discuss Hackathon and Poland trip with Aleksandra
 - [*][SN][260216] replacement of Felix - with Aleksandra - see email - Henrik Palm
 - [SN][260216] meet Mykola in the office and support his onboarding
 - [*][SN] discuss findings on Kanban with Aleksandra
@@ -28,7 +29,6 @@
 - [*][Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
 - [*][chat][VMO] meet all managers 1-on-1
 - [*][SN] arrange for recurring 1-on-1 meetings with all the Swiss Knives
-- [hackaton] start thinking about a project
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [Aleksandra] check the list of managers
 - [general] use the Miro app
