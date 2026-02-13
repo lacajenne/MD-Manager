@@ -17,6 +17,7 @@
 - figure out exactly activities and themes around the SNs
 
 # todo 
+- [Workday] A Task Awaits You: Propose Employee Award for Technical Enablement 
 - [*][SN] support Chhitiz on his parental leave - ask Bettina - use Help Center if necessary - C. should be able to enter it himself into Workday
 - [*][SN][260216.13:00] check Workday items from Kateryna with Aleksandra - CLARIFY "Stay within 95% of your total budget"
 - [*][SN][260216.13:00] discuss Hackathon and Poland trip with Aleksandra
