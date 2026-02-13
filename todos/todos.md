@@ -10,6 +10,7 @@
 - keep an eye on the team inputs and discuss them regularly with Aleksandra
 
 # reminders 
+- check the Pending folder in Outlook
 - follow Workday every day 
 - check VMO and Swiss Knives boards every day and keep them up-to-date
 - keep an eye on the salary review - need to be ready by the 6th of march
