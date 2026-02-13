@@ -1,4 +1,16 @@
 
+
+[2026-02-13]
+
+[09:30]
+- involvement with the testing strategy - and getting to know the testing framework
+- does Varun belong to a team?
+- Kanban related
+- completing handover
+- Pink Elephant work
+
+=====================================================================================================================================================
+
 [2026-02-12]
 
 [14:00]
