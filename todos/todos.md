@@ -17,6 +17,8 @@
 - figure out exactly activities and themes around the SNs
 
 # todo 
+- [*][SN] support Chhitiz on his parental leave - ask Bettina 
+- [*][SN][260216.13:00] check Workday items from Kateryna with Aleksandra
 - [*][SN][260216] replacement of Felix - with Aleksandra - see email - Henrik Palm
 - [SN][260216] meet Mykola in the office and support his onboarding
 - [*][SN] discuss findings on Kanban with Aleksandra
@@ -30,6 +32,7 @@
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [Aleksandra] check the list of managers
 - [general] use the Miro app
+- [*][SN][260525] check contract status for Dmytro Pavlenko 
 
 # under way
 - [*][SN] give full access to Miro board to all SNs and setup a recurrent retrospective (bi-weekly for now) - consider DevOps as retro tool - ITSD-51668 
