@@ -19,7 +19,6 @@
 
 # todo 
 - [Workday] A Task Awaits You: Propose Employee Award for Technical Enablement 
-- [*][SN] support Chhitiz on his parental leave - ask Bettina - use Help Center if necessary - C. should be able to enter it himself into Workday
 - [*][SN][260216.13:00] check Workday items from Kateryna with Aleksandra - CLARIFY "Stay within 95% of your total budget"
 - [*][SN][260216.13:00] discuss Hackathon and Poland trip with Aleksandra
 - [*][SN][260216] replacement of Felix - with Aleksandra - see email - Henrik Palm
@@ -37,6 +36,7 @@
 - [*][SN][260525] check contract status for Dmytro Pavlenko 
 
 # under way
+- [*][SN] support Chhitiz on his parental leave - discuss with Aleksandra to be sure we are aligned - two weeks in march and then August+September
 - [*][SN] give full access to Miro board to all SNs and setup a recurrent retrospective (bi-weekly for now) - consider DevOps as retro tool - ITSD-51668 
 - [*][chat][Swiss Knives] meet all Swiss Knives 1-on-1
 
