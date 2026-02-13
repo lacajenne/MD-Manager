@@ -3,8 +3,9 @@
 > **Last Updated:** 2026-02-13
 
 # current focus
-- testing strategy and placement of Varun 
-- understand and implement Kanban with the SN - prepare a draft Miro board 
+- testing strategy - placement of Varun - intro to the testing framework 
+- replacement of Felix
+- Kanban implementation with the SN - work on the emerging themes 
 - introduction to SN work items - work on the red pipeline issue
 - keep an eye on the team inputs and discuss them regularly with Aleksandra
 
@@ -12,16 +13,16 @@
 - follow Workday every day 
 - check VMO and Swiss Knives boards every day and keep them up-to-date
 - keep an eye on the salary review - need to be ready by the 6th of march
-- find a spot for the VMO fundamentals course on Flowtopia
+- find regular spots for the VMO fundamentals course on Flowtopia
 - figure out exactly activities and themes around the SNs
 
 # todo 
-- [*][SN][260216] discuss the replacement of Felix with Aleksandra - see email
+- [*][SN][260216] replacement of Felix - with Aleksandra - see email - Henrik Palm
 - [SN][260216] meet Mykola in the office and support his onboarding
 - [*][SN] discuss findings on Kanban with Aleksandra
-- [*][SN] discuss general ideas on the SN and establish focus and milestones with Aleksandra
+- [*][SN][Aleksandra] discuss the SN themes and establish focus and milestones
 - [*][SN][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
-- [*][office] Workday - contact Aleksandra about recording time and absence management (for me and others) - change the picture
+- [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
 - [*][Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
 - [*][chat][VMO] meet all managers 1-on-1
 - [*][SN] arrange for recurring 1-on-1 meetings with all the Swiss Knives
@@ -31,7 +32,7 @@
 - [general] use the Miro app
 
 # under way
-- [*][SN] give full access to Miro board to all SNs and setup a recurrent retrospective (bi-weekly for now) - consider DevOps as retro tool
+- [*][SN] give full access to Miro board to all SNs and setup a recurrent retrospective (bi-weekly for now) - consider DevOps as retro tool - ITSD-51668 
 - [*][chat][Swiss Knives] meet all Swiss Knives 1-on-1
 
 # done
