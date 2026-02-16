@@ -17,8 +17,8 @@
 - complete salary review - need to be ready by the 6th of march - check status of Dmytro Pavlenko by end of May
 - find regular spots for the VMO fundamentals course on Flowtopia
 
-
 # todo 
+- [Pink Elephant] discuss DM Core release test plan contribution from Pink Elephant
 - [*][Aleksandra] introduce myself to the stakeholders (use and update Miro board)
 - [*][Driss][Aleksandra] follow question raised by Aleksandra on Standard Platform - related testing 
 - [Workday] A Task Awaits You: Propose Employee Award for Technical Enablement 
