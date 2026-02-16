@@ -14,3 +14,6 @@
 - kanban findings
 
 - testing strategy
+
+- vacation days in summer
+
