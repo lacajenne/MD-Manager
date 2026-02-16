@@ -18,6 +18,8 @@
 
 
 # todo 
+- [*][Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
+- [*][Driss][Aleksandra] follow question raised by Aleksandra on Standard Platform - related testing 
 - [Workday] A Task Awaits You: Propose Employee Award for Technical Enablement 
 - [*][SN][260216.13:00] check Workday items from Kateryna with Aleksandra - CLARIFY "Stay within 95% of your total budget"
 - [*][SN][260216.13:00] discuss Hackathon and Poland trip with Aleksandra
@@ -26,7 +28,6 @@
 - [*][SN][Aleksandra] discuss the SN themes and establish focus and milestones
 - [*][SN][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
 - [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
-- [*][Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
 - [*][chat][VMO] meet all managers 1-on-1
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [Aleksandra] check the list of managers
