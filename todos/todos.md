@@ -3,13 +3,13 @@
 > **Last Updated:** 2026-02-16
 
 # current focus
+- promotion for Driss
 - testing strategy - placement of Varun - intro to the testing framework 
 - replacement of Felix with Henrik Palm - Workday status of both
 - discuss Kanban themes with Artur 
 - Swiss Knives - understand where the tasks are coming from - how actual replenishment is done 
 - Swiss Knives - work on the red pipeline issue
 - Swiss Knives - get a better DevOps board - realistic - prioritized
-- keep an eye on the team inputs and discuss them regularly with Aleksandra
 
 # reminders 
 - check the Pending folder in Outlook
@@ -33,9 +33,9 @@
     - both Felix and Henrik must have their data correct in Workday
 - [Pink Elephant] discuss DM Core release test plan contribution from Pink Elephant
 - [Workday] A Task Awaits You: Propose Employee Award for Technical Enablement 
-- [*][SK][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
+- [SK][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
-- [*][SK][260525] check contract status for Dmytro Pavlenko 
+- [SK][260525] check contract status for Dmytro Pavlenko 
 
 # under way
 - [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
