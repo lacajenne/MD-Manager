@@ -23,9 +23,6 @@ Hi - I have this question from Tomasz Pastuszka who is one of the stakeholders f
 "Dear All - I am interested in understanding where the whole Test Automation topic is now - perhaps we can discuss this next Tuesday if anyone here can provide an update? I can see teams are getting more and more serious about working in SC1DEV but the engineers/configurators are still not supported with regards to being able to run automatic tests of their work and no update was yet provided on this through general channel as far as I noticed."
 this is about a topic related to movement from Standard Platform to SC1 environments. In SP, there were some automated tests running and I am pretty sure that Tina was exploring with SK the possibilities to (re)use them, but I am not sure if this was pursued further, abandoned, evolved... so we need some updates... and - we need to find a way to track these topics somehow (ideally from DevOps)
 
- 
-
-
 =====================================================================================================================================================
 
 [2026-02-13]
@@ -49,7 +46,6 @@ Apparently Varun was promised to have a team.
 
 
 [10:30]
-
 VMO Planning priorities
 1- Urgent (Unplanned) - up to 2 weeks + requests from LT
 2- Un-/Planned activities with deadline or high impact on other teams- up to 4 weeks
@@ -103,7 +99,6 @@ High level principles
 market alignment - we benchmark with the technology sector but also consider financial services for some roles
 competitive positioning - total cash compensation is centered around market median to insure internal equity 
 pay fo performance
-
 
 [11:00]
 Chat with Driss.
@@ -171,5 +166,4 @@ Mathias Hecht Alexander
 wave 1 - the start - 1 SN to 2 configurators
 wave 2 - onboarding of value teams
 wave 3 - Standard Platform - 1 SN to 10 configurators 
-
 
