@@ -11,6 +11,8 @@
 
 - is the current workload compatible with a continuous improvement approach?
 
+- once the devops/kanban situation is more stable, we might want more ceremonies
+
 
 
 
