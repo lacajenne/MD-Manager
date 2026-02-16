@@ -2,7 +2,7 @@ Cockpit is the platform to manage and configure environments.
 Kobold is the tool to deploy environments and create access packages for them.
 SPPD is the cloud standardization tenant. Each customer has its own tenant.
 
-Environments SN work on: SRODEV, SC1TEST, SC1GOLD
+Environments SK work on: SRODEV, SC1TEST, SC1GOLD
 
 At this point most management of the infrastructure for SC1 standard environments itself is being taken care of by Maciej Chojka and POE team. We help coordinate downtime and act as first level of support when issues/errors occur. 
  

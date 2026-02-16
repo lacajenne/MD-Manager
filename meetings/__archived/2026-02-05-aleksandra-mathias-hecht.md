@@ -32,7 +32,7 @@ People are used to the silos and the associated way of working.
 Swiss Knives are very effective because of their experience in the Release Office, they have a deep understanding and knowledge of
 what needs to be done when, wherem by whom. They have the right communication channels.
 
-Who is working with the SNs
+Who is working with the SKs
 - CDS - Configuration Deployment Service - CDMS 2.0 (XMGR & PS scripts) - high bus factor - Devid 
 - AMS (Cloud Support, Platform Operation Excellence) - they know very well how to keep an SCD environment alive
 - Platform - a difficult collaboration - they struggle to prioritize - remaining political battles are to be expected here

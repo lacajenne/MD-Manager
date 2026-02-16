@@ -2,6 +2,10 @@
 
 [2026-02-16]
 
+[16:30]
+What tasks are coming to the team? From where? Are they in the scope of SK?
+Same question about Felix. Is he the only one who can do what he is doing?
+
 [13:30]
 Notes from Natalya V.
 
@@ -10,7 +14,7 @@ Felix is going to be replaced
 	in case configurator requests keep coming they should be redirected to the CDS team
 	ideally he should be replaced by some simcorp internal or someone who is shadowed by a simcorp internal
 	
-we had apparently a bi-weekly review that was cancelled, between SN and their stakeholders
+we had apparently a bi-weekly review that was cancelled, between SK and their stakeholders
 	we are expected to reiterate again, maybe on a monthly basis
 	
 [11:00]
@@ -106,7 +110,7 @@ SimCorp One going into Value Streams.
 There are people going to do front office configuration - new people involved in the whole workflow.
 Joining back and middle office in value streams - front office probably are not that mature
 Ryan started hiring people without being aware - or ignoring - what was aready happening.
-He was looking to hire people for front office when SNs are already covering the process E2E.
+He was looking to hire people for front office when SKs are already covering the process E2E.
 He hired Varun - but it was not a good fit. A lot of confusion, a lot of time was spent onboarding him. 
 There was a strict hiring process and this hiring jumped over it completely - Varun does not have any of the mandatory knowledge.
 He is creating chaos and noise right and left inviting a lot of people that are not concerned - an agent of entropy.
@@ -127,11 +131,11 @@ on whatever workd best.
 [09:45]
 Varun was hired in VS SC1 as Test Architect. No one knows what he is expected to do. 
 He was tasked to create a testing strategy. But there was a draft from the Swiss Knives that was approved by Paul.
-Whatever happend with Varun - he has not the knowledge [Driss] - and SNs are already working on it.
+Whatever happend with Varun - he has not the knowledge [Driss] - and SKs are already working on it.
 We have a conflict. Discuss with Aleksandra. He came and did not find anything to do because there was already a framework 
     - he volunteered for a testing strategy.
 There was apparently an issue in communication.
-He should be onboarded with the team, brought to the team and let him do what he wants under the umbrella of SN.
+He should be onboarded with the team, brought to the team and let him do what he wants under the umbrella of SK.
 Natalia and Driss wanted to talk with Ryan but apparently were not allowed.
 Varun seems to have the wrong compentences and aspirations.
 
@@ -157,13 +161,13 @@ figure out how long they will take and whether we expect down time
 
 
 [13:30]
-A lot of topics are covered by cVation people in SN.
+A lot of topics are covered by cVation people in SK.
 Swiss Knives were supposed to be temporary but have become a long term thing.
-Workload keeps increasing - SNs are working to empower people - but even with this approach, SN need to grow.
+Workload keeps increasing - SKs are working to empower people - but even with this approach, SK need to grow.
 The amount of stuff to be tested is also rapidly increasing and might explode suddenly.
 
 Mathias Hecht Alexander
-wave 1 - the start - 1 SN to 2 configurators
+wave 1 - the start - 1 SK to 2 configurators
 wave 2 - onboarding of value teams
-wave 3 - Standard Platform - 1 SN to 10 configurators 
+wave 3 - Standard Platform - 1 SK to 10 configurators 
 
