@@ -11,11 +11,13 @@
 
 - Workday and time recording
 
-- Driss - promotion 
+- Driss - promotion - deadline 24/02? - CLARIFY "Stay within 95% of your total budget"
 
 - kanban findings
 
 - testing strategy
+
+- time management in Workday - change the picture (who can?)
 
 - vacation days in summer - last week of July and first 10 days of August
 

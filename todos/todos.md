@@ -5,8 +5,9 @@
 # current focus
 - testing strategy - placement of Varun - intro to the testing framework 
 - replacement of Felix
-- Kanban implementation with the SN - work on the emerging themes 
-- introduction to SN work items - work on the red pipeline issue
+- Kanban implementation with the SN - work on the emerging themes - converge on a working approach
+- Swiss Knives - work on the red pipeline issue
+- Swiss Knives - get a better DevOps board - realistic - prioritized
 - keep an eye on the team inputs and discuss them regularly with Aleksandra
 
 # reminders 
@@ -14,34 +15,31 @@
 - follow Workday every day 
 - check VMO and Swiss Knives boards every day and keep them up-to-date
 - check the one-on-one calendar of the Swiss Knives
-- complete salary review - need to be ready by the 6th of march - check status of Dmytro Pavlenko by end of May
+- salary reviews - deadline on February 24th - check status of Dmytro Pavlenko by end of May
 - find regular spots for the VMO fundamentals course on Flowtopia
 
 # todo 
 - [Pink Elephant] discuss DM Core release test plan contribution from Pink Elephant
-- [*][Aleksandra] introduce myself to the stakeholders (use and update Miro board)
 - [*][Driss][Aleksandra] follow question raised by Aleksandra on Standard Platform - related testing 
 - [Workday] A Task Awaits You: Propose Employee Award for Technical Enablement 
-- [*][SN][260216.13:00] check Workday items from Kateryna with Aleksandra - CLARIFY "Stay within 95% of your total budget"
-- [*][SN][260216.13:00] discuss Hackathon and Poland trip with Aleksandra
 - [*][SN][260216] replacement of Felix - with Aleksandra - see email - Henrik Palm
-- [*][SN] discuss findings on Kanban with Aleksandra
 - [*][SN][Aleksandra] discuss the SN themes and establish focus and milestones
 - [*][SN][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
 - [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
-- [*][chat][VMO] meet all managers 1-on-1
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
-- [Aleksandra] check the list of managers
-- [general] use the Miro app
 - [*][SN][260525] check contract status for Dmytro Pavlenko 
 
 # under way
+- [*][SN] discuss findings on Kanban with Aleksandra
+- [*][Aleksandra] introduce myself to the stakeholders (use and update Miro board)
 - [SN][260216] meet Mykola in the office and support his onboarding
 - [*][SN] support Chhitiz on his parental leave - discuss with Aleksandra to be sure we are aligned - two weeks in march and then August+September
 - [*][SN] give full access to Miro board to all SNs and setup a recurrent retrospective (bi-weekly for now) - consider DevOps as retro tool - ITSD-51668 
 - [*][SN] arrange for recurring 1-on-1 meetings with all the Swiss Knives
 
 # done
+- [*][SN][260216.13:00] discuss Hackathon and Poland trip with Aleksandra
+- [*][SN][260216.13:00] check Workday items from Kateryna with Aleksandra 
 - [*][SN] book Driss for an introduction to the SN testing framework
 - [*][SN] meeting with the Swiss Knives [260212.15:00] - prepare a Miro board - meet Artur and get inputs from him [260206.10:30]
 - [chat] talk to Natalia Voitsekhivska about the team - what they do, how they work and so on [260212.14:00]
