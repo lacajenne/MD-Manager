@@ -32,12 +32,12 @@
 # under way
 - [*][SN] discuss findings on Kanban with Aleksandra
 - [*][Aleksandra] introduce myself to the stakeholders (use and update Miro board)
-- [SN][260216] meet Mykola in the office and support his onboarding
 - [*][SN] support Chhitiz on his parental leave - discuss with Aleksandra to be sure we are aligned - two weeks in march and then August+September
 - [*][SN] give full access to Miro board to all SNs and setup a recurrent retrospective (bi-weekly for now) - consider DevOps as retro tool - ITSD-51668 
-- [*][SN] arrange for recurring 1-on-1 meetings with all the Swiss Knives
 
 # done
+- [SN][260216] meet Mykola in the office and support his onboarding
+- [*][SN] arrange for recurring 1-on-1 meetings with all the Swiss Knives
 - [*][SN][260216.13:00] discuss Hackathon and Poland trip with Aleksandra
 - [*][SN][260216.13:00] check Workday items from Kateryna with Aleksandra 
 - [*][SN] book Driss for an introduction to the SN testing framework
