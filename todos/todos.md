@@ -28,7 +28,6 @@
 - [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
 - [*][Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
 - [*][chat][VMO] meet all managers 1-on-1
-- [*][SN] arrange for recurring 1-on-1 meetings with all the Swiss Knives
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [Aleksandra] check the list of managers
 - [general] use the Miro app
@@ -38,7 +37,7 @@
 - [SN][260216] meet Mykola in the office and support his onboarding
 - [*][SN] support Chhitiz on his parental leave - discuss with Aleksandra to be sure we are aligned - two weeks in march and then August+September
 - [*][SN] give full access to Miro board to all SNs and setup a recurrent retrospective (bi-weekly for now) - consider DevOps as retro tool - ITSD-51668 
-- [*][chat][Swiss Knives] meet all Swiss Knives 1-on-1
+- [*][SN] arrange for recurring 1-on-1 meetings with all the Swiss Knives
 
 # done
 - [*][SN] book Driss for an introduction to the SN testing framework

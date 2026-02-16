@@ -12,8 +12,6 @@ Mykola is being moved to Vienna
 
 Stefan - nothing for now
 
-Chhitiz - parental leave - when? - set it up in Workday - talk to Bettina - C. should be able to enter it himself into Workday
-
 Stefan and Chhitiz are not working in the SimCorp office because it was agreed that they work at cVation
 
 To get support on Workday, go to the Help Center and then "Ask People Service"
