@@ -13,12 +13,13 @@
 - check the Pending folder in Outlook
 - follow Workday every day 
 - check VMO and Swiss Knives boards every day and keep them up-to-date
+- check the one-on-one calendar of the Swiss Knives
 - complete salary review - need to be ready by the 6th of march - check status of Dmytro Pavlenko by end of May
 - find regular spots for the VMO fundamentals course on Flowtopia
 
 
 # todo 
-- [*][Aleksandra] introduce myself to the people in PD and Platform we interact with as VMO - remind Aleksandra
+- [*][Aleksandra] introduce myself to the stakeholders (use and update Miro board)
 - [*][Driss][Aleksandra] follow question raised by Aleksandra on Standard Platform - related testing 
 - [Workday] A Task Awaits You: Propose Employee Award for Technical Enablement 
 - [*][SN][260216.13:00] check Workday items from Kateryna with Aleksandra - CLARIFY "Stay within 95% of your total budget"

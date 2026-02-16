@@ -2,7 +2,18 @@
 
 [2026-02-16]
 
+[11:00]
 
+From Aleksandra for Driss
+
+Hi! I just got these messages from Aleksandra - let us discuss it when you are back 
+ 
+ 
+Hi - I have this question from Tomasz Pastuszka who is one of the stakeholders from PD application areas that are moving into SC1 environments. I need us to prepare an answer to this for tomorrow afternoon:
+"Dear All - I am interested in understanding where the whole Test Automation topic is now - perhaps we can discuss this next Tuesday if anyone here can provide an update? I can see teams are getting more and more serious about working in SC1DEV but the engineers/configurators are still not supported with regards to being able to run automatic tests of their work and no update was yet provided on this through general channel as far as I noticed."
+this is about a topic related to movement from Standard Platform to SC1 environments. In SP, there were some automated tests running and I am pretty sure that Tina was exploring with SK the possibilities to (re)use them, but I am not sure if this was pursued further, abandoned, evolved... so we need some updates... and - we need to find a way to track these topics somehow (ideally from DevOps)
+
+ 
 
 
 =====================================================================================================================================================
