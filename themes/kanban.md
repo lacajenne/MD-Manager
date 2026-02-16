@@ -27,11 +27,15 @@ current state on 12/02/2026
 - the idea of pairing up on tasks to support the sharing of knowledge is accepted but is faced with practical difficulties - we are not there yet
 
 
-Extra notes:
-- Aleksandra and I need to figure out if the Swiss Knives is on a positive trajectory - are we sustainable and scalable?
-- there is apparently some ongoing attempt to make solution reusable, but it is not clear how effective it is
+Extra notes
+
+- need to figure out whether the Swiss Knives is on a positive trajectory - are we sustainable and scalable?
+
 - I can accept the limitation on tooling as a constraint but we need to find a way to work around the limitations it induces
     - the workaround of today is often the problem of tomorrow
     - behavior grows better before it grows worse
+
 - the cVation variable is part of what we need to figure out
+
 - do we have feedback loops in place? 
+
