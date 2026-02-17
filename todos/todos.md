@@ -21,6 +21,16 @@
 - salary reviews - deadline on February 24th - check status of Dmytro Pavlenko by end of May
 - find regular spots for the VMO fundamentals course on Flowtopia
 
+# at a glance
+- Driss - promotion
+- testing stratergy
+- Chhitiz parental leave and vacation - Bettina
+- Felix - replacement - administration with Bettina
+- trade capture test coverage
+- workday - time recording and all that
+- exploratory testing audit and test on message import monitoring
+- Varun
+
 # todo 
 - [*][SK] follow the Varun situation
 - [*][BY:260317] mandatory training course: Artificial Intelligence - Essentials for Everyone - link under TEMP
