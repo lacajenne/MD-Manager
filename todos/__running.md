@@ -1,6 +1,30 @@
 
 [2026-02-17]
 
+
+Notes to document on "SC1 Test Strategy/Approach "
+
+#1 
+-"The SMBS..." -- make it more general, with an introduction such as "other teams..."
+- Mention what the responsibility entails? test collection, prioritization, implementation, maintenance... all of it
+
+#2 
+I would explain a bit better why E2E testing is the right thing to do here. Put it in clear relation with what is being tested.
+Mention the fact that other types of tests are covered somewhere else.
+
+#5
+"Only start automation..." -- not clear what it means here
+
+#6
+SC1TEST is dedicated to the testing and not to the development of tests.
+Test failures should be taken as indications of real issues. Relate to the desired stability of SC1TEST.
+Protected environment?
+
+Q&A
+Let us rephrase it together
+
+
+
 Feedback to Kateryna on the "missing autotests" -- investigate
 
 
