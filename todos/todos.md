@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-02-16
+> **Last Updated:** 2026-02-17
 
 # current focus
 - promotion for Driss
@@ -39,13 +39,13 @@
 
 # under way
 - [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
-- [*][Driss][Aleksandra] follow question raised by Aleksandra on Standard Platform - related testing 
-- [*][SK] discuss findings on Kanban with Aleksandra
 - [*][Aleksandra] introduce myself to the stakeholders (use and update Miro board)
 - [*][SK] support Chhitiz on his parental leave - discuss with Aleksandra to be sure we are aligned - two weeks in march and then August+September
 - [*][SK] give full access to Miro board to all SKs and setup a recurrent retrospective (bi-weekly for now) - consider DevOps as retro tool - ITSD-51668 
 
 # done
+- [*][Driss][Aleksandra] follow question raised by Aleksandra on Standard Platform - related testing 
+- [*][SK] discuss findings on Kanban with Aleksandra
 - [*][SK][Aleksandra] discuss the SK themes and establish focus and milestones
 - [SK][260216] meet Mykola in the office and support his onboarding
 - [*][SK] arrange for recurring 1-on-1 meetings with all the Swiss Knives
