@@ -1,6 +1,11 @@
 
 [2026-02-17]
 
+Feedback to Kateryna on the "missing autotests" -- investigate
+
+
+Gain performance issue
+Bettina and replacement for Felix
 
 
 

@@ -4,12 +4,14 @@
 
 # current focus
 - promotion for Driss
-- testing strategy - placement of Varun - intro to the testing framework 
+- testing strategy 
+- placement of Varun  
 - replacement of Felix with Henrik Palm - Workday status of both
 - keep working on Kanban themes with Artur 
 - Swiss Knives - understand where the tasks are coming from - how actual replenishment is done 
 - Swiss Knives - work on the red pipeline issue
 - Swiss Knives - get a better DevOps board - realistic - prioritized
+- from customer delivery to SC1 delivery
 
 # reminders 
 - check the Pending folder in Outlook
@@ -21,34 +23,34 @@
 
 # todo 
 - [*][SK] follow the Varun situation
-- [SK] input from Kateryna on Trade Capture [260217] - check with Driss and report to Aleksandra - give some feedback to Kateryna
 - [*][BY:260317] mandatory training course: Artificial Intelligence - Essentials for Everyone - link under TEMP
 - [personal] vacation request for the summer
-- [personal] organize trip to Lissone in May
-- [Gain] do release testing - check test on message import monitoring in plan - remove if not needed
 - [*][SK][260219.13:30] meet Kasper and Mathias - understand replenishment and discuss the first Kanban improvement priority ad discussed with Artur
-    - figure out how the backlog is replenished, how items are prioritized, improve on these processes - make sure the backlog refleacts reality
-- [SK] organize a first retrospective    
+    - figure out how the backlog is replenished, how items are prioritized, improve on these processes - make sure the backlog refleacts reality  
 - [SK] Chhitiz - parental leave - check with Bettina - report to Aleksandra
     - roughly August to September or October
     - is it possible to merge vacation and parental leave?
     - his work is generic enough but we need to insure the workload for the rest of the team does not grow too much
-- [*][SK] Connect with Mathias about onboarding Henrik - check that he is correctly assigned to the team (with Bettina) and that he is ready to work from March 1st
-    - We need to confirm that the replacement is only temporary -- then talk to Bettina and figure out how to handle it in Workday 
-    - both Felix and Henrik must have their data correct in Workday
-- [Pink Elephant] discuss DM Core release test plan contribution from Pink Elephant
 - [Workday] A Task Awaits You: Propose Employee Award for Technical Enablement 
 - [SK][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [SK][260525] check contract status for Dmytro Pavlenko 
+- [SK] organize stable retros
 
 # under way
+- [Gain] do release testing - check test on message import monitoring in plan - remove if not needed
+- [SK] input from Kateryna on Trade Capture [260217] - check with Tomek Czapliński and Tomasz Pastuszka - give some feedback to Kateryna and Aleksandra 
+- [*][SK] Connect with Mathias about onboarding Henrik - check with Bettina that he is correctly assigned to the team and that he is ready to work from March 1st
+    - both Felix and Henrik must have their data correct in Workday
+- [personal] organize trip to Lissone in May
 - [*][SK] reach out to Kateryna to write a rationale for the promotion of Driss - there are no comments in the evaluation - complete promotion for Driss 
 - [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
 - [*][Aleksandra] introduce myself to the stakeholders (use and update Miro board)
 - [*][SK] give full access to Miro board to all SKs and setup a recurrent retrospective (bi-weekly for now) - ITSD-51668 
 
 # done
+- [Pink Elephant] discuss DM Core release test plan contribution from Pink Elephant
+- [SK] organize a first retrospective  
 - [*][SK] align with Artur on the Kanban issues 
 - [*][Driss][Aleksandra] follow question raised by Aleksandra on Standard Platform - related testing 
 - [*][SK] discuss findings on Kanban with Aleksandra

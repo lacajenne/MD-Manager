@@ -30,3 +30,6 @@ Handle in Workday
 
 Mathias can handle his partial onboarding 
 
+Henrik will help on moving from doing client releases to doing releases of SimCorp One
+
+
