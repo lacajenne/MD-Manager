@@ -6,7 +6,7 @@
 - promotion for Driss
 - testing strategy - placement of Varun - intro to the testing framework 
 - replacement of Felix with Henrik Palm - Workday status of both
-- discuss Kanban themes with Artur 
+- keep working on Kanban themes with Artur 
 - Swiss Knives - understand where the tasks are coming from - how actual replenishment is done 
 - Swiss Knives - work on the red pipeline issue
 - Swiss Knives - get a better DevOps board - realistic - prioritized
@@ -20,6 +20,8 @@
 - find regular spots for the VMO fundamentals course on Flowtopia
 
 # todo 
+- [*][SK] follow the Varun situation
+- [SK] input from Kateryna on Trade Capture [260217] - check with Driss and report to Aleksandra - give some feedback to Kateryna
 - [*][BY:260317] mandatory training course: Artificial Intelligence - Essentials for Everyone - link under TEMP
 - [personal] vacation request for the summer
 - [personal] organize trip to Lissone in May
