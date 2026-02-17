@@ -1,4 +1,11 @@
 
+priorities 17/02/2026 - align periodically with Artur
+1 - figure out how the backlog is replenished, how items are prioritized, improve on these processes - make sure the backlog refleacts reality
+2 - start managing the workload, discussing WIP limits, imposing them gradually
+3 - manage knowledge sharing and pair working, avoid the creation of interlan silos, accelerate the state of team-shared knowledge
+
+
+
 current state on 12/02/2026
 
 - there is no backlog management and no real prioritization - a lot of decisions are taken in real time

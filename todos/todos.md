@@ -20,14 +20,17 @@
 - find regular spots for the VMO fundamentals course on Flowtopia
 
 # todo 
-- [*][SK] align with Artur on the Kanban issues 
-    - red pipelines
-    - the board does not reflect reality
-    - not clear how the board is replenished
-    - changing the board structure? 
+- [*][BY:260317] mandatory training course: Artificial Intelligence - Essentials for Everyone - link under TEMP
+- [personal] vacation request for the summer
+- [personal] organize trip to Lissone in May
+- [Gain] do release testing - check test on message import monitoring in plan - remove if not needed
+- [*][SK][260219.13:30] meet Kasper and Mathias - understand replenishment and discuss the first Kanban improvement priority ad discussed with Artur
+    - figure out how the backlog is replenished, how items are prioritized, improve on these processes - make sure the backlog refleacts reality
 - [SK] organize a first retrospective    
-- [SK] figure out with Aleksandra what to do about Chhitiz leaving in August and September - dates - impact on workload
-- [*][SK] reach out to Kateryna to write a rationale for the promotion of Driss - there are no comments in the evaluation - complete promotion for Driss 
+- [SK] Chhitiz - parental leave - check with Bettina - report to Aleksandra
+    - roughly August to September or October
+    - is it possible to merge vacation and parental leave?
+    - his work is generic enough but we need to insure the workload for the rest of the team does not grow too much
 - [*][SK] Connect with Mathias about onboarding Henrik - check that he is correctly assigned to the team (with Bettina) and that he is ready to work from March 1st
     - We need to confirm that the replacement is only temporary -- then talk to Bettina and figure out how to handle it in Workday 
     - both Felix and Henrik must have their data correct in Workday
@@ -38,12 +41,13 @@
 - [SK][260525] check contract status for Dmytro Pavlenko 
 
 # under way
+- [*][SK] reach out to Kateryna to write a rationale for the promotion of Driss - there are no comments in the evaluation - complete promotion for Driss 
 - [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
 - [*][Aleksandra] introduce myself to the stakeholders (use and update Miro board)
-- [*][SK] support Chhitiz on his parental leave - discuss with Aleksandra to be sure we are aligned - two weeks in march and then August+September
-- [*][SK] give full access to Miro board to all SKs and setup a recurrent retrospective (bi-weekly for now) - consider DevOps as retro tool - ITSD-51668 
+- [*][SK] give full access to Miro board to all SKs and setup a recurrent retrospective (bi-weekly for now) - ITSD-51668 
 
 # done
+- [*][SK] align with Artur on the Kanban issues 
 - [*][Driss][Aleksandra] follow question raised by Aleksandra on Standard Platform - related testing 
 - [*][SK] discuss findings on Kanban with Aleksandra
 - [*][SK][Aleksandra] discuss the SK themes and establish focus and milestones

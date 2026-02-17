@@ -1,4 +1,16 @@
 
+[2026-02-17]
+
+
+
+
+
+talk to Chhitiz about his leave
+talk to Marcus
+talk to Kasper
+promotion of Driss - chat with Aleksandra and Kateryna
+
+=====================================================================================================================================================
 
 [2026-02-16]
 
