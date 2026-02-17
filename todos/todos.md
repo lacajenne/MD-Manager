@@ -23,7 +23,7 @@
 
 # at a glance
 - Driss - promotion
-- testing stratergy
+- testing strategy - draft document
 - Chhitiz parental leave and vacation - Bettina
 - Felix - replacement - administration with Bettina
 - trade capture test coverage
