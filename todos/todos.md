@@ -1,19 +1,8 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-02-17
+> **Last Updated:** 2026-02-18
 
-# current focus
-- promotion for Driss
-- testing strategy 
-- placement of Varun  
-- replacement of Felix with Henrik Palm - Workday status of both
-- keep working on Kanban themes with Artur 
-- Swiss Knives - understand where the tasks are coming from - how actual replenishment is done 
-- Swiss Knives - work on the red pipeline issue
-- Swiss Knives - get a better DevOps board - realistic - prioritized
-- from customer delivery to SC1 delivery
-
-# reminders 
+# fixed daily activities 
 - check the Pending folder in Outlook
 - follow Workday every day 
 - check VMO and Swiss Knives boards every day and keep them up-to-date
@@ -21,8 +10,16 @@
 - salary reviews - deadline on February 24th - check status of Dmytro Pavlenko by end of May
 - find regular spots for the VMO fundamentals course on Flowtopia
 
+# current focus
+- testing strategy 
+- placement of Varun  
+- Kanban themes with Artur and the team
+    - understand where the tasks are coming from - how actual replenishment is done 
+    - work on the red pipeline issue
+    - get a better DevOps board - realistic - prioritized
+
 # at a glance
-- Driss - promotion
+- Driss - promotion - deadline is February 24th
 - testing strategy - draft document
 - Chhitiz parental leave and vacation - Bettina
 - Felix - replacement - administration with Bettina
@@ -32,6 +29,7 @@
 - Varun
 
 # todo 
+- [SK] follow the access policy discussion with Mathias (for PROD)
 - [*][SK] follow the Varun situation
 - [*][BY:260317] mandatory training course: Artificial Intelligence - Essentials for Everyone - link under TEMP
 - [personal] vacation request for the summer
@@ -52,13 +50,13 @@
 - [SK] input from Kateryna on Trade Capture [260217] - check with Tomek Czapliński and Tomasz Pastuszka - give some feedback to Kateryna and Aleksandra 
 - [*][SK] Connect with Mathias about onboarding Henrik - check with Bettina that he is correctly assigned to the team and that he is ready to work from March 1st
     - both Felix and Henrik must have their data correct in Workday
-- [personal] organize trip to Lissone in May
 - [*][SK] reach out to Kateryna to write a rationale for the promotion of Driss - there are no comments in the evaluation - complete promotion for Driss 
 - [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
 - [*][Aleksandra] introduce myself to the stakeholders (use and update Miro board)
-- [*][SK] give full access to Miro board to all SKs and setup a recurrent retrospective (bi-weekly for now) - ITSD-51668 
 
 # done
+- [*][SK] give full access to Miro board to all SKs and setup a recurrent retrospective (bi-weekly for now) - ITSD-51668 
+- [personal] organize trip to Lissone in May
 - [Pink Elephant] discuss DM Core release test plan contribution from Pink Elephant
 - [SK] organize a first retrospective  
 - [*][SK] align with Artur on the Kanban issues 
