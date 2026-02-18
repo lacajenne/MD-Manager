@@ -15,7 +15,7 @@
 - placement of Varun  
 - Kanban themes with Artur and the team
     - understand where the tasks are coming from - how actual replenishment is done 
-    - work on the red pipeline issue
+    - work on the red pipelines issue - SRODEV and SC1TEST
     - get a better DevOps board - realistic - prioritized
 
 # at a glance
@@ -39,7 +39,6 @@
     - roughly August to September or October
     - is it possible to merge vacation and parental leave?
     - his work is generic enough but we need to insure the workload for the rest of the team does not grow too much
-- [Workday] A Task Awaits You: Propose Employee Award for Technical Enablement 
 - [SK][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [SK][260525] check contract status for Dmytro Pavlenko 

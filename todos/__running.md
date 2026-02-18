@@ -1,4 +1,13 @@
 
+[2026-02-18]
+
+We need to have a mopre accurate picture of the competences of Varun - to support our decisions and whatever we tell Ryan.
+He is clearly not sufficiently competent from the technical side.
+Mykola - assess Varun on the domain knowledge - Front Office
+Driss - Varun needs to be involved into the testing strategy as stakeholder.
+
+=====================================================================================================================================================
+
 [2026-02-17]
 
 
