@@ -17,6 +17,7 @@
     - understand where the tasks are coming from - how actual replenishment is done 
     - work on the red pipelines issue - SRODEV and SC1TEST
     - get a better DevOps board - realistic - prioritized
+- administrative work
 
 # at a glance
 - Driss - promotion - deadline is February 24th

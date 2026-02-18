@@ -6,6 +6,12 @@ He is clearly not sufficiently competent from the technical side.
 Mykola - assess Varun on the domain knowledge - Front Office
 Driss - Varun needs to be involved into the testing strategy as stakeholder.
 
+Driss cannot see currently a way to take Varun as a concrete stakeholder for the testing strategy
+	at best he can be a bridge to front office - to figure out what is to be tested 
+		-- he does not have the knowledge to give a constructive feedback
+		-- he is not in the position of challenging ideas and push back
+
+
 =====================================================================================================================================================
 
 [2026-02-17]
