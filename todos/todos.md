@@ -17,6 +17,7 @@
     - understand where the tasks are coming from - how actual replenishment is done 
     - work on the red pipelines issue - SRODEV and SC1TEST
     - get a better DevOps board - realistic - prioritized
+- moving tests of SK stakeholders into the SC1 framework, automate and exrecute them in SC1TEST
 - administrative work
 
 # at a glance
@@ -44,6 +45,7 @@
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [SK][260525] check contract status for Dmytro Pavlenko 
 - [SK] organize stable retros
+- [SK] figure out how to support Roger Krishnaswamy from PD Application Areas
 
 # under way
 - [Gain] do release testing - check test on message import monitoring in plan - remove if not needed
