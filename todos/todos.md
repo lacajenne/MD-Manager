@@ -32,6 +32,7 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
+- Prepare a technical learning portfolio for Varun and give it to Aleksandra
 - [SK] Chhitiz - parental leave - check with Bettina - report to Aleksandra
     - roughly August to September or October
     - is it possible to merge vacation and parental leave?
