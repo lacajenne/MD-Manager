@@ -41,9 +41,9 @@
 
 # under way
 - [SK] Chhitiz 
-    - check meeting notes [2026-02-19-bettina.md]
+    - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 - [*][SK] Henrik substitution of Felix
-    - check meeting notes [2026-02-19-bettina.md]   
+    - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
 - [*][Aleksandra] introduce myself to the stakeholders - start by those that are represented in the current SK work items - use and update Miro board
