@@ -7,32 +7,26 @@
 - follow Workday every day 
 - check VMO and Swiss Knives boards every day and keep them up-to-date
 - check the one-on-one calendar of the Swiss Knives
-- salary reviews - deadline on February 24th - check status of Dmytro Pavlenko by end of May
 - find regular spots for the VMO fundamentals course on Flowtopia
 
 # current focus
 - testing strategy 
-- placement of Varun  
 - Kanban themes with Artur and the team
     - understand where the tasks are coming from - how actual replenishment is done 
     - work on the red pipelines issue - SRODEV and SC1TEST
     - get a better DevOps board - realistic - prioritized
+- getting to know all stakeholders and managers - use SK backlog composition as priority guide
 - moving tests of SK stakeholders into the SC1 framework, automate and exrecute them in SC1TEST
 - administrative work
-- start contacting SK stakeholders based on what currently is in the SK backlog
 
 # at a glance
 - Chhitiz parental leave and vacation - Bettina
 - Felix - replacement - administration with Bettina
-- trade capture test coverage
-- workday - time recording and all that
+- testing strategy presentation
 - exploratory testing audit and test on message import monitoring
-- start contacting SK stakeholders based on what currently is in the SK backlog
 - Varun
 
 # on a fixed date
-- [*][SK][260219.13:30] meet Kasper and Mathias - understand replenishment and discuss the first Kanban improvement priority ad discussed with Artur
-    - figure out how the backlog is replenished, how items are prioritized, improve on these processes - make sure the backlog refleacts reality 
 - [SK][260525] check contract status for Dmytro Pavlenko 
 - [260413-to-15] Lead with Impact in Copenhagen - book travel - weekend before with Barbara    
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
@@ -41,20 +35,20 @@
 - [SK] Chhitiz - parental leave - check with Bettina - report to Aleksandra
     - roughly August to September or October
     - is it possible to merge vacation and parental leave?
+    - his work is generic enough but we need to insure the workload for the rest of the team does not grow too much
 - [*][BY:260317] mandatory training course: Artificial Intelligence - Essentials for Everyone - link under TEMP
 - [personal] vacation request for the summer
-    - his work is generic enough but we need to insure the workload for the rest of the team does not grow too much
 - [SK] organize stable retros
 - [SK] follow the access policy discussion with Mathias (for PROD)
 - [SK][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
-- [SK] figure out how to support SK stakeholders such as Roger Krishnaswamy from PD Application Areas
 
 # under way
-- [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
-- [*][SK] follow the Varun situation
+- [*][SK][260219.13:30] meet Kasper and Mathias - understand replenishment and discuss the first Kanban improvement priority ad discussed with Artur
+    - figure out how the backlog is replenished, how items are prioritized, improve on these processes - make sure the backlog refleacts reality 
 - [*][SK] Connect with Mathias about onboarding Henrik 
     - [260219.15:30] check with Bettina that he is correctly assigned to the team and that he is ready to work from March 1st
-        - both Felix and Henrik must have their data correct in Workday
+        - both Felix and Henrik must have their data correct in Workday    
+- [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
 - [*][Aleksandra] introduce myself to the stakeholders - start by those that are represented in the current SK work items - use and update Miro board
 
