@@ -43,6 +43,7 @@
 - [SK] Chhitiz 
     - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 - [*][SK] Henrik substitution of Felix
+    - get dates of substitution (start, end)
     - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
