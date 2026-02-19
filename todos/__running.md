@@ -1,4 +1,10 @@
 
+[2026-02-19]
+
+Enrolled to "Lead with impact" for April 13 and September 21 - manage and add to calendars and todo lists
+
+=====================================================================================================================================================
+
 [2026-02-18]
 
 We need to have a mopre accurate picture of the competences of Varun - to support our decisions and whatever we tell Ryan.

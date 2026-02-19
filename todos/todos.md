@@ -30,9 +30,14 @@
 - start contacting SK stakeholders based on what currently is in the SK backlog
 - Varun
 
-# todo 
+# on a fixed date
 - [*][SK][260219.13:30] meet Kasper and Mathias - understand replenishment and discuss the first Kanban improvement priority ad discussed with Artur
     - figure out how the backlog is replenished, how items are prioritized, improve on these processes - make sure the backlog refleacts reality 
+- [SK][260525] check contract status for Dmytro Pavlenko 
+- [260413-to-15] Lead with Impact in Copenhagen - book travel - weekend before with Barbara    
+- [260921-to-24] Lead with Impact in Copenhagen - book travel
+
+# todo 
 - [SK] Chhitiz - parental leave - check with Bettina - report to Aleksandra
     - roughly August to September or October
     - is it possible to merge vacation and parental leave?
@@ -42,7 +47,6 @@
 - [SK] organize stable retros
 - [SK] follow the access policy discussion with Mathias (for PROD)
 - [SK][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
-- [SK][260525] check contract status for Dmytro Pavlenko 
 - [SK] figure out how to support SK stakeholders such as Roger Krishnaswamy from PD Application Areas
 
 # under way
