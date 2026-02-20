@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-02-18
+> **Last Updated:** 2026-02-20
 
 # fixed daily activities 
 - check the Pending folder in Outlook
@@ -27,6 +27,11 @@
 - Varun
 
 # on a fixed date
+- [*][SK] Henrik substitution of Felix
+    - check meeting notes [2026-02-19-bettina.md] 
+    - [260224.13:00] complete request for new contingent worker with Aleksandra
+        - start 1st of March, end 1st of August
+        - 5 days a week, 8 hours a day
 - [SK][260525] check contract status for Dmytro Pavlenko 
 - [260413-to-15] Lead with Impact in Copenhagen - book travel - weekend before with Barbara    
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
@@ -41,9 +46,6 @@
 
 # under way
 - [SK] Chhitiz 
-    - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
-- [*][SK] Henrik substitution of Felix
-    - get dates of substitution (start, end)
     - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture

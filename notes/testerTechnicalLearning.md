@@ -1,6 +1,8 @@
 
 # coding
-- basic C#, JavaScript, SQL
+- basic C#
+- basic JavaScript
+- basic SQL
 - debugging with breakpoints and log investigation
 
 # coding in testing
