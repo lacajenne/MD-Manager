@@ -25,6 +25,8 @@
     - [260224.13:00] complete request for new contingent worker with Aleksandra
         - start 1st of March, end 1st of August
         - 5 days a week, 8 hours a day
+        - company: SimCorp A/S
+        - short description on what they do
     - get back to the procurement team - Caron Cerise Peralta
 - [SK][260525] check contract status for Dmytro Pavlenko 
 - [260413-to-15] Lead with Impact in Copenhagen - book travel - weekend before with Barbara    

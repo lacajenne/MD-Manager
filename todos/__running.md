@@ -1,4 +1,38 @@
 
+[2026-02-20]
+
+From Artur
+Information from the Value Streams teams under Thomas Olsen who reports directly to Anette
+INTECH, Lindsell Train 
+
+relevant for the testing strategy
+Razvan Radu is the onboarding lead he has got to use monday.com to make stuff visible to the clients 
+Monday.com is being used as a tool to show high level plan to the customers of how simcorp delivers the projects
+SIT and UAT & DR are late in the process - teams might not have enough time to resolve bugs - it makes it obvious that testing might be coming as an afterthought
+
+this brings pressure and stress to the value streams teams
+testing for Lindsell Train done by Testing services and another team (SIT testing and UAT done by SMBS)
+
+here we are talking about the customer specific part
+a lot of handovers and misalignment, possible repetition
+and essentially risk - multiple parties doing testing in different stages
+some context might be missing to some of the parties
+are we separating too much
+
+-- this is all to be confirmed - not being affirmed - we are getting attention to assess a risk that impacts the testing strategy
+-- we are talking about customer specific testing
+-- many teams are involved with complex handovers and possibly loss of context and other inefficiences
+-- it seems there is overall too much complexity in the way the work is managed across teams
+-- it seems that the testing (SIT, UAT, DR) are happening LATE (shortly before go-live) and seem to be an afterthought
+-- relevent customers are INTECH and Lindsell Train (SC1, therefore more relevant)
+-- affected teams are Value Streams Teams responding to Thomas Olson and Ryan Glass 
+-- source of this information is partially Monday.com that is shared with the customer and stakeholders to show planning 
+-- testing strategy is certainly relevant here 
+
+-- https://miro.com/app/board/uXjVJoLMS1Y=/?share_link_id=499816057435
+
+=====================================================================================================================================================
+
 [2026-02-19]
 
 Enrolled to "Lead with impact" for April 13 and September 21 - manage and add to calendars and todo lists
