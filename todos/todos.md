@@ -20,6 +20,8 @@
 - administrative work
 
 # on a fixed date
+- [*][SK][260217][TUESDAY] organize a testing strategy followup with Anette, Paul, Ryan, Driss, Aleksandra - for the first week of March
+    - if Ryan proposes something before, just decline and explain
 - [*][SK] Henrik substitution of Felix
     - check meeting notes [2026-02-19-bettina.md] 
     - [260224.13:00] complete request for new contingent worker with Aleksandra
