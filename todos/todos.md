@@ -7,24 +7,17 @@
 - follow Workday every day 
 - check VMO and Swiss Knives boards every day and keep them up-to-date
 - check the one-on-one calendar of the Swiss Knives
-- find regular spots for the VMO fundamentals course on Flowtopia
 
 # current focus
+- Felix - replacement - request for new contingent worker - get back to the procurement team (Caron)
 - testing strategy 
 - Kanban themes with Artur and the team
     - understand where the tasks are coming from - how actual replenishment is done 
     - work on the red pipelines issue - SRODEV and SC1TEST
     - get a better DevOps board - realistic - prioritized
 - getting to know all stakeholders and managers - use SK backlog composition as priority guide
-- moving tests of SK stakeholders into the SC1 framework, automate and exrecute them in SC1TEST
+- moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST
 - administrative work
-
-# at a glance
-- Chhitiz parental leave and vacation - Bettina
-- Felix - replacement - administration with Bettina
-- testing strategy presentation
-- exploratory testing audit and test on message import monitoring
-- Varun
 
 # on a fixed date
 - [*][SK] Henrik substitution of Felix
@@ -32,6 +25,7 @@
     - [260224.13:00] complete request for new contingent worker with Aleksandra
         - start 1st of March, end 1st of August
         - 5 days a week, 8 hours a day
+    - get back to the procurement team - Caron Cerise Peralta
 - [SK][260525] check contract status for Dmytro Pavlenko 
 - [260413-to-15] Lead with Impact in Copenhagen - book travel - weekend before with Barbara    
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
