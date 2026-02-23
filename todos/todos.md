@@ -21,7 +21,6 @@
 - administrative work
 
 # on a fixed date
-- [*][260224] mandatory training course: Artificial Intelligence - Essentials for Everyone - link under TEMP
 - [*][SK][260224][TUESDAY] organize a testing strategy followup with Anette, Paul, Ryan, Driss, Aleksandra - for the first week of March
     - if Ryan proposes something before, just decline and explain
 - [*][SK] Henrik substitution of Felix
@@ -50,6 +49,7 @@
 - [*][Aleksandra] introduce myself to the stakeholders - start by those that are represented in the current SK work items - use and update Miro board
 
 # done
+- [*] mandatory training course: Artificial Intelligence - Essentials for Everyone - link under TEMP
 - [*][SK][260219.13:30] meet Kasper and Mathias - understand replenishment and discuss the first Kanban improvement priority ad discussed with Artur
     - figure out how the backlog is replenished, how items are prioritized, improve on these processes - make sure the backlog refleacts reality 
 - [*][SK] reach out to Kateryna to write a rationale for the promotion of Driss - there are no comments in the evaluation - complete promotion for Driss 
