@@ -1,6 +1,12 @@
 
 [2026-02-23]
 
+AI IDEA
+AI assistant for managers
+
+Use Miro to create a personal information board
+
+
 - Operational Value Streams describe the actual steps that deliver value to the customer
 	- try to describe them from the customers perspective - from the outside in
 
