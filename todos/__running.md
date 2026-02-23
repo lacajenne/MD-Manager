@@ -1,4 +1,27 @@
 
+[2026-02-23]
+
+- Operational Value Streams describe the actual steps that deliver value to the customer
+	- try to describe them from the customers perspective - from the outside in
+
+- Development Value Streams describe the how things are built and chained from the technical perspective
+
+- one should always start by picturing and understanding che operational value streams
+	- how can I design the dev processes if my focus is not what I am trying to achieve from the operational, value-centered perspective?
+
+- attempt to describe the OPERATIONAL VS of the SK activities - albeit with limited information - GOING BACKWARDS
+	- the customer gets his standard SC1 instance, runs a few acceptance activities and inspects the reports
+	- tested configuration moves through the gate or is stopped
+	- all customer specific tests are executed in the customer TEST environment
+	- the customer TEST environment receives the standard configuration plus the specific configuration
+	- customer tests are developed in the DEV customer environment
+	- configuration is taken by the customer support from the SC1 GOLD environment
+	- tested configuration moves through the gate from SC1TEST to SC1GOLD or is stopped
+	- 
+
+
+=====================================================================================================================================================
+
 [2026-02-20]
 
 From Artur
