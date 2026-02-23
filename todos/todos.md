@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-02-20
+> **Last Updated:** 2026-02-23
 
 # fixed daily activities 
 - check the Pending folder in Outlook
@@ -20,7 +20,8 @@
 - administrative work
 
 # on a fixed date
-- [*][SK][260217][TUESDAY] organize a testing strategy followup with Anette, Paul, Ryan, Driss, Aleksandra - for the first week of March
+- [*][260224] mandatory training course: Artificial Intelligence - Essentials for Everyone - link under TEMP
+- [*][SK][260224][TUESDAY] organize a testing strategy followup with Anette, Paul, Ryan, Driss, Aleksandra - for the first week of March
     - if Ryan proposes something before, just decline and explain
 - [*][SK] Henrik substitution of Felix
     - check meeting notes [2026-02-19-bettina.md] 
@@ -35,8 +36,6 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
-- Prepare a technical learning portfolio for Varun and give it to Aleksandra
-- [*][BY:260317] mandatory training course: Artificial Intelligence - Essentials for Everyone - link under TEMP
 - [personal] vacation request for the summer
 - [SK] organize stable retros
 - [SK] follow the access policy discussion with Mathias (for PROD)
@@ -45,6 +44,7 @@
 # under way
 - [SK] Chhitiz 
     - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
+- Prepare a technical learning portfolio for Varun and give it to Aleksandra    
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
 - [*][Aleksandra] introduce myself to the stakeholders - start by those that are represented in the current SK work items - use and update Miro board
