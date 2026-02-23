@@ -1,8 +1,9 @@
 
 [2026-02-23]
 
-AI IDEA
+AI IDEAS
 AI assistant for managers
+Create an agent that has CONVERSATIONS WITH ME to give me good prompts to do what I want with AI 
 
 Use Miro to create a personal information board
 
