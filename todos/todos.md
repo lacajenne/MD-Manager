@@ -42,8 +42,7 @@
 - [SK][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
 
 # under way
-- [SK] Chhitiz 
-    - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
+- [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 - Prepare a technical learning portfolio for Varun and give it to Aleksandra    
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
