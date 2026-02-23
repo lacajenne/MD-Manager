@@ -11,6 +11,7 @@
 # current focus
 - Felix - replacement - request for new contingent worker - get back to the procurement team (Caron)
 - testing strategy 
+- Evergreen
 - Kanban themes with Artur and the team
     - understand where the tasks are coming from - how actual replenishment is done 
     - work on the red pipelines issue - SRODEV and SC1TEST
