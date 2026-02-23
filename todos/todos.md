@@ -10,7 +10,8 @@
 
 # current focus
 - Felix - replacement - request for new contingent worker - get back to the procurement team (Caron)
-- testing strategy 
+- Mykola - transfer to Vienna
+- Testing Strategy 
 - Evergreen
 - Kanban themes with Artur and the team
     - understand where the tasks are coming from - how actual replenishment is done 
@@ -38,17 +39,18 @@
 # todo 
 - [personal] vacation request for the summer
 - [SK] organize stable retros
-- [SK] follow the access policy discussion with Mathias (for PROD)
 - [SK][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
 
 # under way
+- [SK] support Kateryna on Mykola's transfer 
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
-- Prepare a technical learning portfolio for Varun and give it to Aleksandra    
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
 - [*][Aleksandra] introduce myself to the stakeholders - start by those that are represented in the current SK work items - use and update Miro board
 
 # done
+- Prepare a technical learning portfolio for Varun and give it to Aleksandra    
+- [SK] follow the access policy discussion with Mathias (for PROD)
 - [*] mandatory training course: Artificial Intelligence - Essentials for Everyone - link under TEMP
 - [*][SK][260219.13:30] meet Kasper and Mathias - understand replenishment and discuss the first Kanban improvement priority ad discussed with Artur
     - figure out how the backlog is replenished, how items are prioritized, improve on these processes - make sure the backlog refleacts reality 
