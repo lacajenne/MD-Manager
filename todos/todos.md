@@ -31,10 +31,11 @@
         - short description on what they do
     - get back to the procurement team - Caron Cerise Peralta
 - [SK][260525] check contract status for Dmytro Pavlenko 
-- [260413-to-15] Lead with Impact in Copenhagen - book travel - weekend before with Barbara    
+- [260413-to-15] Lead with Impact in Copenhagen    
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
+- [training] book travel to Copenhagen for the training in April
 - [cVation] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [personal] vacation request for the summer
 - [SK] organize stable retros
