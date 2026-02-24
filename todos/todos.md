@@ -10,9 +10,8 @@
 - check the HOTTO bookmark folder in Chrome
 
 # current focus
-- Felix - replacement - request for new contingent worker - get back to the procurement team (Caron)
-- Mykola - transfer to Vienna
 - Testing Strategy 
+- Felix - replacement - request for new contingent worker - get back to the procurement team (Caron)
 - Evergreen
 - Kanban themes with Artur and the team
     - understand where the tasks are coming from - how actual replenishment is done 
