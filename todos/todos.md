@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-02-23
+> **Last Updated:** 2026-02-24
 
 # fixed daily activities 
 - check the Pending folder in Outlook
@@ -22,8 +22,6 @@
 - administrative work
 
 # on a fixed date
-- [*][SK][260224][TUESDAY] organize a testing strategy followup with Anette, Paul, Ryan, Driss, Aleksandra - for the first week of March
-    - if Ryan proposes something before, just decline and explain
 - [*][SK] Henrik substitution of Felix
     - check meeting notes [2026-02-19-bettina.md] 
     - [260224.13:00] complete request for new contingent worker with Aleksandra
@@ -42,6 +40,7 @@
 - [SK][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
 
 # under way
+- [*][SK][260224][TUESDAY] organize a testing strategy followup with Anette, Paul, Ryan, Driss, Aleksandra - for the first week of March
 - [SK] support Kateryna on Mykola's transfer 
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
