@@ -1,6 +1,12 @@
 
 [2026-02-24]
 
+Meeting with Aleksandra and Farah Khan (Senior Director, Value Stream - Business Services Value Stream)
+DMS Value Stream - manages 15 people - 2 SCD consultants doing FTs in Gain
+focus on GAIN
+need to figure out how to make GAIN work in SC1
+
+
 - email from Kasper - figure what to do - get back to him - cVation people get invited to trainings they do not get paid for - stop this?
 - new agent: meeting notes cleanup - add highlight of most significant points - generation of md file - part of AI manager assistant
 - new agent: conersationalist prompt generator - part of AI manager assistant
