@@ -5,7 +5,7 @@
 - new agent: meeting notes cleanup - add highlight of most significant points - generation of md file - part of AI manager assistant
 - new agent: conersationalist prompt generator - part of AI manager assistant
 
-- from Driss - Chhitiz - does he need support? - seem a bit out of focus 
+- from Driss - Chhitiz - does he need support? - seem a bit out of focus - Driss will reach out to him - gather feedback
 
 =====================================================================================================================================================
 

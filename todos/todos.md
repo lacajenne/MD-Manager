@@ -22,14 +22,6 @@
 - administrative work
 
 # on a fixed date
-- [*][SK] Henrik substitution of Felix
-    - check meeting notes [2026-02-19-bettina.md] 
-    - [260224.13:00] complete request for new contingent worker with Aleksandra
-        - start 1st of March, end 1st of August
-        - 5 days a week, 8 hours a day
-        - company: SimCorp A/S
-        - short description on what they do
-    - get back to the procurement team - Caron Cerise Peralta
 - [SK][260525] check contract status for Dmytro Pavlenko 
 - [260413-to-15] Lead with Impact in Copenhagen    
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
@@ -42,6 +34,14 @@
 - [SK][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
 
 # under way
+- [*][SK] Henrik substitution of Felix
+    - check meeting notes [2026-02-19-bettina.md] 
+    - [260224.13:00] complete request for new contingent worker with Aleksandra
+        - start 1st of March, end 1st of August
+        - 5 days a week, 8 hours a day
+        - company: SimCorp A/S
+        - short description on what they do
+    - get back to the procurement team - Caron Cerise Peralta
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
