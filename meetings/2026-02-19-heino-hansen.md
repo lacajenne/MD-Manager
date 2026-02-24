@@ -8,5 +8,5 @@ tooling
 builds operational tools - cloud portal - toolstack - reporting - self services 
 
 recommends talking to John Cunningham and Martin Bjorling Poulsen
-PO: John(JCU)
-PM: Martin(MPO)
+PO: John (JCU)
+PM: Martin (MPO)

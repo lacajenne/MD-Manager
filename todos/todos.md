@@ -27,6 +27,7 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
+- pay lunch with corporate credit card and insure it works - for the Copenhagen trip
 - [training] book travel to Copenhagen for the training in April
 - [cVation] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [personal] vacation request for the summer
