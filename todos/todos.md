@@ -28,7 +28,6 @@
 
 # todo 
 - pay lunch with corporate credit card and insure it works - for the Copenhagen trip
-- [training] book travel to Copenhagen for the training in April
 - [cVation] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [personal] vacation request for the summer
 - [SK] organize stable retros
@@ -49,6 +48,7 @@
 - [*][Aleksandra] introduce myself to the stakeholders - start by those that are represented in the current SK work items - use and update Miro board
 
 # DONE
+- [training] book travel to Copenhagen for the training in April
 - [SK] support Kateryna on Mykola's transfer 
 - [*][SK][260224][TUESDAY] organize a testing strategy followup with Anette, Paul, Ryan, Driss, Aleksandra - for the first week of March
 - Prepare a technical learning portfolio for Varun and give it to Aleksandra    
