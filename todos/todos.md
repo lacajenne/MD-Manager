@@ -35,19 +35,20 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
+- [cVation] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [personal] vacation request for the summer
 - [SK] organize stable retros
 - [SK][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
 
 # under way
-- [*][SK][260224][TUESDAY] organize a testing strategy followup with Anette, Paul, Ryan, Driss, Aleksandra - for the first week of March
-- [SK] support Kateryna on Mykola's transfer 
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
 - [*][Aleksandra] introduce myself to the stakeholders - start by those that are represented in the current SK work items - use and update Miro board
 
-# done
+# DONE
+- [SK] support Kateryna on Mykola's transfer 
+- [*][SK][260224][TUESDAY] organize a testing strategy followup with Anette, Paul, Ryan, Driss, Aleksandra - for the first week of March
 - Prepare a technical learning portfolio for Varun and give it to Aleksandra    
 - [SK] follow the access policy discussion with Mathias (for PROD)
 - [*] mandatory training course: Artificial Intelligence - Essentials for Everyone - link under TEMP

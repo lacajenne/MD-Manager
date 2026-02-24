@@ -1,4 +1,12 @@
 
+[2026-02-24]
+
+- email from Kasper - figure what to do - get back to him - cVation people get invited to trainings they do not get paid for - stop this?
+- new agent: meeting notes cleanup - generation of md file - part of AI manager assistant
+- new agent: conersationalist prompt generator - part of AI manager assistant
+
+=====================================================================================================================================================
+
 [2026-02-23]
 
 AI IDEAS
