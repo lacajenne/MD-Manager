@@ -1,4 +1,14 @@
 
+[2026-02-25]
+
+get to know more about
+- current customers
+- deliverable owners
+- mechanics of drops
+- delivery of new features & bug fixes - with associated issues 
+
+=====================================================================================================================================================
+
 [2026-02-24]
 
 Meeting with Aleksandra and Farah Khan (Senior Director, Value Stream - Business Services Value Stream)
