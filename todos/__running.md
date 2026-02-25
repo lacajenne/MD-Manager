@@ -2,9 +2,9 @@
 [2026-02-25]
 
 get to know more about
-- current customers
-- deliverable owners
-- mechanics of drops
+- current customers - is there a snapshot somewhere
+- deliverable owners - any list
+- mechanics of drops - any documentation 
 - delivery of new features & bug fixes - with associated issues 
 
 =====================================================================================================================================================
