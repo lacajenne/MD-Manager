@@ -2,10 +2,16 @@
 [2026-02-25]
 
 get to know more about
+
 - current customers - is there a snapshot somewhere
+	- "Access to Environments" page
+
 - deliverable owners - any list
-- mechanics of drops - any documentation 
-- delivery of new features & bug fixes - with associated issues 
+	- Felix used to know - ask Marcus 
+	- part of outcome teams - each team has a couple of deliverables
+		- how do I learn about outcome teams? 
+			- there is a data outcome team
+			- check with Aleksandra
 
 =====================================================================================================================================================
 

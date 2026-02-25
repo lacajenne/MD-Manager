@@ -29,6 +29,7 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
+- [knowledge] Outcome Teams and Deliverable Owners - check with Aleksandra
 - pay lunch with corporate credit card and insure it works - for the Copenhagen trip
 - [personal] vacation request for the summer
 - [SK] organize stable retros
