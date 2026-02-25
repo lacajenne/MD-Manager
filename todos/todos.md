@@ -2,16 +2,18 @@
 
 > **Last Updated:** 2026-02-24
 
-# fixed daily activities 
+# the morning rites
+- check the calendar in Outlook
+- check all new emails 
 - check the Pending folder in Outlook
-- follow Workday every day 
+- check Workday
 - check VMO and Swiss Knives boards every day and keep them up-to-date
 - check the one-on-one calendar of the Swiss Knives
 - check the HOTTO bookmark folder in Chrome
 
 # current focus
 - Testing Strategy 
-- Felix - replacement - request for new contingent worker - get back to the procurement team (Caron)
+- Felix - replacement 
 - Evergreen
 - Kanban themes with Artur and the team
     - understand where the tasks are coming from - how actual replenishment is done 
@@ -19,21 +21,20 @@
     - get a better DevOps board - realistic - prioritized
 - getting to know all stakeholders and managers - use SK backlog composition as priority guide
 - moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST
-- administrative work
 
 # on a fixed date
 - [SK][260525] check contract status for Dmytro Pavlenko 
-- [260413-to-15] Lead with Impact in Copenhagen    
+- [260413-to-16] Lead with Impact in Copenhagen    
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
 - pay lunch with corporate credit card and insure it works - for the Copenhagen trip
-- [cVation] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [personal] vacation request for the summer
 - [SK] organize stable retros
 - [SK][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
 
 # under way
+- [cVation] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [*][SK] Henrik substitution of Felix
     - check meeting notes [2026-02-19-bettina.md] 
     - [260224.13:00] complete request for new contingent worker with Aleksandra
