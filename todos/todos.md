@@ -30,6 +30,7 @@
 
 # todo 
 - [*][SK] extend cVation contracts - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht
+- [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
 - [knowledge] Outcome Teams and Deliverable Owners - check with Aleksandra
 - pay lunch with corporate credit card and insure it works - before the Copenhagen trip
 - [personal] vacation request for the summer
@@ -48,7 +49,6 @@
     - get back to the procurement team - Caron Cerise Peralta
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
-- [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
 - [*][Aleksandra] introduce myself to the stakeholders - start by those that are represented in the current SK work items - use and update Miro board
 
 # DONE
