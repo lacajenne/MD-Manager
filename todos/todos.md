@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-02-25
+> **Last Updated:** 2026-03-02
 
 # the morning rites
 - check the calendar in Outlook
@@ -14,7 +14,7 @@
 
 # current focus
 - Testing Strategy 
-- Felix - replacement 
+- Felix - Henrik - replacement 
 - Evergreen
 - Kanban themes with Artur and the team
     - understand where the tasks are coming from - how actual replenishment is done 
@@ -29,8 +29,9 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
+- [*][SK] extend cVation contracts - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht
 - [knowledge] Outcome Teams and Deliverable Owners - check with Aleksandra
-- pay lunch with corporate credit card and insure it works - for the Copenhagen trip
+- pay lunch with corporate credit card and insure it works - before the Copenhagen trip
 - [personal] vacation request for the summer
 - [SK] organize stable retros
 - [SK][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
