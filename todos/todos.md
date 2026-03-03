@@ -7,6 +7,7 @@
 - check all new emails 
 - check the Pending folder in Outlook
 - check Workday
+- record time in Workday
 - check VMO and Swiss Knives boards every day and keep them up-to-date
 - check the one-on-one calendar of the Swiss Knives
 - check the HOTTO bookmark folder in Chrome
