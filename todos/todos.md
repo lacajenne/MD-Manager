@@ -17,11 +17,13 @@
 - Testing Strategy 
 - Felix - Henrik - replacement 
 - Evergreen
+- getting to know all stakeholders and managers - use SK backlog composition as priority guide
+
+# longer time focus
 - Kanban themes with Artur and the team
     - understand where the tasks are coming from - how actual replenishment is done 
     - work on the red pipelines issue - SRODEV and SC1TEST
     - get a better DevOps board - realistic - prioritized
-- getting to know all stakeholders and managers - use SK backlog composition as priority guide
 - moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST
 
 # on a fixed date
@@ -46,6 +48,7 @@
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [*][Aleksandra] introduce myself to the stakeholders - start by those that are represented in the current SK work items - use and update Miro board
+
 
 # DONE
 - [*][SK] Henrik substitution of Felix
