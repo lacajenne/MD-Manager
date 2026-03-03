@@ -17,6 +17,7 @@ Discussion with Artur Cybruch, 260220
 
 - check out existing Value Stream Maps and clarify the current status of things
 - map what needs mapping - teams, workflows and so on
+- is there any low-hanging-fruit improvement that we might go for?
 - value stream feedback document
     - start from the items on testing, select the most important ones
     - play the 5 whys game - incorporate into the testing strategy
