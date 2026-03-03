@@ -1,7 +1,7 @@
 
 Last one on one meeting
 
-- Chhitiz Shrestha 
+- Chhitiz Shrestha - 260303 
 - Dmytro Pavlenko 
 - Driss Biya 
 - Felix Larsen 
