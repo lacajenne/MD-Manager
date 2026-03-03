@@ -43,7 +43,6 @@
 
 # under way
 - [*][SK] follow activation of Henrik
-- [*][office] Workday - add my time for February and March
 - [cVation] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
@@ -51,6 +50,7 @@
 
 
 # DONE
+- [*][office] Workday - add my time for February and March
 - [*][SK] Henrik substitution of Felix
     - check meeting notes [2026-02-19-bettina.md] 
     - [260224.13:00] complete request for new contingent worker with Aleksandra
