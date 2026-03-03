@@ -1,4 +1,29 @@
 
+[2026-03-03]
+
+- gather information from Paul about extension - until when 
+	- we need a new contract from cVation
+	
+- cVation to continue using Workday to record time
+	- we want to start differentiating between activities
+		- figure out what the task families are
+
+- Henrik: ping Bettina -- we need to check the actual status 
+	- last step we are aware of: new contingent worker
+		- finance busines partner: has approved
+		- background check was started as far as we know - not clear whether completed
+			- if done, Henrik can start today but we did not get the IT onboarding questionnaire
+
+- talk to Tina about Outcome Teams and Deliverable Owners
+	-- they are Value Teams
+	- sharepoint - who is the owner of each outcome - deliverable owners
+		- look for: collaboration metrics
+
+- reach out to Tina on the scaling of the Swiss Knives 
+	- she is putting team scaling in relation with revenue
+
+=====================================================================================================================================================
+
 [2026-02-25]
 
 get to know more about

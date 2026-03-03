@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-02
+> **Last Updated:** 2026-03-03
 
 # the morning rites
 - check the calendar in Outlook
@@ -29,16 +29,24 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
-- [*][SK] extend cVation contracts - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht
-- [*][office] Workday - check with Aleksandra: recording time and absence management (for me and others) - change the picture
-- [knowledge] Outcome Teams and Deliverable Owners - check with Aleksandra
+- [*][SK] get involved with Tina - correlation between team scaling and revenue - for the Swiss Knives
+- [*][SK] reach out to cVation and discuss the subdivision of time recording into more realistic task categories
+- [*][SK] extend cVation contracts - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht - with info from Paul
+- [knowledge] Outcome Teams and Deliverable Owners - check with Tina
 - pay lunch with corporate credit card and insure it works - before the Copenhagen trip
-- [personal] vacation request for the summer
+- [personal] vacation request for the summer - BMD and Workday both
 - [SK] organize stable retros
 - [SK][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
 
 # under way
+- [*][SK] follow activation of Henrik
+- [*][office] Workday - add my time for February and March
 - [cVation] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
+- [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
+- [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
+- [*][Aleksandra] introduce myself to the stakeholders - start by those that are represented in the current SK work items - use and update Miro board
+
+# DONE
 - [*][SK] Henrik substitution of Felix
     - check meeting notes [2026-02-19-bettina.md] 
     - [260224.13:00] complete request for new contingent worker with Aleksandra
@@ -47,11 +55,6 @@
         - company: SimCorp A/S
         - short description on what they do
     - get back to the procurement team - Caron Cerise Peralta
-- [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
-- [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
-- [*][Aleksandra] introduce myself to the stakeholders - start by those that are represented in the current SK work items - use and update Miro board
-
-# DONE
 - [training] book travel to Copenhagen for the training in April
 - [SK] support Kateryna on Mykola's transfer 
 - [*][SK][260224][TUESDAY] organize a testing strategy followup with Anette, Paul, Ryan, Driss, Aleksandra - for the first week of March
