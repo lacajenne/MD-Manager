@@ -32,6 +32,7 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
+- [*][SK] prepare a board for the retrospective
 - [*][SK] get involved with Tina - correlation between team scaling and revenue - for the Swiss Knives
 - [*][SK] reach out to cVation and discuss the subdivision of time recording into more realistic task categories
 - [*][SK] extend cVation contracts - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht - with info from Paul
