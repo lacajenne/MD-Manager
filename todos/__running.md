@@ -1,4 +1,12 @@
 
+[2026-03-04]
+
+to check with Tina, for now or another session - need to know more about:
+- Value Teams
+- Deliverable Owners
+
+=====================================================================================================================================================
+
 [2026-03-03]
 
 - gather information from Paul about extension - until when 

@@ -34,15 +34,15 @@
 
 # todo 
 - [*][SK] extend cVation contracts - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht - with info from Paul
-- [knowledge] Outcome Teams and Deliverable Owners - check with Tina
 - pay lunch with corporate credit card and insure it works - before the Copenhagen trip
 - [personal] vacation request for the summer - BMD and Workday both
-- [SK] organize stable retros
-- [SK][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
 
 # under way
-- [*][SK] get involved with Tina - correlation between team scaling and revenue - for the Swiss Knives
-- [*][SK] talk to Kasper and Mathias on configuration and Payam
+- [SK][260305] choose with the team when the next retro can occur
+- [knowledge] Outcome Teams and Deliverable Owners - check with Tina
+- [SK][PD] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
+- [*][SK] with Tina - correlation between team scaling and revenue - for the Swiss Knives
+- [*][SK] talk to Kasper and Mathias on the configuration side of the SK work and Payams team
 - [*][SK] follow activation of Henrik
 - [cVation] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
