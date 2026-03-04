@@ -27,15 +27,12 @@
 - moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST
 
 # on a fixed date
+- [*][SK][260305] reach out to cVation and discuss the subdivision of time recording into more realistic task categories
 - [SK][260525] check contract status for Dmytro Pavlenko 
 - [260413-to-16] Lead with Impact in Copenhagen    
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
-- [*][SK] talk to Kasper and Mathias on configuration and Payam
-- [*][SK] prepare a board for the retrospective
-- [*][SK] get involved with Tina - correlation between team scaling and revenue - for the Swiss Knives
-- [*][SK] reach out to cVation and discuss the subdivision of time recording into more realistic task categories
 - [*][SK] extend cVation contracts - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht - with info from Paul
 - [knowledge] Outcome Teams and Deliverable Owners - check with Tina
 - pay lunch with corporate credit card and insure it works - before the Copenhagen trip
@@ -44,6 +41,8 @@
 - [SK][PD] with Driss - organize a discussion with the DMS Value Stream reagarding DM Core upgrades, configuration deployment and so on
 
 # under way
+- [*][SK] get involved with Tina - correlation between team scaling and revenue - for the Swiss Knives
+- [*][SK] talk to Kasper and Mathias on configuration and Payam
 - [*][SK] follow activation of Henrik
 - [cVation] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
@@ -51,6 +50,7 @@
 - [*][Aleksandra] introduce myself to the stakeholders - start by those that are represented in the current SK work items - use and update Miro board
 
 # DONE
+- [*][SK] prepare a board for the retrospective
 - [*][office] Workday - add my time for February and March
 - [*][SK] Henrik substitution of Felix
     - check meeting notes [2026-02-19-bettina.md] 
