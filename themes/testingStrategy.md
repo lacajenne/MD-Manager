@@ -25,9 +25,13 @@ Discussion with Artur Cybruch, 260220
     - it mentions the need of detailed test plans 
         - we need traceability for the plans to be useful 
             - how can you validate a plan if you cannot trace it back to some requirement
+- test data
+- testing frameworks and tools - do we want to have more than one framework?
 - reporting and evidence 
 - collection of test execution data, across all tests
 - health checks for the test environments?
 - retro sessions on the testing process
 - quality gates and risk assessment and mitigation
+- feedback loops on the whole process
+- scalability
 

@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-03
+> **Last Updated:** 2026-03-04
 
 # the morning rites
 - check the calendar in Outlook
@@ -32,6 +32,7 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
+- [*][SK] talk to Kasper and Mathias on configuration and Payam
 - [*][SK] prepare a board for the retrospective
 - [*][SK] get involved with Tina - correlation between team scaling and revenue - for the Swiss Knives
 - [*][SK] reach out to cVation and discuss the subdivision of time recording into more realistic task categories
@@ -48,7 +49,6 @@
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 - [*][Aleksandra] introduce myself to the stakeholders - start by those that are represented in the current SK work items - use and update Miro board
-
 
 # DONE
 - [*][office] Workday - add my time for February and March
