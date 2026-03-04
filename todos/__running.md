@@ -25,9 +25,10 @@ VMO daily
 
 
 to check with Tina, for now or another session - need to know more about:
-- Value Teams
-- Deliverable Owners
+	- Value Teams
+	- Deliverable Owners
 
+Scaling topic
 
 
 

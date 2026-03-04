@@ -14,7 +14,8 @@
 - review the todo list
 
 # current focus
-- Testing Strategy 
+- Testing Strategy
+- Epic 521791 
 - Felix - Henrik - replacement 
 - Evergreen
 - getting to know all stakeholders and managers - use SK backlog composition as priority guide
@@ -33,11 +34,13 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
+- [*] get familiar with Epic 521791
 - [*][SK] extend cVation contracts - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht - with info from Paul
 - pay lunch with corporate credit card and insure it works - before the Copenhagen trip
 - [personal] vacation request for the summer - BMD and Workday both
 
 # under way
+- [*] work on the Testing Strategy with Driss - take epic 521791 into account - it contains feedback
 - [SK][260305] choose with the team when the next retro can occur
 - [knowledge] Outcome Teams and Deliverable Owners - check with Tina
 - [SK][PD] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
