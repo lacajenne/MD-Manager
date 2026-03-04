@@ -42,9 +42,9 @@
 # under way
 - [*] work on the Testing Strategy with Driss - take epic 521791 into account - it contains feedback
 - [SK][260305] choose with the team when the next retro can occur
-- [knowledge] Outcome Teams and Deliverable Owners - check with Tina
+- [knowledge] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
 - [SK][PD] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
-- [*][SK] with Tina - correlation between team scaling and revenue - for the Swiss Knives
+- [*][SK] with Tina - Swiss Knives scaling proposal
 - [*][SK] talk to Kasper and Mathias on the configuration side of the SK work and Payams team
 - [*][SK] follow activation of Henrik
 - [cVation] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
