@@ -1,9 +1,36 @@
 
 [2026-03-04]
 
+Dmytro one-on-one
+they need more leverage to push a sense of urgency in some cases
+need someone to pay attention when something broken emerges and it is not clear what to do 
+
+
+VMO daily
+- admin stuff
+- testing strategy - preparing a document to present in March
+- getting in the flow with the SK stakeholders - Hanna, Farah...
+- discussing topics with Tina
+- one-on-ones with the SKs and retrospective 
+
+- Hanna - work with me and Driss on monitoring and E2E tests
+- Aleksandra - Evergreen - some other stuff I did not get
+- Dawid - topics for the management meeting 
+- Artur - client onboarding value streams and some other fast jara-jara
+- Giuseppe
+- Natalia - readiness of drop 8 for Quonium 
+- Richard - 2026 Feedback initiative
+- Tina - back from Mexico
+
+
+
 to check with Tina, for now or another session - need to know more about:
 - Value Teams
 - Deliverable Owners
+
+
+
+
 
 =====================================================================================================================================================
 
