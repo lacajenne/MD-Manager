@@ -1,7 +1,6 @@
 
 [2026-03-05]
 
-
 Driss One on one
 he wants to do more and keep growing and getting involved - he wants to take over work from Mathias
 regarding the exit of cVation he says that we need a timeline and dates if we want things to move at all 
@@ -17,43 +16,14 @@ he also mentioned Robert Viding
 IMPORTANT: check with Driss on the trade capture and accounting tests - is my understanding correct that there is some coverage?
 	- is there any action that needs to be taken here? give feedback to Tomasz
 
-
 Service Orchestration team vs. Swiss Knives - what is the division of responsibilities and tasks
 
 
+SK scaling
 For Tina: Paul said that Swiss Knives scaling needs to be correlated with incoming clients - revenue - this is an explicit request
 
 
-Retrospective notes
-
-THE GOOD 
-
-THE BAD
-- people are unaware of testing capabilities
-- pipeline instability
-	- we need a stable pipeline - nobody knows what the testing framework is actually doing - the value of the pipeline
-		is not clear to all, also in terms of capabilities
-	- schedule for SC1TEST - run all tests in a periodically scheduled pipeline
-	- we need to make the pipeline capabilities clear to the configurators
-- we forget to celebrate our success
-- we want the team to be more visible and people reaching out to them with testing scenarios 
-	- not everyone in VS is coming to the team with tests 
-
-THE OTHER 
-- When a request for testing comes up, the team that is creating the request should include as much details as possible about the configuration for designated scenarios
-	- create a standard - but also have the team find a way to get the knowledge 
-- split into "test" and "support"
-	- its about splitting the team - Driss says that the team having both roles is what makes it special and effective
-		- proactivity and effectiveness might suffer if the team was split
-
-ACTION ITEMS
-- get a budget to fly everyone somewhbere and organize a SK in person meeting
-
-
-
-
 MESSAGE FROM DMYTRO
-
 So about that pending updates migration into SC1TEST that I'm waiting to happen,
  
 The updates were made for the Dealer Futures Trade Capture DFS "TP_TC_DEALER_FUTURE". One in particular that is of high importance for me is the removal of the formula for the Collateral Pool initialization "TP_TC_FUT_COLL".
@@ -63,8 +33,6 @@ I would like to know the deadline for that update. If it's not expected any time
 I've contacted Emil Goldschneider first and later was redirected to William Bona and with his advices ended up writing to William Ekra. Getting any updates from him is especially difficult. That might be due to the fact that he is responsible for too many things and being spammed with the messages from many sides, myself included. 
 
 MY MESSAGE
-
-
 Hi William,
 I hope you’re doing well. My name is Giuseppe Lacagnina, and I am the new manager of the Swiss Knives.
 
