@@ -19,3 +19,9 @@ infrastructure management - access management
 - NEED A MEETING WITH CVATION ON THESE QUESTIONS
 
  one thing we will need to clarify is the working relation with Platform
+
+regarding the exit of cVation he says that we need a timeline and dates if we want things to move at all 
+we need to gradually involve more and more internal people in the activities currently covered by cVation (the non-testing part)
+we need a strategy for the transition
+
+
