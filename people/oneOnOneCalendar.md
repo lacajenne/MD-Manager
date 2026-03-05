@@ -3,7 +3,7 @@ Last one on one meeting
 
 - Chhitiz Shrestha - 260303 
 - Dmytro Pavlenko 
-- Driss Biya 
+- Driss Biya - 260305
 - Felix Larsen 
 - Kasper Fehrend  
 - Marcus Pagh 
