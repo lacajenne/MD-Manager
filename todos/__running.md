@@ -1,6 +1,9 @@
 
 [2026-03-05]
 
+Tina: Paul said that Swiss Knives scaling needs to be correlated with incoming clients - revenue - this is an explicit request
+
+
 
 
 Retrospective notes

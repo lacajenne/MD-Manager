@@ -15,10 +15,13 @@
 
 # current focus
 - Testing Strategy
-- Epic 521791 
+- Epic 521791 - turn it into a backlog for the testing strategy
 - Felix - Henrik - replacement 
 - Evergreen
 - getting to know all stakeholders and managers - use SK backlog composition as priority guide
+
+# items to follow
+- [SK] add E2E tests from Hanna Babii (monitoring solutions) to the standard tests executed by SK
 
 # longer time focus
 - Kanban themes with Artur and the team
@@ -43,7 +46,6 @@
 - [*][SK] support Dmytro with William Ekra
 - [*] work on the Testing Strategy draft Word document with Driss 
 - [*] get familiar with Epic 521791 - clean the testing strategy feature up
-- [SK][260305] choose with the team when the next retro can occur
 - [knowledge] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
 - [SK][PD] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
 - [*][SK] with Tina - Swiss Knives scaling proposal
@@ -55,6 +57,7 @@
 - [*][Aleksandra] introduce myself to the stakeholders - start by those that are represented in the current SK work items - use and update Miro board
 
 # DONE
+- [SK][260305] choose with the team when the next retro can occur
 - [*][SK] prepare a board for the retrospective
 - [*][office] Workday - add my time for February and March
 - [*][SK] Henrik substitution of Felix
