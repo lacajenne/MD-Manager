@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-04
+> **Last Updated:** 2026-03-05
 
 # the morning rites
 - check the calendar in Outlook
@@ -28,19 +28,21 @@
 - moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST
 
 # on a fixed date
-- [*][SK][260305] reach out to cVation and discuss the subdivision of time recording into more realistic task categories
 - [SK][260525] check contract status for Dmytro Pavlenko 
 - [260413-to-16] Lead with Impact in Copenhagen    
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
-- [*] get familiar with Epic 521791
+- [*][SK] one-on-one series with Henrik
 - [*][SK] extend cVation contracts - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht - with info from Paul
 - pay lunch with corporate credit card and insure it works - before the Copenhagen trip
 - [personal] vacation request for the summer - BMD and Workday both
 
 # under way
-- [*] work on the Testing Strategy with Driss - take epic 521791 into account - it contains feedback
+- [*][SK] reach out to cVation and discuss the subdivision of time recording into more realistic task categories
+- [*][SK] support Dmytro with William Ekra
+- [*] work on the Testing Strategy draft Word document with Driss 
+- [*] get familiar with Epic 521791 - clean the testing strategy feature up
 - [SK][260305] choose with the team when the next retro can occur
 - [knowledge] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
 - [SK][PD] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 

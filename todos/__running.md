@@ -1,4 +1,33 @@
 
+[2026-03-05]
+
+MESSAGE FROM DMYTRO
+
+So about that pending updates migration into SC1TEST that I'm waiting to happen,
+ 
+The updates were made for the Dealer Futures Trade Capture DFS "TP_TC_DEALER_FUTURE". One in particular that is of high importance for me is the removal of the formula for the Collateral Pool initialization "TP_TC_FUT_COLL".
+ 
+I would like to know the deadline for that update. If it's not expected any time soon, then I guess I'll do it by myself. I have also asked for explicit confirmation if such update is a part of the Standard and didn't get a clear response. I'd appreciate if you can help me to confirm if that's the case.
+ 
+I've contacted Emil Goldschneider first and later was redirected to William Bona and with his advices ended up writing to William Ekra. Getting any updates from him is especially difficult. That might be due to the fact that he is responsible for too many things and being spammed with the messages from many sides, myself included. 
+
+MY MESSAGE
+
+
+Hi William,
+I hope you’re doing well. My name is Giuseppe Lacagnina, and I am the new manager of the Swiss Knives.
+
+I am reaching out to you to support Dmytro Pavlenko. The issue is the following.
+The updates were made for the Dealer Futures Trade Capture DFS "TP_TC_DEALER_FUTURE". #
+One in particular that is of high importance for me is the removal of the formula for the Collateral Pool initialization "TP_TC_FUT_COLL".
+ 
+I would like to know the deadline for that update. If possible, I would also appreciate an explicit confirmation if such update is a part of the Standard. 
+That would be extremely helpful. 
+
+Thanks very much in advance, and apologies for reaching out directly without prior contact.
+
+=====================================================================================================================================================
+
 [2026-03-04]
 
 Dmytro one-on-one
