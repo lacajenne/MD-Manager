@@ -1,9 +1,27 @@
 
 [2026-03-05]
 
-Tina: Paul said that Swiss Knives scaling needs to be correlated with incoming clients - revenue - this is an explicit request
+
+Driss One on one
+he wants to do more and keep growing and getting involved - he wants to take over work from Mathias
+regarding the exit of cVation he says that we need a timeline and dates if we want things to move at all 
+we need to gradually involve more and more internal people in the activities currently covered by cVation (the non-testing part)
+we need a strategy for the transition
+Ola Rokitka - we want to help her - she is overwhelmed - we want to include her into the testing strategy - her actual job does not match the formal description
 
 
+Tomasz Pastuska
+they have a lot of unit-like tests or variation on e2e scenarios - how do their tests fit in the SK schedule for SC1?
+there is a lack of tests for the Front Office - Varun supposed to help there? 
+he also mentioned Robert Viding
+IMPORTANT: check with Driss on the trade capture and accounting tests - is my understanding correct that there is some coverage?
+	- is there any action that needs to be taken here? give feedback to Tomasz
+
+
+Service Orchestration team vs. Swiss Knives - what is the division of responsibilities and tasks
+
+
+For Tina: Paul said that Swiss Knives scaling needs to be correlated with incoming clients - revenue - this is an explicit request
 
 
 Retrospective notes

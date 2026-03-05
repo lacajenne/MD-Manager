@@ -36,6 +36,10 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
+- [*][SK] go to Paul with Tina on the idea to team up with Anette and Ryan on the request for more resources - consider the excel with required resources for outcome teams
+- [*][SK] confirm with Driss for Tomasz Pastuska on the trade capture and accounting tests 
+    - is my understanding correct that there is some coverage?
+	- is there any action that needs to be taken here? give feedback to Tomasz
 - [knowledge] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
 - [*][SK] one-on-one series with Henrik Palm
 - [*][SK] extend cVation contracts - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht - proceed with info from Paul
