@@ -1,6 +1,36 @@
 
 [2026-03-05]
 
+
+
+Retrospective notes
+
+THE GOOD 
+
+THE BAD
+- people are unaware of testing capabilities
+- pipeline instability
+	- we need a stable pipeline - nobody knows what the testing framework is actually doing - the value of the pipeline
+		is not clear to all, also in terms of capabilities
+	- schedule for SC1TEST - run all tests in a periodically scheduled pipeline
+	- we need to make the pipeline capabilities clear to the configurators
+- we forget to celebrate our success
+- we want the team to be more visible and people reaching out to them with testing scenarios 
+	- not everyone in VS is coming to the team with tests 
+
+THE OTHER 
+- When a request for testing comes up, the team that is creating the request should include as much details as possible about the configuration for designated scenarios
+	- create a standard - but also have the team find a way to get the knowledge 
+- split into "test" and "support"
+	- its about splitting the team - Driss says that the team having both roles is what makes it special and effective
+		- proactivity and effectiveness might suffer if the team was split
+
+ACTION ITEMS
+- get a budget to fly everyone somewhbere and organize a SK in person meeting
+
+
+
+
 MESSAGE FROM DMYTRO
 
 So about that pending updates migration into SC1TEST that I'm waiting to happen,
