@@ -36,25 +36,24 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
-- [*][SK] one-on-one series with Henrik
-- [*][SK] extend cVation contracts - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht - with info from Paul
+- [knowledge] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
+- [*][SK] one-on-one series with Henrik Palm
+- [*][SK] extend cVation contracts - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht - proceed with info from Paul
 - pay lunch with corporate credit card and insure it works - before the Copenhagen trip
 - [personal] vacation request for the summer - BMD and Workday both
 
 # under way
 - [*][SK] reach out to cVation and discuss the subdivision of time recording into more realistic task categories
-- [*][SK] support Dmytro with William Ekra
+- [*][SK] support Dmytro with William Ekra - wait and ping his manager, Justyna
 - [*] work on the Testing Strategy draft Word document with Driss 
-- [*] get familiar with Epic 521791 - clean the testing strategy feature up
-- [knowledge] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
+- [*] get familiar with Epic 521791 - refine the testing strategy feature stories
 - [SK][PD] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
-- [*][SK] with Tina - Swiss Knives scaling proposal
+- [*][SK] with Tina - Swiss Knives scaling proposal - keep into account the revenue correlation request from Paul
 - [*][SK] talk to Kasper and Mathias on the configuration side of the SK work and Payams team
-- [*][SK] follow activation of Henrik
+- [*][SK] follow and support the activation of Henrik
 - [cVation] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
-- [*][Aleksandra] introduce myself to the stakeholders - start by those that are represented in the current SK work items - use and update Miro board
 
 # DONE
 - [SK][260305] choose with the team when the next retro can occur
