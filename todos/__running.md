@@ -1,6 +1,14 @@
 
 [2026-03-05]
 
+
+Question for Driss
+One question for later or whenever you have some time. I had a chat with Tomasz Pastuska and I would like to get a picture of where the Swiss Knives stand in relation to the testing for Trade Capture and Accounting. If my memory serves me, there is already some testing in place, at least for Trade Capture. Do we have any action items planned regarding this? Anything I should know or tell him?
+
+A - we are heavy in trade capture and we started exploring front office recently - two scenarios done - will be added to the pipeline - simple happy flow - there is currently nothing in front office
+	- there is no front office to go to get scenarios - Varun ignored a direct request from Driss  (can you help us find a way to test FX - he said OK - nothing after a few days)
+
+
 Driss One on one
 he wants to do more and keep growing and getting involved - he wants to take over work from Mathias
 regarding the exit of cVation he says that we need a timeline and dates if we want things to move at all 

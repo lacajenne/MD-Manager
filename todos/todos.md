@@ -31,8 +31,8 @@
 - moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST
 
 # urgent
-- [*][SK][260306] check with Aleksandra: email from Joanna Murawska - if I get no report from Siddendra Naray I should go back to him asking for it - final deadline 20th march
-- [*][SK] support Dmytro with William Ekra - wait and ping his manager, Justyna
+- [*][SK][260306] check with Aleksandra: email from Joanna Murawska - check report from Siddendra Naray - figure out what to do with it
+- [*][SK] support Dmytro with William Ekra - wait and ping his manager, Justyna if there is no reply
 - [*][SK] follow and support the activation of Henrik
 - [*][SK] extend cVation contracts - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht - proceed with info from Paul
 - [*] work on the Testing Strategy draft Word document with Driss 
@@ -44,9 +44,6 @@
 
 # todo 
 - [*][SK] go to Paul with Tina on the idea to team up with Anette and Ryan on the request for more resources - consider the excel with required resources for outcome teams
-- [*][SK] confirm with Driss for Tomasz Pastuska on the trade capture and accounting tests 
-    - is my understanding correct that there is some coverage?
-	- is there any action that needs to be taken here? give feedback to Tomasz
 - [knowledge] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
 - [*][SK] one-on-one series with Henrik Palm
 - pay lunch with corporate credit card and insure it works - before the Copenhagen trip
@@ -56,13 +53,16 @@
 - [*][SK] reach out to cVation and discuss the subdivision of time recording into more realistic task categories
 - [*] get familiar with Epic 521791 - refine the testing strategy feature stories
 - [SK][PD] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
-- [*][SK] with Tina - Swiss Knives scaling proposal - keep into account the revenue correlation request from Paul
+- [*][SK] with Tina - Swiss Knives scaling proposal - correlate with number of incoming clients as requested by Paul - possibly team up with Ryan and Anette
 - [*][SK] talk to Kasper and Mathias on the configuration side of the SK work and Payams team
 - [cVation] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [*][SK] confirm with Driss for Tomasz Pastuska on the trade capture and accounting tests 
+    - is my understanding correct that there is some coverage?
+	- is there any action that needs to be taken here? give feedback to Tomasz
 - [SK][260305] choose with the team when the next retro can occur
 - [*][SK] prepare a board for the retrospective
 - [*][office] Workday - add my time for February and March
