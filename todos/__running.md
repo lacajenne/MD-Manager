@@ -1,6 +1,17 @@
 
 [2026-03-06]
 
+Driss 
+Regarding security structure, Natalia is very involved in that, so maybe reach out to her.
+I am having 1:1 with ola on weekly basis, just to provide her support needed as I know she is overwhelmed, but feel free to reach out to her if you want.
+regarding Iryna, we definitely need to align on what she does and what are her expectations 
+Philip has some crazy idea provided from Ryan regarding the Data feed ( they are even considering taking client data and run it through AI for clean up  )  
+	lets take whatever they come with a grain of salt. I also believe we are heading the right way regarding data
+as for SC1TEST I need to know what his concerns are 
+
+
+Value Streams page in SharePoint - Viva engage channel 
+
 Communicate with the people mentioned for a bonus (make sure Kateryna does the same with Mykola)
 Chhitiz, Driss, Stefan
 	- they will get a corporate bonus

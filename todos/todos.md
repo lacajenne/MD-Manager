@@ -41,6 +41,8 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
+- [*][SK] get in touch with Ola 
+- [*][SK] work on comments from Driss - [2026-03-06] in running
 - [*][SK] get in touch with Christoph Heermann on configuration management
 - [*][SK] follow the idea of a demo to Tomasz Pastuska and give him feedback - keep in touch with Driss on this - make sure he does not think we forgot about him
 - [*][SK] go to Paul with Tina on the idea to team up with Anette and Ryan on the request for more resources - consider the excel with required resources for outcome teams
