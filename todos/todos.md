@@ -31,8 +31,6 @@
 - moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST
 
 # urgent
-- [*][SK] one on ones to communicate bonus and check that the same is done with Mykola
-- [*][SK][260306] check with Aleksandra: email from Joanna Murawska - check report from Siddendra Naray - figure out what to do with it
 - [*][SK] follow and support the activation of Henrik
 - [*][SK] extend cVation contracts - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht - proceed with info from Paul
 - [*][SK] work on the Testing Strategy draft Word document with Driss 
@@ -43,6 +41,7 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
+- [*][SK] get in touch with Christoph Heermann on configuration management
 - [*][SK] follow the idea of a demo to Tomasz Pastuska and give him feedback - keep in touch with Driss on this - make sure he does not think we forgot about him
 - [*][SK] go to Paul with Tina on the idea to team up with Anette and Ryan on the request for more resources - consider the excel with required resources for outcome teams
 - [knowledge] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
@@ -51,14 +50,16 @@
 - [personal] vacation request for the summer - BMD and Workday both
 
 # under way
+- [*][SK] one on ones to communicate bonus and check that the same is done with Mykola
 - [SK][PD] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
 - [*][SK] with Tina - Swiss Knives scaling proposal - correlate with number of incoming clients as requested by Paul - possibly team up with Ryan and Anette
-- [*][SK] talk to Kasper and Mathias on the configuration side of the SK work and Payams team
 - [cVation] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [*][SK] talk to Kasper and Mathias on the configuration side of the SK work and Payams team
+- [*][SK][260306] check with Aleksandra: email from Joanna Murawska - check report from Siddendra Naray - figure out what to do with it
 - [*] get familiar with Epic 521791 - refine the testing strategy feature stories
 - [*][SK] reach out to cVation and discuss the subdivision of time recording into more realistic task categories
 - [*][SK] support Dmytro with William Ekra - wait and ping his manager, Justyna if there is no reply
