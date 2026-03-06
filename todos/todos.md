@@ -31,6 +31,7 @@
 - moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST
 
 # urgent
+- [*][SK] one on ones to communicate bonus and check that the same is done with Mykola
 - [*][SK][260306] check with Aleksandra: email from Joanna Murawska - check report from Siddendra Naray - figure out what to do with it
 - [*][SK] follow and support the activation of Henrik
 - [*][SK] extend cVation contracts - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht - proceed with info from Paul

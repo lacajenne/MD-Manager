@@ -2,7 +2,7 @@
 Swiss Knives
 
 - Chhitiz Shrestha 
-- Dmytro Pavlenko 
+- Dmytro Pavlenko (external)
 - Driss Biya 
 - Felix Larsen (cVation) - check what to do as soon as he is back - one-on-one meetings 
 - Kasper Fehrend (cVation) 

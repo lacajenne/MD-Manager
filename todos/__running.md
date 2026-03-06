@@ -1,4 +1,12 @@
 
+Communicate with the people mentioned for a bonus (make sure Kateryna does the same with Mykola)
+Chhitiz, Driss, Stefan
+	- they will get a corporate bonus
+	- 80% is the achievement - give the exact amount 
+	- check email from Joanna for the communication guidelines
+	-- deadline 20th of march - before salaries are paid out
+
+
 [2026-03-05]
 
 
