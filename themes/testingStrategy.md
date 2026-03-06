@@ -34,4 +34,9 @@ Discussion with Artur Cybruch, 260220
 - quality gates and risk assessment and mitigation
 - feedback loops on the whole process
 - scalability
+- where do tests live? Plans, definitions... 
+- coverage
+
+
+
 
