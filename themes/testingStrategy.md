@@ -13,8 +13,6 @@ Discussion with Artur Cybruch, 260220
 
 -- https://miro.com/app/board/uXjVJoLMS1Y=/?share_link_id=499816057435
 
-
-
 - check out existing Value Stream Maps and clarify the current status of things
 - map what needs mapping - teams, workflows and so on
 - is there any low-hanging-fruit improvement that we might go for?
