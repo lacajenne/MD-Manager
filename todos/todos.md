@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-05
+> **Last Updated:** 2026-03-06
 
 # the morning rites
 - check the calendar in Outlook
@@ -15,13 +15,13 @@
 
 # current focus
 - Testing Strategy
-- Epic 521791 - turn it into a backlog for the testing strategy
 - Felix - Henrik - replacement 
 - Evergreen
 - getting to know all stakeholders and managers - use SK backlog composition as priority guide
 
 # items to follow
 - [SK] add E2E tests from Hanna Babii (monitoring solutions) to the standard tests executed by SK
+- [SK] Epic 521791 - turn it into a backlog for the testing strategy
 
 # longer time focus
 - Kanban themes with Artur and the team
@@ -32,10 +32,9 @@
 
 # urgent
 - [*][SK][260306] check with Aleksandra: email from Joanna Murawska - check report from Siddendra Naray - figure out what to do with it
-- [*][SK] support Dmytro with William Ekra - wait and ping his manager, Justyna if there is no reply
 - [*][SK] follow and support the activation of Henrik
 - [*][SK] extend cVation contracts - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht - proceed with info from Paul
-- [*] work on the Testing Strategy draft Word document with Driss 
+- [*][SK] work on the Testing Strategy draft Word document with Driss 
 
 # on a fixed date
 - [SK][260525] check contract status for Dmytro Pavlenko 
@@ -43,7 +42,7 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
-- [*][SK] follow the idea of a demo to Tomasz Pastuska and give him feedback - make sure he does not thing we forgot about him
+- [*][SK] follow the idea of a demo to Tomasz Pastuska and give him feedback - keep in touch with Driss on this - make sure he does not think we forgot about him
 - [*][SK] go to Paul with Tina on the idea to team up with Anette and Ryan on the request for more resources - consider the excel with required resources for outcome teams
 - [knowledge] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
 - [*][SK] one-on-one series with Henrik Palm
@@ -51,8 +50,6 @@
 - [personal] vacation request for the summer - BMD and Workday both
 
 # under way
-- [*][SK] reach out to cVation and discuss the subdivision of time recording into more realistic task categories
-- [*] get familiar with Epic 521791 - refine the testing strategy feature stories
 - [SK][PD] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
 - [*][SK] with Tina - Swiss Knives scaling proposal - correlate with number of incoming clients as requested by Paul - possibly team up with Ryan and Anette
 - [*][SK] talk to Kasper and Mathias on the configuration side of the SK work and Payams team
@@ -61,6 +58,9 @@
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [*] get familiar with Epic 521791 - refine the testing strategy feature stories
+- [*][SK] reach out to cVation and discuss the subdivision of time recording into more realistic task categories
+- [*][SK] support Dmytro with William Ekra - wait and ping his manager, Justyna if there is no reply
 - [*][SK] confirm with Driss for Tomasz Pastuska on the trade capture and accounting tests 
     - is my understanding correct that there is some coverage?
 	- is there any action that needs to be taken here? give feedback to Tomasz
