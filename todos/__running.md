@@ -1,4 +1,6 @@
 
+[2026-03-06]
+
 Communicate with the people mentioned for a bonus (make sure Kateryna does the same with Mykola)
 Chhitiz, Driss, Stefan
 	- they will get a corporate bonus
@@ -6,9 +8,9 @@ Chhitiz, Driss, Stefan
 	- check email from Joanna for the communication guidelines
 	-- deadline 20th of march - before salaries are paid out
 
+=====================================================================================================================================================
 
 [2026-03-05]
-
 
 Question for Driss
 One question for later or whenever you have some time. I had a chat with Tomasz Pastuska and I would like to get a picture of where the Swiss Knives stand in relation to the testing for Trade Capture and Accounting. If my memory serves me, there is already some testing in place, at least for Trade Capture. Do we have any action items planned regarding this? Anything I should know or tell him?
