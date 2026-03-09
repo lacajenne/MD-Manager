@@ -1,4 +1,9 @@
 
+[260309]
+testing strategy
+Gain related discussion
+admin work
+
 [260306]
 - supporting the activation of Henrik 
 - I cannot reach Henrik in Teams - to have a chat and organize one-on-ones

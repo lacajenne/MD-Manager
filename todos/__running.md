@@ -1,6 +1,14 @@
 
 [2026-03-06]
 
+resubmit CW request - but first a new position must be available
+Mail from Farah - discuss with Aleksandra
+Prepare for corporate bonus discussion with Driss - 2287.67
+
+=====================================================================================================================================================
+
+[2026-03-06]
+
 Driss 
 Regarding security structure, Natalia is very involved in that, so maybe reach out to her.
 I am having 1:1 with ola on weekly basis, just to provide her support needed as I know she is overwhelmed, but feel free to reach out to her if you want.
