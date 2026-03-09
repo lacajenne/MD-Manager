@@ -14,7 +14,7 @@
 - review the todo list
 
 # current focus
-- Testing Strategy
+- Testing Strategy document draft
 - Felix - Henrik - replacement 
 - getting to know all stakeholders and managers - use SK backlog composition as priority guide
 
@@ -30,18 +30,19 @@
 - moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST
 
 # urgent
-- [*][SK] activation of Henrik
+- [*][SK] activation of Henrik 
 - [*][SK] extend Workday contract end dates - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht
+    - ping Paul and extend in Workday as soon as the new contract is active
 - [*][SK] work on the Testing Strategy draft Word document with Driss 
 
 # on a fixed date
+- [SK][260311.16:30] get in touch with Christoph Heermann on configuration management
 - [SK][260525] check contract status for Dmytro Pavlenko 
 - [260413-to-16] Lead with Impact in Copenhagen    
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
 - [*][SK] discuss what Mathias and Kasper discussed with Farah - share with Aleksandra
-- [*][SK] document from Ola and integration in the testing strategy
 - [*][SK] work on comments from Driss - [2026-03-06] in running
 - [*][SK] follow the idea of a demo to Tomasz Pastuska and give him feedback - keep in touch with Driss on this - make sure he does not think we forgot about him
 - [*][SK] go to Paul with Tina on the idea to team up with Anette and Ryan on the request for more resources - consider the excel with required resources for outcome teams
@@ -51,8 +52,7 @@
 - [personal] vacation request for the summer - BMD and Workday both
 
 # under way
-- [*][SK] get in touch with Ola 
-- [*][SK] get in touch with Christoph Heermann on configuration management
+- [*][SK] document from Ola and integration in the testing strategy
 - [*][SK] one on ones to communicate bonus and check that the same is done with Mykola
 - [SK][PD] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
 - [*][SK] with Tina - Swiss Knives scaling proposal - correlate with number of incoming clients as requested by Paul - possibly team up with Ryan and Anette
@@ -61,6 +61,7 @@
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [*][SK] get in touch with Ola 
 - [*][SK] talk to Kasper and Mathias on the configuration side of the SK work and Payams team
 - [*][SK][260306] check with Aleksandra: email from Joanna Murawska - check report from Siddendra Naray - figure out what to do with it
 - [*] get familiar with Epic 521791 - refine the testing strategy feature stories
