@@ -1,6 +1,15 @@
 
 [2026-03-06]
 
+Iuliia Volkogon
+head of services orchestration since one year 
+	standard configuration management with its tools : XMGR, Kobold...
+	part of release with Aleksandra Tina and Paul
+	knows configuration challenges for value streams
+		-- wants to see the testing strategy 
+	mentioned Mia Malm Jorgensen
+
+
 Driss - from Ola
 DISCLAIMER:
 This document was written from the perspective of a manual tester working in the IOS area and it is possible that my pov is limited or not fully accurate. I've tried to include my past experience, all the knowledge I currently have about the process and alignments and to keep in mind the direction we are heading. Whenever I overthought something or confused myself, I returned to the main purpose of this document, which I put at the top under the general remark.

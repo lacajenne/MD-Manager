@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-06
+> **Last Updated:** 2026-03-09
 
 # the morning rites
 - check the calendar in Outlook
@@ -16,7 +16,6 @@
 # current focus
 - Testing Strategy
 - Felix - Henrik - replacement 
-- Evergreen
 - getting to know all stakeholders and managers - use SK backlog composition as priority guide
 
 # items to follow
@@ -31,8 +30,8 @@
 - moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST
 
 # urgent
-- [*][SK] follow and support the activation of Henrik
-- [*][SK] extend cVation contracts - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht - proceed with info from Paul
+- [*][SK] activation of Henrik
+- [*][SK] extend Workday contract end dates - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht
 - [*][SK] work on the Testing Strategy draft Word document with Driss 
 
 # on a fixed date
