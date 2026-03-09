@@ -1,6 +1,19 @@
 
 [2026-03-06]
 
+Driss - from Ola
+DISCLAIMER:
+This document was written from the perspective of a manual tester working in the IOS area and it is possible that my pov is limited or not fully accurate. I've tried to include my past experience, all the knowledge I currently have about the process and alignments and to keep in mind the direction we are heading. Whenever I overthought something or confused myself, I returned to the main purpose of this document, which I put at the top under the general remark.
+Not all points may be applicable to your needs but I decided to include them anyway. Firstly, to provide broader context and secondly, because this exercise helps me organize my thoughts and hopefully our workflow. I plan to share it with my tester colleagues and OTs managers (Kateryna and Justyna) this week and request their feedback, so few parts might change. If it does, I’ll let you know.
+I was not able to cover everything, so in some places I included only a header for an area that I consider relevant and want to define later.
+Whenever I felt the need to clarify or comment on something, I added that part in italics. 
+I hope you find it useful. Please feel free to comment or ask questions. I promise to prioritize any follow‑ups.
+
+
+
+Matthias and Kasper apparently reached out to Farah - we should not reach out before talking to Kasper first - we still need the discussion 
+
+
 resubmit CW request - but first a new position must be available
 Mail from Farah - discuss with Aleksandra
 Prepare for corporate bonus discussion with Driss - 2287.67
