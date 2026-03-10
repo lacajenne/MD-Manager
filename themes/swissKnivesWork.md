@@ -1,18 +1,13 @@
 
-- what about feedback loops? do we have any in place?
+[260310]
 
-- what about collecting metrics? are we measuring cycle times? 
+the team reports resistance from configurators on collaboration in the execution of tests
+    it is like the configurators expect to just pass over the tests to SKs and not to have to do anything anymore 
+        - the old waterfall approach they are used to
+        - they are totally focused on their projects 
+            - they tell SKs to reach out to their managers to get some priority
 
-- we want to work in a sustainable and scalable way - how far are we from there?
-    - are we starting to create silos of knowledge?
-
-- what are the constraints around which we need to work?
-    - tools coming from other areas 
-
-- is the current workload compatible with a continuous improvement approach?
-
-- once the devops/kanban situation is more stable, we might want more ceremonies
-
-
-
+two themes 
+    - the smooth running of apps should be based on a clear ownership
+    - the smooth execution of tests should be based on a close collaboration between configurators and testers (SKs) 
 

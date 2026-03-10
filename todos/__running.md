@@ -9,6 +9,12 @@ Arjen Brokhus,
 Tina W. (driver)
 Natalia V. (driver)
 
+Matthias Stute - use him for overall intro to technical details. He also did a DEX for some analysis - maybe he ran Ogies ComSrv scripts?
+Ogie - ComSrv expert - wrote a script to analyze protected files (most likely a string search)
+Arjen - Overall solution architect for new setup. He will be able to tell us which areas are most important (FORMULAS, DEX, DFS).
+ 
+Tina/Natalia - used for escalation and make stuff happen.
+
 
 Topics with Aleksandra
 notes emerging during the standup
