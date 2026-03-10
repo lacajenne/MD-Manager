@@ -1,4 +1,32 @@
 
+[2026-03-10]
+
+
+People involved in the "security structure" renaming
+Matthias Stute,
+Ogie Gimao,
+Arjen Brokhus,
+Tina W. (driver)
+Natalia V. (driver)
+
+
+Topics with Aleksandra
+notes emerging during the standup
+ 
+the team reports resistance to collaboration on execution of tests, which is different from smooth operation of apps and is instead based on collaboration
+it is like the configurators expect to just pass over the tests to SKs and not to have to do anything anymore - the old waterfall approach they are used to 
+I see a difference in these two themes
+the smooth running of apps should be based on a clear ownership
+the smooth execution of tests should be based on a close collaboration between configurators and testers (SKs) 
+let us review when you can
+ 
+Another topic: the security structure large renaming task - driven by Tina and Natalia - we are having a "Saving private Ryan" moment - drop all you are doing right now and do this - Mathias and I are assigning Stefan and Dima to this 
+We should discuss this as well. I am being involved in the dailies
+It seems that the SKs were told not to do anything at first ("back off, this is a Platform thing") but asked later to help. Mathias seems to see this as an opportunity for the team to shine and get known
+I would agree
+ 
+=====================================================================================================================================================
+
 [2026-03-06]
 
 Iuliia Volkogon
