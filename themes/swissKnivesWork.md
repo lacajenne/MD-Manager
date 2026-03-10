@@ -11,3 +11,4 @@ two themes
     - the smooth running of apps should be based on a clear ownership
     - the smooth execution of tests should be based on a close collaboration between configurators and testers (SKs) 
 
+the collaboration between cVation consultants and SimCorp internals must improve

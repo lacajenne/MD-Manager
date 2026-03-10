@@ -1,6 +1,11 @@
 
 [2026-03-10]
 
+Driss - question from Ryan - "test plan in ADO for intech/LT - what's the approach?"
+
+
+
+
 
 People involved in the "security structure" renaming
 Matthias Stute,
@@ -33,7 +38,7 @@ I would agree
  
 =====================================================================================================================================================
 
-[2026-03-06]
+[2026-03-09]
 
 Iuliia Volkogon
 head of services orchestration since one year 
