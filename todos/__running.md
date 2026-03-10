@@ -4,7 +4,11 @@
 Driss - question from Ryan - "test plan in ADO for intech/LT - what's the approach?"
 
 
-
+Kasper evaluation of Platform is quite negative
+he sees them as not agile at all - and not mature - they are afraid of letting other people do things the right way
+they commit but do not deliver - this apparently happened time and again
+they want to keep exclusive of the tool development - but nothing really happens 
+they are going to fail
 
 
 People involved in the "security structure" renaming
