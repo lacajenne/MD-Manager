@@ -14,6 +14,9 @@ Chat with Annalisa Abbruzzi
 in Milano in SimCorp since 2003 - experience on Sophia
 works on Care - customer care for Dimension
 they are the contact point for customers
+they do not report directly to Anette or the Value Streams - there is some suffering here
+SimCorp Italiana seems to be quite separated from SimCorp - there is little possibility to commit to the Value Streams
+the italian management does not share the new views and culture
 
 
 Kasper evaluation of Platform is quite negative
