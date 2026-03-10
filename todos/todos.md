@@ -42,6 +42,7 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # todo 
+- [*][SK] have Driss and the Swiss Knives come up with an Excel with Gain issues for Farah
 - [*][SK] follow the idea of a demo to Tomasz Pastuska and give him feedback - keep in touch with Driss on this - make sure he does not think we forgot about him
 - [knowledge] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
 - [*][SK] one-on-one series with Henrik Palm
