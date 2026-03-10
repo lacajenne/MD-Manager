@@ -2,6 +2,18 @@
 [2026-03-10]
 
 Driss - question from Ryan - "test plan in ADO for intech/LT - what's the approach?"
+Ola is doing it - she still needs to figure out the scope of the testing - putting it in ADO
+Varun is already involved into this - they are discussing it and Varun represents Front Office 
+
+There is pressure to close SP and they are under pressure for SK to enable them
+	there is an issue with the current capacity
+		Driss wants to allocate Mykola to build a pipeline for them 
+
+
+Chat with Annalisa Abbruzzi
+in Milano in SimCorp since 2003 - experience on Sophia
+works on Care - customer care for Dimension
+they are the contact point for customers
 
 
 Kasper evaluation of Platform is quite negative
