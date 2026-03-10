@@ -5,6 +5,8 @@ Driss - question from Ryan - "test plan in ADO for intech/LT - what's the approa
 Ola is doing it - she still needs to figure out the scope of the testing - putting it in ADO
 Varun is already involved into this - they are discussing it and Varun represents Front Office 
 
+
+Meeting with Roger Krishnaswamy and John Cunningham - info from Driss
 There is pressure to close SP and they are under pressure for SK to enable them
 	there is an issue with the current capacity
 		Driss wants to allocate Mykola to build a pipeline for them 
@@ -17,6 +19,11 @@ they are the contact point for customers
 they do not report directly to Anette or the Value Streams - there is some suffering here
 SimCorp Italiana seems to be quite separated from SimCorp - there is little possibility to commit to the Value Streams
 the italian management does not share the new views and culture
+she thinks people like Thomas Olsen are not thinking on the long time consequences of their choices 
+	are we shortening the onboarding time at the expense of quality in production?
+Value Streams are not so much a reality for her - inclusion and knowledge transfer are missing
+Evergreen worries her - are we selling something we do not know we can guarantee?
+Testing Services is outside of the Value Streams !!! 
 
 
 Kasper evaluation of Platform is quite negative
@@ -33,14 +40,12 @@ Arjen Brokhus,
 Tina W. (driver)
 Natalia V. (driver)
 
-Matthias Stute - use him for overall intro to technical details. He also did a DEX for some analysis - maybe he ran Ogies ComSrv scripts?
-Ogie - ComSrv expert - wrote a script to analyze protected files (most likely a string search)
-Arjen - Overall solution architect for new setup. He will be able to tell us which areas are most important (FORMULAS, DEX, DFS).
+	Matthias Stute - use him for overall intro to technical details. He also did a DEX for some analysis - maybe he ran Ogies ComSrv scripts?
+	Ogie - ComSrv expert - wrote a script to analyze protected files (most likely a string search)
+	Arjen - Overall solution architect for new setup. He will be able to tell us which areas are most important (FORMULAS, DEX, DFS).
  
-Tina/Natalia - used for escalation and make stuff happen.
 
-
-Topics with Aleksandra
+Other topics with Aleksandra
 notes emerging during the standup
  
 the team reports resistance to collaboration on execution of tests, which is different from smooth operation of apps and is instead based on collaboration
