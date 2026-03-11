@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-10
+> **Last Updated:** 2026-03-11
 
 # the morning rites
 - check the calendar in Outlook
@@ -17,6 +17,7 @@
 - Testing Strategy document draft
 - Felix - Henrik - replacement 
 - getting to know all stakeholders and managers - use SK backlog composition as priority guide
+- work flow and item prioritization
 
 # items to follow
 - [SK] add E2E tests from Hanna Babii (monitoring solutions) to the standard tests executed by SK
@@ -45,10 +46,9 @@
 - [knowledge] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
 - [*][SK] one-on-one series with Henrik Palm
 - pay lunch with corporate credit card and insure it works - before the Copenhagen trip
-- [personal] vacation request for the summer - BMD and Workday both
 
 # under way
-- [*][SK] document from Ola and integration in the testing strategy
+- [personal] vacation request for the summer - BMD and Workday both
 - [*][SK] one-on-ones to communicate bonus and check that the same is done with Mykola
 - [SK][PD] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
 - [*][SK] with Tina - Swiss Knives scaling proposal - correlate with number of incoming clients as requested by Paul - possibly team up with Ryan and Anette - reach out to Paul
@@ -57,6 +57,7 @@
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [*][SK] document from Ola and integration in the testing strategy
 - [*][SK] extend Workday contract end dates - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht
 - [*][SK] work on comments from Driss - [2026-03-06] in running
 - [*][SK] discuss what Mathias and Kasper discussed with Farah - share with Aleksandra
