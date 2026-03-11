@@ -41,6 +41,7 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # longer term
+- go back to Ryan with a name of a reference person for Varun on tools and on how things are done in Value Strems from the technical perspective - check with Aleksandra
 - [*][SK] follow the idea of a demo to Tomasz Pastuska and give him feedback - keep in touch with Driss on this - make sure he does not think we forgot about him
 - [*][SK] have Driss and the Swiss Knives come up with an Excel with Gain issues for Farah
 - [knowledge] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina

@@ -1,6 +1,15 @@
 
 [2026-03-11]
 
+Marcus Pagh
+- Swiss Knives are very proactive - they really want to solve problems - they do not stop at what was asked - they take action and responsibility 
+- the collaboration with configurators is hard - they are allocated 100% on projects by their managers
+	- they are always super busy - they cannot really support the SKs or go back to what they recently did that might have caused problems
+		- with them the flow is very much waterfall 
+- he believes Swiss Knives should be flexible - priorities should be flexible all the time 
+- he thinks Swiss Knives should not be forced to take decisions that belong to others
+
+
 admin work
 support on Gain issue in SC1TEST
 testing strategy
