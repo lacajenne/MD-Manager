@@ -31,8 +31,6 @@
 
 # urgent
 - [*][SK] activation of Henrik 
-- [*][SK] extend Workday contract end dates - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht
-    - ping Paul on Wednesday and extend in Workday as soon as the new contract is active
 - [*][SK] work on the Testing Strategy draft Word document with Driss 
 
 # on a fixed date
@@ -59,6 +57,7 @@
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [*][SK] extend Workday contract end dates - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht
 - [*][SK] work on comments from Driss - [2026-03-06] in running
 - [*][SK] discuss what Mathias and Kasper discussed with Farah - share with Aleksandra
 - [*][SK] get in touch with Ola 

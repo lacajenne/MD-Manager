@@ -1,4 +1,12 @@
 
+[2026-03-11]
+
+admin work
+support on Gain issue in SC1TEST
+testing strategy
+
+=====================================================================================================================================================
+
 [2026-03-10]
 
 Driss - question from Ryan - "test plan in ADO for intech/LT - what's the approach?"
