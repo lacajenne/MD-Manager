@@ -8,6 +8,7 @@ Chat with Christoph
 - claims Platform does not have the professionalism as cVation - ego is getting in the way
 	- they seem to have a personal vendetta and do not accept that cVatio people are right
 - true relation is between Platform and Value Streams
+- SimCorp will have to DEFEND the Standard idea with the clients - a hard sell
 
 
 Chat with Bernd
