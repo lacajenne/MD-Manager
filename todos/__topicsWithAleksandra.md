@@ -1,3 +1,4 @@
+- one on one with Christoph and Bernd
 - status update on the scaling of the team
 - who owns the smooth running of Gain and SCD in SC1? investigating and fixing sometimes is too costly on the SKs
     - Farah, DMS and so on 
@@ -7,4 +8,3 @@
 - who is the manager of the Swiss Knives - pace things and stop caos
 - Driss is not happy about his pay
 - the visual studio subscription suspension was a microsoft mistake - seems to have been fixed
-

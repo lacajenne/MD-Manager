@@ -1,6 +1,15 @@
 
 [2026-03-12]
 
+Chat with Christoph
+- insists on the importance of the cVation people
+- these vital resources are been pushed out - we cannot get rid of them 
+	- Martin seems to have a personal issue against keeping cVation
+- claims Platform does not have the professionalism as cVation - ego is getting in the way
+	- they seem to have a personal vendetta and do not accept that cVatio people are right
+- true relation is between Platform and Value Streams
+
+
 Chat with Bernd
 - turning the scripts Devid works on into code is a goal for the next years but cannot be done right now
 - PD is seen as too slow - not really agile - not understanding the details or focusing on the details and missing the vision 
