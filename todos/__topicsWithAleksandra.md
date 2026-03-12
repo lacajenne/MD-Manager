@@ -1,7 +1,6 @@
-- one on one with Christoph and Bernd
+- one on one with Christoph, Bernd and Ola
 - status update on the scaling of the team
-- who owns the smooth running of Gain and SCD in SC1? investigating and fixing sometimes is too costly on the SKs
-    - Farah, DMS and so on 
+- who owns the smooth running of Gain and SCD in SC1? investigating and fixing sometimes is too costly on the SKs - Farah, DMS and so on 
 - one-on-one with Mathias - notes 
 - relation between SKs and Platform
 - flow and prioritization of work for the SKs - away from heroics and "who shouts louder gets it done"

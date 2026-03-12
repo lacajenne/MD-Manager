@@ -47,6 +47,7 @@
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 
 # todo 
+- ask Artur or Dawid to show some actual Value Stream mapping
 - [*] get feedback from Mathias on the team scaling information
 - [*][SK] one-on-one series with Henrik Palm
 
