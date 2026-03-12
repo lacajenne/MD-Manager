@@ -53,7 +53,6 @@
 - pay lunch with corporate credit card and insure it works - before the Copenhagen trip
 
 # under way
-- [personal] vacation request for the summer - BMD and Workday both
 - [SK] get in touch with Christoph Heermann on configuration management
 - [*][SK] one-on-ones to communicate bonus and check that the same is done with Mykola
 - [*][SK] with Tina - Swiss Knives scaling proposal - correlate with number of incoming clients as requested by Paul - possibly team up with Ryan and Anette - reach out to Paul
@@ -61,6 +60,7 @@
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [personal] vacation request for the summer - BMD and Workday both
 - [*][SK] document from Ola and integration in the testing strategy
 - [*][SK] extend Workday contract end dates - they expire by the end of March - Marcus Pagh, Kasper Fehrend, Matteo Vogt, Felix Larsen, Mathias Hecht
 - [*][SK] work on comments from Driss - [2026-03-06] in running
