@@ -1,6 +1,11 @@
 
 [2026-03-12]
 
+Chat with Bernd
+- turning the scripts Devid works on into code is a goal for the next years but cannot be done right now
+- PD is seen as too slow - not really agile - not understanding the details or focusing on the details and missing the vision 
+
+
 Chat with Mathias
 - cVation people are focused on the upgrade happening on Monday - Gain and SCD - upgrade and config process 
 	AXA and ARDEA will get the green light and follow - they are mandated to -- VERY BUSY
