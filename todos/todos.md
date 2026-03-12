@@ -48,12 +48,13 @@
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 
 # todo 
-- [SK] get in touch with Christoph Heermann on configuration management
+- [*] get feedback from Mathias on the team scaling information
 - [*][SK] one-on-one series with Henrik Palm
 - pay lunch with corporate credit card and insure it works - before the Copenhagen trip
 
 # under way
 - [personal] vacation request for the summer - BMD and Workday both
+- [SK] get in touch with Christoph Heermann on configuration management
 - [*][SK] one-on-ones to communicate bonus and check that the same is done with Mykola
 - [*][SK] with Tina - Swiss Knives scaling proposal - correlate with number of incoming clients as requested by Paul - possibly team up with Ryan and Anette - reach out to Paul
 - [cVation] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
