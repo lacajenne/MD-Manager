@@ -35,7 +35,6 @@
 - [*][SK] work on the Testing Strategy draft Word document with Driss 
 
 # on a fixed date
-- [SK][260311.16:30] get in touch with Christoph Heermann on configuration management
 - [SK][260525] check contract status for Dmytro Pavlenko 
 - [260413-to-16] Lead with Impact in Copenhagen    
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
@@ -49,6 +48,7 @@
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 
 # todo 
+- [SK] get in touch with Christoph Heermann on configuration management
 - [*][SK] one-on-one series with Henrik Palm
 - pay lunch with corporate credit card and insure it works - before the Copenhagen trip
 
