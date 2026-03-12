@@ -1,6 +1,17 @@
 
 [2026-03-12]
 
+Chat with Mathias
+- cVation people are focused on the upgrade happening on Monday - Gain and SCD - upgrade and config process 
+	AXA and ARDEA will get the green light and follow - they are mandated to -- VERY BUSY
+- leading the standardization ambassador group on 6, 7 feature requests for configuration management process
+	Vidding is part of it - they are trying to make ambassadors own the process (you represent the configurators, what do YOU want)
+		- continuous discussions as how to implement their requirements 
+			- political question on how far value streams should go into the customer environments
+				- on the paper, to the end - reality is not that simple
+-- all these topics cannot stay with cVation only 
+
+
 activation of Henrik
 testing strategy
 security change
