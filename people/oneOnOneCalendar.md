@@ -7,7 +7,7 @@ Last one on one meeting
 - Felix Larsen 
 - Kasper Fehrend  
 - Marcus Pagh - 260311
-- Mathias Hecht  
+- Mathias Hecht - 260312
 - Matteo Christian Vogt 
 - Mykola Yevstihnieiev 
 - Stefan Mayer 
