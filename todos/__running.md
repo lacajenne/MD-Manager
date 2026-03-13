@@ -1,3 +1,12 @@
+[2026-03-13]
+
+Test Strategy SC1 Onboarding Intech DRAFT - notes
+- how do we get client data - has there been already contact with the client? is it feasible?
+- who can take go/no-go decisions in case of disagreements?
+- are we relying too much on client collaboration? is the split of responsibilities clear and agreed upon?
+- 
+
+=====================================================================================================================================================
 
 [2026-03-12]
 

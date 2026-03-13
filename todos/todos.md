@@ -47,6 +47,7 @@
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 
 # todo 
+- support Chhitiz with his parental leave - check that everything is fine - collect and answer his questions
 - [*][SK] follow the idea of a demo to Tomasz Pastuska and give him feedback - keep in touch with Driss on this - make sure he does not think we forgot about him
 - ask Artur or Dawid to show some actual Value Stream mapping
 - [*] get feedback from Mathias on the team scaling information
