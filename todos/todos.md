@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-12
+> **Last Updated:** 2026-03-13
 
 # the morning rites
 - check the calendar in Outlook
@@ -40,13 +40,13 @@
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
 # longer term
-- [*][SK] follow the idea of a demo to Tomasz Pastuska and give him feedback - keep in touch with Driss on this - make sure he does not think we forgot about him
 - [*][SK] have Driss and the Swiss Knives come up with an Excel with Gain issues for Farah
 - [knowledge] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
 - [SK][PD] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 
 # todo 
+- [*][SK] follow the idea of a demo to Tomasz Pastuska and give him feedback - keep in touch with Driss on this - make sure he does not think we forgot about him
 - ask Artur or Dawid to show some actual Value Stream mapping
 - [*] get feedback from Mathias on the team scaling information
 - [*][SK] one-on-one series with Henrik Palm
