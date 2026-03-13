@@ -6,6 +6,11 @@ Test Strategy SC1 Onboarding Intech DRAFT - notes
 - are we relying too much on client collaboration? is the split of responsibilities clear and agreed upon?
 - 
 
+
+we have a problem on the management of customizations - like insuring they get not overwritten by upgrades
+this is the effect of current technical limitations - see the platform involvement - "complex attribute protection"
+marking stuff as custom as a workaround and removing it from standard as a solution is killing the whole standard idea
+
 =====================================================================================================================================================
 
 [2026-03-12]
