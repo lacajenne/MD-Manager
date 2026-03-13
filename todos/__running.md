@@ -3,7 +3,7 @@
 Test Strategy SC1 Onboarding Intech DRAFT - notes
 - how do we get client data - has there been already contact with the client? is it feasible?
 - who can take go/no-go decisions in case of disagreements?
-- are we relying too much on client collaboration? is the split of responsibilities clear and agreed upon?
+- the shared ownership mentioned in the document does not seem to be fully defined
 - 
 
 
