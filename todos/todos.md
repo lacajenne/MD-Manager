@@ -48,12 +48,12 @@
 
 # todo 
 - support Chhitiz with his parental leave - check that everything is fine - collect and answer his questions
-- [*][SK] follow the idea of a demo to Tomasz Pastuska and give him feedback - keep in touch with Driss on this - make sure he does not think we forgot about him
 - ask Artur or Dawid to show some actual Value Stream mapping
 - [*] get feedback from Mathias on the team scaling information
 - [*][SK] one-on-one series with Henrik Palm
 
 # under way
+- [*][SK] follow the idea of a demo to Tomasz Pastuska and give him feedback - keep in touch with Driss on this - make sure he does not think we forgot about him
 - go back to Ryan with a name of a reference person for Varun on tools and on how things are done in Value Strems from the technical perspective - check with Aleksandra
 - [SK] get in touch with Christoph Heermann on configuration management
 - [*][SK] one-on-ones to communicate bonus and check that the same is done with Mykola
