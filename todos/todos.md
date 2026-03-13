@@ -31,6 +31,8 @@
 - moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST
 
 # urgent
+- [*][SK] add feedback from Mathias to the scaling slides
+- [*][SK] get feedback from Mathias on the email from Ryan - go back to Ryan
 - [*][SK] activation of Henrik 
 - [*][SK] work on the Testing Strategy draft Word document with Driss 
 
