@@ -6,6 +6,19 @@ Ryan Glass reached out to me. My understanding: value teams reporting to him nee
 I am been made aware that CORIC is missing in SC1 both in the standard environments and in the client specific one for LTL.
 What can we do to help them?
 
+Discussion with Mathias
+- good that they sold CORIC to an SC1 client
+- a more meaningful description of clients, rather than being SC1 is whether they are Evergreen or not
+- CORIC needs to be delivered to LTL - Ryan thinks it would be good to have it in the SC1 
+- management (Ryan) sees all integrations as checkboxes in an Excel sheet 
+- cVation people know how hard it can be to onboard SimCorp products to SC1, even when there is a team such as Gain
+- CORIC is infrastructure heavy - it requires a lot of resources 
+- Kasper and Mathias want to reach out to someone to gather more knowledge 
+- the current status is - in respect to the request by Ryan - Mathias thinks - if we say we shall promise looking into it, we will own it
+- connects to the fact that SKs cannot be expected to have CORIC running in SC1
+-- maturity of products being added to the SC1 standard
+	-- question of who owns the smooth running of all products in SC1 -- not SK!
+
 =====================================================================================================================================================
 
 [2026-03-13]
