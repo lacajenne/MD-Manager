@@ -1,11 +1,19 @@
+
+[2026-03-16]
+
+For Mathias
+Ryan Glass reached out to me. My understanding: value teams reporting to him need fully working environments for the LTL client.
+I am been made aware that CORIC is missing in SC1 both in the standard environments and in the client specific one for LTL.
+What can we do to help them?
+
+=====================================================================================================================================================
+
 [2026-03-13]
 
 Test Strategy SC1 Onboarding Intech DRAFT - notes
 - how do we get client data - has there been already contact with the client? is it feasible?
 - who can take go/no-go decisions in case of disagreements?
 - the shared ownership mentioned in the document does not seem to be fully defined
-- 
-
 
 we have a problem on the management of customizations - like insuring they get not overwritten by upgrades
 this is the effect of current technical limitations - see the platform involvement - "complex attribute protection"

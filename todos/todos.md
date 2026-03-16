@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-13
+> **Last Updated:** 2026-03-16
 
 # the morning rites
 - check the calendar in Outlook
@@ -15,9 +15,7 @@
 
 # current focus
 - Testing Strategy document draft
-- Felix - Henrik - replacement 
 - getting to know all stakeholders and managers - use SK backlog composition as priority guide
-- work flow and item prioritization
 
 # items to follow
 - [SK] add E2E tests from Hanna Babii (monitoring solutions) to the standard tests executed by SK
@@ -30,29 +28,29 @@
     - get a better DevOps board - realistic - prioritized
 - moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST
 
-# urgent
-- [*][SK] get feedback from Mathias on the email from Ryan - go back to Ryan
-- [*][SK] activation of Henrik 
-- [*][SK] work on the Testing Strategy draft Word document with Driss 
-
-# on a fixed date
-- [SK][260525] check contract status for Dmytro Pavlenko 
-- [260413-to-16] Lead with Impact in Copenhagen    
-- [260921-to-24] Lead with Impact in Copenhagen - book travel
-
 # longer term
 - [*][SK] have Driss and the Swiss Knives come up with an Excel with Gain issues for Farah
 - [knowledge] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
 - [SK][PD] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
 
+# on a fixed date
+- [SK][260525] check contract status for Dmytro Pavlenko 
+- [260413-to-16] Lead with Impact in Copenhagen    
+- [260921-to-24] Lead with Impact in Copenhagen - book travel
+
+# urgent
+- [*][SK] get feedback from Mathias on the email from Ryan - go back to Ryan
+- [*][SK] activation of Henrik 
+- [*][SK] work on the Testing Strategy draft Word document with Driss 
+
 # todo 
 - support Chhitiz with his parental leave - check that everything is fine - collect and answer his questions
 - ask Artur or Dawid to show some actual Value Stream mapping
-- [*] get feedback from Mathias on the team scaling information
 - [*][SK] one-on-one series with Henrik Palm
 
 # under way
+- [*] get feedback from Mathias on the team scaling information
 - [*][SK] follow the idea of a demo to Tomasz Pastuska and give him feedback - keep in touch with Driss on this - make sure he does not think we forgot about him
 - go back to Ryan with a name of a reference person for Varun on tools and on how things are done in Value Strems from the technical perspective - check with Aleksandra
 - [SK] get in touch with Christoph Heermann on configuration management
