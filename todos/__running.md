@@ -1,6 +1,14 @@
 
 [2026-03-16]
 
+Chat with Kasper
+- SimCorp One release - cVation wants to introduce structure and regulate the flow
+- there is an ongoing political battle between VS and Professional Services
+- Evergreen is a buzzword - everyone has a different idea of it 
+- a lot of concrete baby steps need to be taken
+- the SKs can drive the definition of a SimCorp One Release process - with input from actual configurators and with their workflow effectiveness in mind
+
+
 For Mathias
 Ryan Glass reached out to me. My understanding: value teams reporting to him need fully working environments for the LTL client.
 I am been made aware that CORIC is missing in SC1 both in the standard environments and in the client specific one for LTL.
