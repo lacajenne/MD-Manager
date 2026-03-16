@@ -16,6 +16,7 @@ Discussion with Mathias
 - Kasper and Mathias want to reach out to someone to gather more knowledge 
 - the current status is - in respect to the request by Ryan - Mathias thinks - if we say we shall promise looking into it, we will own it
 - connects to the fact that SKs cannot be expected to have CORIC running in SC1
+MY NOTES
 -- maturity of products being added to the SC1 standard
 	-- question of who owns the smooth running of all products in SC1 -- not SK!
 
@@ -27,6 +28,7 @@ Test Strategy SC1 Onboarding Intech DRAFT - notes
 - how do we get client data - has there been already contact with the client? is it feasible?
 - who can take go/no-go decisions in case of disagreements?
 - the shared ownership mentioned in the document does not seem to be fully defined
+
 
 we have a problem on the management of customizations - like insuring they get not overwritten by upgrades
 this is the effect of current technical limitations - see the platform involvement - "complex attribute protection"
