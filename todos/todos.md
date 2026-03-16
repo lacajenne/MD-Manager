@@ -13,14 +13,6 @@
 - check the HOTTO bookmark folder in Chrome
 - review the todo list
 
-# current focus
-- Testing Strategy document draft
-- getting to know all stakeholders and managers - use SK backlog composition as priority guide
-
-# items to follow
-- [SK] add E2E tests from Hanna Babii (monitoring solutions) to the standard tests executed by SK
-- [SK] Epic 521791 - turn it into a backlog for the testing strategy
-
 # longer time focus
 - Kanban themes with Artur and the team
     - understand where the tasks are coming from - how actual replenishment is done 
@@ -39,8 +31,16 @@
 - [260413-to-16] Lead with Impact in Copenhagen    
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
 
+# current focus
+- Testing Strategy document draft
+- getting to know all stakeholders and managers - use SK backlog composition as priority guide
+
+# items to follow
+- [SK] add E2E tests from Hanna Babii (monitoring solutions) to the standard tests executed by SK
+- [SK] Epic 521791 - turn it into a backlog for the testing strategy
+- [SK] Ryan - Mathias - CORIC setup in SC1
+
 # urgent
-- [*][SK] get feedback from Mathias on the email from Ryan - go back to Ryan
 - [*][SK] activation of Henrik 
 - [*][SK] work on the Testing Strategy draft Word document with Driss 
 
@@ -50,16 +50,16 @@
 - [*][SK] one-on-one series with Henrik Palm
 
 # under way
-- [*] get feedback from Mathias on the team scaling information
-- [*][SK] follow the idea of a demo to Tomasz Pastuska and give him feedback - keep in touch with Driss on this - make sure he does not think we forgot about him
-- go back to Ryan with a name of a reference person for Varun on tools and on how things are done in Value Strems from the technical perspective - check with Aleksandra
-- [SK] get in touch with Christoph Heermann on configuration management
-- [*][SK] one-on-ones to communicate bonus and check that the same is done with Mykola
-- [*][SK] with Tina - Swiss Knives scaling proposal - correlate with number of incoming clients as requested by Paul - possibly team up with Ryan and Anette - reach out to Paul
+- [*][SK] follow the idea of a demo to Tomasz Pastuska and give him feedback 
+- [*][SK] with Tina - Swiss Knives scaling proposal 
 - [cVation] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [*][SK] one-on-ones to communicate bonus and check that the same is done with Mykola
+- [SK] get in touch with Christoph Heermann on configuration management
+- [*][SK] get feedback from Mathias on the email from Ryan - go back to Ryan
+- [*] get feedback from Mathias on the team scaling information
 - [*][SK] add feedback from Mathias to the scaling slides
 - pay lunch with corporate credit card and insure it works - before the Copenhagen trip
 - [personal] vacation request for the summer - BMD and Workday both
