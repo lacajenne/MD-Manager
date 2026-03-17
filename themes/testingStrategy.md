@@ -1,5 +1,6 @@
 
 Alignment with Driss on the Testing Strategy message for Copenhagen
+
 - for each client, we should start with a clear, structured definition of the project scope - ending with a test plan
     It should focus on the end to end flow and parametrization Standard vs Parametrization vs Personalization vs Customization - Overview). 
     The scope is delivered in sprints/drops and is covered by a dedicated Test Plan. Both functional and non functional aspects should be included.

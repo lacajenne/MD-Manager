@@ -3,6 +3,8 @@
     connectivity of our clients with their financial partners like Custodians, Brokers and Advisors –
     collectively called “Counterparties”
 
+- CDS: Configuration Deployment Service
+
 - ETF: Exchange Traded Fund
 
 - FTE: Full Time Equivalent
