@@ -5,8 +5,8 @@ Alignment with Driss on the Testing Strategy message for Copenhagen
     It should focus on the end to end flow and parametrization Standard vs Parametrization vs Personalization vs Customization - Overview). 
     The scope is delivered in sprints/drops and is covered by a dedicated Test Plan. Both functional and non functional aspects should be included.
     -- analysis of standard vs. customer specific and consequent actions
-
-
+    -- testers-configurators collaboration
+    
 
 Discussion with Artur Cybruch, 260220
 
