@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-16
+> **Last Updated:** 2026-03-17
 
 # the morning rites
 - check the calendar in Outlook
@@ -25,8 +25,10 @@
 - [knowledge] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
 - [SK][PD] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
 - [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
+- check Chhitiz's parental leave in summer/autumn
 
 # on a fixed date
+- [*][SK][260331.15:00] testing discussion with Tomasz Pastuska
 - [SK][260525] check contract status for Dmytro Pavlenko 
 - [260413-to-16] Lead with Impact in Copenhagen    
 - [260921-to-24] Lead with Impact in Copenhagen - book travel
@@ -45,13 +47,12 @@
 - [*][SK] work on the Testing Strategy draft Word document with Driss 
 
 # todo 
-- support Chhitiz with his parental leave - check that everything is fine - collect and answer his questions
-- ask Artur or Dawid to show some actual Value Stream mapping
 - [*][SK] one-on-one series with Henrik Palm
 
 # under way
-- [*][SK] follow the idea of a demo to Tomasz Pastuska and give him feedback 
-- [*][SK] with Tina - Swiss Knives scaling proposal 
+- study actual Value Stream mappings (with Artur)
+- check Chhitiz's parental leave in March - check that everything is fine 
+- [*][SK] with Tina - Swiss Knives scaling request 
 - [cVation] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
