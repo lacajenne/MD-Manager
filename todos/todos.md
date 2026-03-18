@@ -46,6 +46,7 @@
 
 # todo 
 - [team] one-on-one series with Henrik Palm
+- [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  
 
 # under way
 - [learn] study actual Value Stream mappings (with Artur)

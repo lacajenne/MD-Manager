@@ -1,4 +1,25 @@
 
+[2026-03-18]
+
+Aleksandra asked a question on the involvement of the Swiss Knives in discussions on the go-live of Lindsell Train and Intech
+
+Mathias replied
+
+We are 26.01 now for a lot of reasons including an agreement SC1 made with ARDEA some time ago. Going forward, we cannot decide the SC1 Version according to clients - their needs will be too conflicting. 
+Instead, the story has to be this: all SC1 Clients should, during onboarding, update their environments continuously such that they stay on the SC1 main version (26.01 now). 
+When SC1 upgrades, they need to follow within a week. When a client is close to go-live, or live already, then the appetite for standard changes diminishes drastically. 
+At this point, they can stay on the version they reached, but to get standard configuration, they must now suffer the patch track.
+The patch track is always a possibility if client is on a different version than SC1, but it is overhead. 
+This overhead should be avoided during onboarding, but it can be "more OK" once clients get closer to their go-live date. 
+
+This picture is the way I see us realistically achieve evergreen. From current technology perspective. A client who went LIVE will be "patched" on big issues (not evergreen), 
+but they will get the latest config when updating their SCD version ("evergreen").
+
+Evergreen can take many forms depending on SC investment and appetite for change management across the company, but from what we have today, the picture I painted is "what we can do".
+
+
+=====================================================================================================================================================
+
 [2026-03-16]
 
 Chat with Kasper
