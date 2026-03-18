@@ -117,7 +117,7 @@
 - [admin] mark absence in the calendar and create an automated reply - vacation at the end of the month
 - [people] meet Kateryna Zhebanova about the people in the team [20260206.13:30]
 - [learn] Mathias Hecht Alexander (cVation) - onboarding meeting [260211.10:30]
-- meet Mykola Yevstihnieiev 
+- [team] meet Mykola Yevstihnieiev 
 - [team] organize a meeting with Flo and Driss regarding maintenace, announcements, avoiding disruption of work
 - [learn] DevOps Boards - get used to both VMO and Swiss Knives boards: read some items
 - [PD] meeting with Flo on request by Driss - to announce GAIN upgrades to avoid disrupting work
