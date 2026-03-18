@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-17
+> **Last Updated:** 2026-03-18
 
 # the morning rites
 - check the calendar in Outlook
@@ -21,11 +21,9 @@
 - moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST
 
 # longer term
-- [*][SK] have Driss and the Swiss Knives come up with an Excel with Gain issues for Farah
 - [knowledge] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
 - [SK][PD] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
-- [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - keep Aleksandra in the loop
-- check Chhitiz's parental leave in summer/autumn
+- [SK] Chhitiz - check meeting notes [2026-02-19-bettina.md] - check his longer absence with the team
 
 # on a fixed date
 - [*][SK][260331.15:00] testing discussion with Tomasz Pastuska
