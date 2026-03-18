@@ -41,6 +41,9 @@
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 
 # urgent
+- understand with Mathias the issue of overlapping packages - go back to Lukasz Ferenc and answer the email 
+    - big packages going from SC1DEV all the way to clients should NOT overlap - deal with concurrency when deploying packages
+    - reach out to Richard Heermann 
 - [admin] activation of Henrik 
 - [testing] work on the Testing Strategy draft Word document with Driss 
 
