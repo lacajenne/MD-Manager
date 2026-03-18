@@ -59,7 +59,7 @@
 - [people] get in touch with Christoph Heermann on configuration management
 - [stakeholders] get feedback from Mathias on the email from Ryan - go back to Ryan
 - [strategy] get feedback from Mathias on the team scaling information
-- [stretegy] add feedback from Mathias to the scaling slides
+- [strategy] add feedback from Mathias to the scaling slides
 - [admin] pay lunch with corporate credit card and insure it works - before the Copenhagen trip
 - [admin] vacation request for the summer - BMD and Workday both
 - [testing] document from Ola and integration in the testing strategy
