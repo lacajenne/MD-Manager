@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-18
+> **Last Updated:** 2026-03-19
 
 # the morning rites
 - check the calendar in Outlook
@@ -36,7 +36,7 @@
 - [people] getting to know all stakeholders and managers - use SK backlog composition as priority guide
 
 # items to follow
-- [stakeholders] add E2E tests from Hanna Babii (monitoring solutions) to the standard tests executed by SK
+- [stakeholders] E2E tests from Hanna Babii (monitoring solutions) to the SC1 tests - start with a simple scenario
 - [organize] Epic 521791 - turn it into a backlog for the testing strategy
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 
@@ -45,11 +45,12 @@
     - big packages going from SC1DEV all the way to clients should NOT overlap - deal with concurrency when deploying packages
     - reach out to Richard Heermann 
 - [admin] activation of Henrik 
-- [testing] work on the Testing Strategy draft Word document with Driss 
+- [testing] work on the Testing Strategy draft Word document with Driss and Ola
 
 # todo 
 - [team] one-on-one series with Henrik Palm
 - [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  
+    - we want to share the ownership of the framework
 
 # under way
 - [learn] study actual Value Stream mappings (with Artur)
