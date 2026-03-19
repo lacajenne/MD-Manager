@@ -6,6 +6,7 @@
 - Value Stream test leads should take responsibility to test the standard on all environments — standard and customer specific
 - Testers and configurators collaborate in the SC1 environment
 - The ADC (Advanced Delivery Center) should test custom client configuration — scope is being defined
+- Value Stream test leads test the standard configuration in client environments - we are trying to find the sweet spot between how much we can test and how much we can automate 
 - UAT environment testing is done by the client and/or by SMBS
 
 **Automation**

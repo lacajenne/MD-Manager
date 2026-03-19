@@ -41,7 +41,8 @@
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 
 # urgent
-- understand with Mathias the issue of overlapping packages - go back to Lukasz Ferenc and answer the email 
+- [stakeholders] discuss auth roles questions with Matteo - feedback to Christopher Taylor and Thomas Olsen
+- [stakeholders] understand with Mathias the issue of overlapping packages - go back to Lukasz Ferenc and answer the email 
     - big packages going from SC1DEV all the way to clients should NOT overlap - deal with concurrency when deploying packages
     - reach out to Richard Heermann 
 - [admin] activation of Henrik 
