@@ -37,7 +37,7 @@
 
 # items to follow
 - [stakeholders] E2E tests from Hanna Babii (monitoring solutions) to the SC1 tests - start with a simple scenario
-- [organize] Epic 521791 - turn it into a backlog for the testing strategy
+- [testing] Epic 521791 - book Driss for a talk - include items into the testing strategy
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 
 # urgent
@@ -48,6 +48,7 @@
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
 
 # todo 
+- [testing] share TCC meeting contents with Varun
 - [team] one-on-one series with Henrik Palm
 - [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  
     - we want to share the ownership of the framework
