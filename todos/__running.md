@@ -1,4 +1,20 @@
 
+[2026-03-19]
+
+Swiss Knives Deliverables for SC1
+Rabia has been with SimCorp for more than 8 years - she has been service delivery manager - she is a manager in the SC1 value stream
+working on INTECH - splitting responsabilities that were with Razvan only previously - she is in Texas 
+the task she has is related to the SimCorp One Live (will consume SC1DEV, SC1TEST... but it is on a different tentant, the presales tenant) and SimCorp One MVP (not started yet)
+SimCorp One Live was previously Standard Platform
+
+
+CORIC setup in the SC1 internal environments.
+LDL is being onboarded on the SC1 standard - is CORIC part of the standard? Someone answered YES to this question.
+XMGR only covers SCD. 
+
+
+=====================================================================================================================================================
+
 [2026-03-18]
 
 Aleksandra asked a question on the involvement of the Swiss Knives in discussions on the go-live of Lindsell Train and Intech

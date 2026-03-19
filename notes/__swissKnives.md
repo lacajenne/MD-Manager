@@ -12,6 +12,9 @@ Swiss Knives
 - Mykola Yevstihnieiev 
 - Stefan Mayer 
 
-
-
+The main portfolio of the team is
+- testing
+- configuration
+- infrastructure 
+ 
 

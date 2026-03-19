@@ -22,8 +22,8 @@
 
 # longer term
 - [learn] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
-- with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
-- Chhitiz - check meeting notes [2026-02-19-bettina.md] - check his longer absence with the team
+- [stakeholders] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
+- [admin] Chhitiz - check meeting notes [2026-02-19-bettina.md] - check his longer absence with the team
 
 # on a fixed date
 - [260331.15:00][stakeholders] testing discussion with Tomasz Pastuska
@@ -32,7 +32,7 @@
 - [260921-to-24][learn][admin] Lead with Impact in Copenhagen - book travel
 
 # current focus
-- Testing Strategy document draft
+- [testing] Testing Strategy document draft
 - [people] getting to know all stakeholders and managers - use SK backlog composition as priority guide
 
 # items to follow
@@ -48,6 +48,7 @@
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
 
 # todo 
+- [team][stakeholders] align with Mathias on: take-aways of the CORIC setup in SC1 - issue from Lukasz Ferenc - questions by Thomas Olsen 
 - [testing] share TCC meeting contents with Varun
 - [team] one-on-one series with Henrik Palm
 - [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  
