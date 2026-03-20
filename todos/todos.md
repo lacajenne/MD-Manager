@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-19
+> **Last Updated:** 2026-03-20
 
 # the morning rites
 - check the calendar in Outlook
@@ -41,7 +41,6 @@
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 
 # urgent
-- [stakeholders] discuss auth roles questions with Matteo - use all emails - feedback to Christopher Taylor and Thomas Olsen
 - [stakeholders] understand with Mathias the issue of overlapping packages - go back to Lukasz Ferenc and answer the email 
     - big packages going from SC1DEV all the way to clients should NOT overlap - deal with concurrency when deploying packages
     - reach out to Richard Heermann 
@@ -50,7 +49,6 @@
 
 # todo 
 - [team][stakeholders] align with Mathias on: take-aways of the CORIC setup in SC1 - issue from Lukasz Ferenc - questions by Thomas Olsen 
-- [testing] share TCC meeting contents with Varun
 - [team] one-on-one series with Henrik Palm
 - [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  
     - we want to share the ownership of the framework
@@ -63,6 +61,7 @@
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [stakeholders] discuss auth roles questions with Matteo - use all emails - feedback to Christopher Taylor and Thomas Olsen
 - [team] one-on-ones to communicate bonus and check that the same is done with Mykola
 - [people] get in touch with Christoph Heermann on configuration management
 - [stakeholders] get feedback from Mathias on the email from Ryan - go back to Ryan
