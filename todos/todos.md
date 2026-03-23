@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-20
+> **Last Updated:** 2026-03-23
 
 # the morning rites
 - check the calendar in Outlook
@@ -44,7 +44,6 @@
 - [stakeholders] understand with Mathias the issue of overlapping packages - go back to Lukasz Ferenc and answer the email 
     - big packages going from SC1DEV all the way to clients should NOT overlap - deal with concurrency when deploying packages
     - reach out to Richard Heermann 
-- [admin] activation of Henrik 
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
 
 # todo 
@@ -61,6 +60,7 @@
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [admin] activation of Henrik 
 - [stakeholders] discuss auth roles questions with Matteo - use all emails - feedback to Christopher Taylor and Thomas Olsen
 - [team] one-on-ones to communicate bonus and check that the same is done with Mykola
 - [people] get in touch with Christoph Heermann on configuration management
