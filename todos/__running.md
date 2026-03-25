@@ -1,6 +1,12 @@
 
 [2026-03-25]
 
+With Mathias 
+onboarding teams do not have the picture and project management organisation
+SC1 release needs to help us stopping following the project based approach
+everyone is running around confused
+
+
 Problems with the onboarding of LTL (Lindsell Train) and Intech
 - for both, there was a problem with the update mechanism from GOLD to client DEV - first delivery was fine, but no working update mechanism in place
 - LTL: they do not want the full standard and there is a risk that updates will overwrite the workarounds they migt implement to disable what they do not want - we need to escalate 
