@@ -1,6 +1,11 @@
 
 [2026-03-25]
 
+With Hanna
+people directing for managers like Kateryna need team leads to help them - managers cannot follow everything
+we need to discuss this idea with Aleksandra
+
+
 With Mathias 
 onboarding teams do not have the picture and project management organisation
 SC1 release needs to help us stopping following the project based approach

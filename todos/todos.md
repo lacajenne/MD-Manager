@@ -33,7 +33,7 @@
 
 # current focus
 - [stakeholders] Support Payam when people going to his team asking for help on moving from SP to SC1
-- [testing] Testing Strategy document draft
+- [testing] Testing Strategy
 - [people] getting to know all stakeholders and managers - use SK backlog composition as priority guide
 
 # items to follow
@@ -42,27 +42,28 @@
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 
 # urgent
-- [stakeholders] email from Kateryna with Mathias - 23-03-2026 10:50
-- [stakeholders] reply to Thomas Olsen with Mathias
-- [stakeholders] understand with Mathias the issue of overlapping packages - go back to Lukasz Ferenc and answer the email 
-    - big packages going from SC1DEV all the way to clients should NOT overlap - deal with concurrency when deploying packages
-    - reach out to Richard Heermann 
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
+- [testing] daily scheduled, running testing pipeline in SC1TEST
 
 # todo 
-- [team][stakeholders] align with Mathias on: take-aways of the CORIC setup in SC1 - issue from Lukasz Ferenc - questions by Thomas Olsen 
-- [team] one-on-one series with Henrik Palm
 - [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  
     - we want to share the ownership of the framework
 
 # under way
+- [team] one-on-one series with Henrik Palm
 - [learn] study actual Value Stream mappings (with Artur)
-- [admin] check Chhitiz's parental leave in March - check that everything is fine 
 - [strategy] with Tina - Swiss Knives scaling request 
 - [admin] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [admin] check Chhitiz's parental leave in March - check that everything is fine 
+- [team][stakeholders] align with Mathias on: take-aways of the CORIC setup in SC1 - issue from Lukasz Ferenc - questions by Thomas Olsen 
+- [stakeholders] understand with Mathias the issue of overlapping packages - go back to Lukasz Ferenc and answer the email 
+    - big packages going from SC1DEV all the way to clients should NOT overlap - deal with concurrency when deploying packages
+    - reach out to Richard Heermann 
+- [stakeholders] reply to Thomas Olsen with Mathias
+- [stakeholders] email from Kateryna with Mathias - 23-03-2026 10:50
 - [admin] activation of Henrik 
 - [stakeholders] discuss auth roles questions with Matteo - use all emails - feedback to Christopher Taylor and Thomas Olsen
 - [team] one-on-ones to communicate bonus and check that the same is done with Mykola
