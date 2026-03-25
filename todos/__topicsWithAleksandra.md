@@ -1,4 +1,5 @@
-- [Kasper] SimCorp One release - political battle between VS and Professional Services - regular meetings between Kasper and Paul (what about me?) 
-- who owns the smooth running of Gain and SCD in SC1? investigating and fixing sometimes is too costly on the SKs - Farah, DMS and so on 
-- Driss is not happy about his pay
+- negative approaches like 'why bother, VS is not going to exist in six months'
+- idea of team leads from Hanna
+- issue with people approaching for questions, Isa and Mathias - general lack of understanding, confusion and headless chicken mode
+    - understanding who does what and how to answer questions
 
