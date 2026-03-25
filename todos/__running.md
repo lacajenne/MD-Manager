@@ -9,7 +9,7 @@ Problems with the onboarding of LTL (Lindsell Train) and Intech
 
 Notes for talking with Isa Alasgarov - from Driss
 we will take your needs into considerations and see how it will fit into the testing strategy
-we spoke already with piotr
+we spoke already with Piotr Kurszewski
 we can possibly enable continuous testing in the client environments - even before it reaches prod
 
 =====================================================================================================================================================
