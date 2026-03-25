@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-23
+> **Last Updated:** 2026-03-25
 
 # the morning rites
 - check the calendar in Outlook
@@ -32,6 +32,7 @@
 - [260921-to-24][learn][admin] Lead with Impact in Copenhagen - book travel
 
 # current focus
+- [stakeholders] Support Payam when people going to his team asking for help on moving from SP to SC1
 - [testing] Testing Strategy document draft
 - [people] getting to know all stakeholders and managers - use SK backlog composition as priority guide
 

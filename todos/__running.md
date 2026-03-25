@@ -1,4 +1,19 @@
 
+[2026-03-25]
+
+Problems with the onboarding of LTL (Lindsell Train) and Intech
+- for both, there was a problem with the update mechanism from GOLD to client DEV - first delivery was fine, but no working update mechanism in place
+- LTL: they do not want the full standard and there is a risk that updates will overwrite the workarounds they migt implement to disable what they do not want - we need to escalate 
+	this to the right level - conversation moving to DevOps, with Kateryna Z.
+
+
+Notes for talking with Isa Alasgarov - from Driss
+we will take your needs into considerations and see how it will fit into the testing strategy
+we spoke already with piotr
+we can possibly enable continuous testing in the client environments - even before it reaches prod
+
+=====================================================================================================================================================
+
 [2026-03-19]
 
 Swiss Knives Deliverables for SC1
