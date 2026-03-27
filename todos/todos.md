@@ -40,6 +40,7 @@
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 
 # urgent
+- [stakeholders] FX Forwards issue from Dmytro - response from Kateryna - with Aleksandra - we need to get stuff done
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
 - [testing] daily scheduled, running testing pipeline in SC1TEST - check status with Driss
 
