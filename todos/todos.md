@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-25
+> **Last Updated:** 2026-03-27
 
 # the morning rites
 - check the calendar in Outlook
@@ -15,10 +15,8 @@
 
 # longer time focus
 - Kanban themes with Artur and the team
-    - understand where the tasks are coming from - how actual replenishment is done 
-    - work on the red pipelines issue - SRODEV and SC1TEST
-    - get a better DevOps board - realistic - prioritized
 - moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST
+- configurations must reach the SKs already in a testable state - we need a clearly defined collaboration process 
 
 # longer term
 - [learn] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
@@ -43,20 +41,20 @@
 
 # urgent
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
-- [testing] daily scheduled, running testing pipeline in SC1TEST
+- [testing] daily scheduled, running testing pipeline in SC1TEST - check status with Driss
 
 # todo 
 - [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  
     - we want to share the ownership of the framework
 
 # under way
-- [team] one-on-one series with Henrik Palm
 - [learn] study actual Value Stream mappings (with Artur)
 - [strategy] with Tina - Swiss Knives scaling request 
 - [admin] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [team] one-on-one series with Henrik Palm
 - [admin] check Chhitiz's parental leave in March - check that everything is fine 
 - [team][stakeholders] align with Mathias on: take-aways of the CORIC setup in SC1 - issue from Lukasz Ferenc - questions by Thomas Olsen 
 - [stakeholders] understand with Mathias the issue of overlapping packages - go back to Lukasz Ferenc and answer the email 
