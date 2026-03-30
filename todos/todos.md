@@ -29,7 +29,7 @@
 - [260921-to-24][learn][admin] Lead with Impact in Copenhagen - book travel
 
 # current focus
-- [stakeholders] Support Payam when people going to his team asking for help on moving from SP to SC1
+- [stakeholders] Support Payam when people go to his team asking for help on moving from SP to SC1
 - [testing] Testing Strategy
 - [people] getting to know all stakeholders and managers - use SK backlog composition as priority guide
 
@@ -39,7 +39,7 @@
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 
 # urgent
-- [stakeholders] FX Forwards issue from Dmytro - BLOCKED
+- [stakeholders] FX Forwards issue from Dmytro - BLOCKED 
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
 - [testing] daily scheduled, running testing pipeline in SC1TEST - achieve a green, stable pipeline
 
@@ -49,7 +49,7 @@
 
 # under way
 - [learn] study actual Value Stream mappings (with Artur)
-- [strategy] with Tina - Swiss Knives scaling request 
+- [strategy] with Tina - Swiss Knives scaling request - review document from Tina and discuss with Tina and Aleksandra
 - [admin] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 

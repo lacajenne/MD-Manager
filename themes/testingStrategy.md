@@ -34,9 +34,6 @@
 **Collaboration & Framework Sharing**
 - Swiss Knives are onboarding teams (e.g. Front Office) to the testing framework, sharing ownership to make it evolve faster with everyone's contribution
 
-**References**
-- USE THE MIRO BOARD — it just misses the ADC part
-
 
 Discussion with Artur Cybruch, 260220
 
