@@ -1,6 +1,38 @@
 
 [2026-03-30]
 
+With Piotr Kurszewski and Constantin Safoschnik
+Constantin Safoschnik - owner of Testing Services 
+today Testing Services will cover client upgrades - testing on client specific data and configuration 
+	they currently have 50-60 customers and it works
+	question: how to shift left current customers 
+
+We need a working group discussing who does what for testing
+	- Swiss Knives, Value Streams, Value Teams, Testing Services and so on
+Piotr is asking about the testing framework(s) - as defined in the testing strategy - should they be used for the VS or at corporate level,
+	including other parts of the organisation?
+Piotr pushes for using ONE framework - I think he is pushing for the Testing Platform framework 
+	- he still sees value in the specific parts of the SC1 framework and does not want to lose them
+A general topic/theme that emerges is that of the scope of a testing strategy, VS vs corporate level
+	- Constantin is asking to define a working group on these topics
+	- Piotr is asking what role we envision for the Testing Council can become effective fast enough with respect to our concrete immediate needs
+
+FOR DRISS AND ALEKSANDRA
+I had a conversation with Piotr Kurszewski and Constantin Safoschnik from Testing Services.
+ 
+A topic that emerged is the scope of the testing strategy we are working on for SC1: what about the corporate level?
+What role can the Testing Council play into this? Can they contribute within a time frame that is compatible with our needs?
+Constantin was also asking whether we can have a work group discussing the testing strategy and who should be part of it.
+ 
+I told them that we need to have some more meat on the bones of the testing strategy and that after that we plan to involve some more people. I told them that we want to start with a restricted number of contributors to avoid confusion; and that we are going to have a more open approach afterwards.
+ 
+Another set of questions was about the framework to be used, for SC1 or in a broader scope.
+Piotr pushes for using a single framework if possible, and pushes for the Testing Platform framework, mentioning efficiency and scalability as supporting arguments. He also admits that the capabilities of the existing SC1 testing framework need to be retained in whatever solution we want to go for.
+ 
+Driss and I know that the Testing Platform does not seem up to the task alone. How to proceed is a delicate point. I said we will discuss it together, and of course I did not commit to anything. I just stressed that I agree that we need to be pragmatic and focused on scalability, efficiency and so on.
+
+---
+
 With Dmytro and Mykola on the FX Forward issue involving the team of Kateryna Z.
 
 What happened: 
