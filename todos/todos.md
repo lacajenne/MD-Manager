@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-27
+> **Last Updated:** 2026-03-30
 
 # the morning rites
 - check the calendar in Outlook
@@ -25,7 +25,6 @@
 
 # on a fixed date
 - [260331.15:00][stakeholders] testing discussion with Tomasz Pastuska
-- [260525][admin] check contract status for Dmytro Pavlenko 
 - [260413-to-16][learn] Lead with Impact in Copenhagen    
 - [260921-to-24][learn][admin] Lead with Impact in Copenhagen - book travel
 
@@ -42,7 +41,7 @@
 # urgent
 - [stakeholders] FX Forwards issue from Dmytro - response from Kateryna - with Aleksandra - we need to get stuff done
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
-- [testing] daily scheduled, running testing pipeline in SC1TEST - check status with Driss
+- [testing] daily scheduled, running testing pipeline in SC1TEST - achieve a green, stable pipeline
 
 # todo 
 - [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  

@@ -1,4 +1,24 @@
 
+[2026-03-30]
+
+With Dmytro and Mykola on the FX Forward issue involving the team of Kateryna Z.
+
+What happened: 
+in this case, the request originated from SKs: Driss wanted to have at least one automated test on FX flows in SC1
+SKs reached out to Juliusz and some Natalia (Rudzka? but not sure) - they got some support
+there were still issues - Juliusz would have had to do some real work to solve them
+the VTs are too busy as we know
+incidentally, this kind of trouble is also happening with Traiana
+ 
+The bigger picture:
+this type of work is happening outside any formal flow 
+SKs have to do a lot of extra work on the configuration
+VTs are running their own manual tests in their own environments and probably see no value in seeing them running automated in SC1
+the visibility of the execution of automated tests in SC1 is still low - we are working on that, we need a stable pipeline
+configurators in VTs are always very busy - it would be good to establish a standard way to work - for example, VTs could setup environments before the work of SKs starts - they could also provide step-by-step instructions
+ 
+=====================================================================================================================================================
+
 [2026-03-25]
 
 With Hanna
