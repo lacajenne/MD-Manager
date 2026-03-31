@@ -11,4 +11,4 @@
 
 - understand the concepts of parameterization, customization, personalization
 
-
+- XMGR vs. CDMS 2.0  

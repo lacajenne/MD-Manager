@@ -38,13 +38,18 @@
 - [stakeholders] E2E tests from Hanna Babii (monitoring solutions) to the SC1 tests - start with a simple scenario
 - [testing] Epic 521791 - book Driss for a talk - include items into the testing strategy
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
+- [stakeholders] Collaborate with Tomasz Pastuszka on running their tests in SC1
 
 # urgent
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola - define a restricted workgroup - discuss the points raised by Piotr
 - [stakeholders] FX Forwards issue from Dmytro - BLOCKED 
 - [testing] daily scheduled, running testing pipeline in SC1TEST - achieve a stable pipeline
+- [stakeholders] organize a workshop on the SC1 testing (writing new tests and importing existing ones) - wait for Driss to be back
+    - involve Nikola Sobota and Rahum Maddi - keep Tomasz Pastuszka in the loop - the session needs to be recorded and reusable
+    - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # todo 
+- [team] One-on-one with Driss: communicate his promotion to IC7 and the 6.7% raise - his contribution was recognized - all was done that was possible to adjust his salary, within constraints
 - [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  
     - we want to share the ownership of the framework
 
