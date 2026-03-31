@@ -31,6 +31,8 @@ Piotr pushes for using a single framework if possible, and pushes for the Testin
  
 Driss and I know that the Testing Platform does not seem up to the task alone. How to proceed is a delicate point. I said we will discuss it together, and of course I did not commit to anything. I just stressed that I agree that we need to be pragmatic and focused on scalability, efficiency and so on.
 
+And: Constantin Safoschnik seems to me like someone we should involve in the definition of the testing strategy
+
 ---
 
 With Dmytro and Mykola on the FX Forward issue involving the team of Kateryna Z.

@@ -40,8 +40,8 @@
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 
 # urgent
+- [testing] work on the Testing Strategy draft Word document with Driss and Ola - define a restricted workgroup - discuss the points raised by Piotr
 - [stakeholders] FX Forwards issue from Dmytro - BLOCKED 
-- [testing] work on the Testing Strategy draft Word document with Driss and Ola
 - [testing] daily scheduled, running testing pipeline in SC1TEST - achieve a stable pipeline
 
 # todo 

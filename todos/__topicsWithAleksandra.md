@@ -1,3 +1,2 @@
-- FW Forward blockage in the team
 - idea of team leads from Hanna
 - LTL and the standard 

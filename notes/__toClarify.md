@@ -12,5 +12,3 @@
 - understand the concepts of parameterization, customization, personalization
 
 
-
-
