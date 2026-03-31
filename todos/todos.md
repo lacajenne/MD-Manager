@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-30
+> **Last Updated:** 2026-03-31
 
 # the morning rites
 - check the calendar in Outlook
@@ -24,14 +24,15 @@
 - [admin] Chhitiz - check meeting notes [2026-02-19-bettina.md] - check his longer absence with the team
 
 # on a fixed date
-- [260331.15:00][stakeholders] testing discussion with Tomasz Pastuska
+- [260331.15:00][stakeholders] testing discussion with Tomasz Pastuska - with Mykola and Stefan
 - [260413-to-16][learn] Lead with Impact in Copenhagen    
 - [260921-to-24][learn][admin] Lead with Impact in Copenhagen - book travel
 
 # current focus
 - [stakeholders] Support Payam when people go to his team asking for help on moving from SP to SC1
+- [stakeholders] Get familiar with the SK stakeholders and build collaboration processes
 - [testing] Testing Strategy
-- [people] getting to know all stakeholders and managers - use SK backlog composition as priority guide
+- [people] Getting to know all stakeholders and managers - use SK backlog composition as priority guide
 
 # items to follow
 - [stakeholders] E2E tests from Hanna Babii (monitoring solutions) to the SC1 tests - start with a simple scenario
@@ -41,7 +42,7 @@
 # urgent
 - [stakeholders] FX Forwards issue from Dmytro - BLOCKED 
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
-- [testing] daily scheduled, running testing pipeline in SC1TEST - achieve a green, stable pipeline
+- [testing] daily scheduled, running testing pipeline in SC1TEST - achieve a stable pipeline
 
 # todo 
 - [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  
