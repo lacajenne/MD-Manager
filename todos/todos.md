@@ -51,8 +51,11 @@
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # todo 
+- [stakeholders] Discuss with the team - create a dashboard/wiki/document showing clearly what automated tests are running, what flows are covered, how many scenarios and so on
+    this is for visibility - feedback to Dawid 
 - [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  
     - we want to share the ownership of the framework
+    -- include topic: visibility of teams work, testing effort and ongoing processes
 
 # under way
 - [learn] study actual Value Stream mappings (with Artur)
