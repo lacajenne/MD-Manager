@@ -16,7 +16,8 @@
 # longer time focus
 - Kanban themes with Artur and the team
 - moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST
-- configurations must reach the SKs already in a testable state - we need a clearly defined collaboration process 
+- we need a clearly defined collaboration process with stakeholders - it is important that all parties see value in the way we want to do things
+- SC1 Release, Evergreen, E2E pipelines in SC1TEST and in customer environments
 
 # longer term
 - [learn] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
@@ -55,7 +56,7 @@
 # under way
 - [learn] study actual Value Stream mappings (with Artur)
 - [strategy] with Tina - Swiss Knives scaling request - review document from Tina and discuss with Tina and Aleksandra
-- [admin] figure out how to stop cVation people from being called to do training they are not paid for - feedback to Kasper
+- [admin] create a ticket to stop cVation people from being called to do training they are not paid for - feedback to Kasper
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
