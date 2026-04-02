@@ -5,6 +5,7 @@
 # the morning rites
 - check the calendar in Outlook
 - check all new emails 
+- check Teams channel "Swiss Knives Support"
 - check the Pending folder in Outlook
 - check Workday
 - record time in Workday for the previous day and close the previous week if monday
@@ -41,6 +42,7 @@
 - [stakeholders] Collaborate with Tomasz Pastuszka on running their tests in SC1
 
 # urgent
+- [stakeholders] prepare for the meeting on testing on the 7th of April (with Constantin Safoschnik)
 - [stakeholders] arrange for a tour of the testing framework with Paul - also show the pipeline and the report - first collect information from Mykola
 - [team] One-on-one with Driss: communicate his promotion to IC7 and the 6.7% raise - his contribution was recognized - all was done that was possible to adjust his salary, within constraints
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola - define a restricted workgroup - discuss the points raised by Piotr
@@ -51,6 +53,7 @@
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # todo 
+- [learn] Wait for followup of mail from Nikki Keen "Welcome to the CQ change leadership development program!" - the deadline is the 14th of April
 - [stakeholders] Discuss with the team - create a dashboard/wiki/document showing clearly what automated tests are running, what flows are covered, how many scenarios and so on
     this is for visibility - feedback to Dawid 
 - [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  
