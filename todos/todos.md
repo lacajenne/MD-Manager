@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-31
+> **Last Updated:** 2026-03-02
 
 # the morning rites
 - check the calendar in Outlook
@@ -41,7 +41,7 @@
 - [stakeholders] Collaborate with Tomasz Pastuszka on running their tests in SC1
 
 # urgent
-- [stakeholders] arrange for a tour of the testing framework with Paul - first collect information from Mykola
+- [stakeholders] arrange for a tour of the testing framework with Paul - also show the pipeline and the report - first collect information from Mykola
 - [team] One-on-one with Driss: communicate his promotion to IC7 and the 6.7% raise - his contribution was recognized - all was done that was possible to adjust his salary, within constraints
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola - define a restricted workgroup - discuss the points raised by Piotr
 - [stakeholders] FX Forwards issue from Dmytro - BLOCKED 
@@ -60,7 +60,7 @@
 # under way
 - [learn] study actual Value Stream mappings (with Artur)
 - [strategy] with Tina - Swiss Knives scaling request - review document from Tina and discuss with Tina and Aleksandra
-- [admin] create a ticket to stop cVation people from being called to do training they are not paid for - feedback to Kasper
+- [admin] create a ticket to stop cVation people from being called to do training they are not paid for - ask Sofia Lorcet - feedback to Kasper
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
