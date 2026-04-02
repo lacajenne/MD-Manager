@@ -56,6 +56,7 @@
 - [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  
     - we want to share the ownership of the framework
     -- include topic: visibility of teams work, testing effort and ongoing processes
+    -- discuss mid term stategy goals [teamStrategy-260402.md]
 
 # under way
 - [learn] study actual Value Stream mappings (with Artur)
