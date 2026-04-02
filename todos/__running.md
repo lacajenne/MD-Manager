@@ -1,4 +1,11 @@
 
+[2026-04-02]
+
+Conversation with Aleksandra and Constantin Safoschnik. We need to have a clear roadmap on the automation of tests in the client environments.
+How fast can we automate 75% of the tests? How does this depend on the test data theme? Clarify dependencies, timescales, challenges.
+
+=====================================================================================================================================================
+
 [2026-03-30]
 
 With Piotr Kurszewski and Constantin Safoschnik
