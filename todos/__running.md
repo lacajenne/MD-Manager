@@ -14,6 +14,9 @@ How readable are the existing scenarios?
 How easy it is for a new contributor to add a new meaningful test scenario?
 How hard would it be to introduce a Gherkin-like feature file layer?
  
+What is needed to write test locally?
+Where can tests be run?
+ 
 What are the most relevant current limitations of the framework?
 How many functional areas / test families cannot be implemented in the framework due to its incompleteness?
  
@@ -25,7 +28,7 @@ How good are logging and reporting?
  
 How well is the framework documented?
 Are there guardrails that prevent misuse of components and common mistakes?
-
+How well do framework unit tests insure that the tests are doing what is expected?
 
 =====================================================================================================================================================
 
