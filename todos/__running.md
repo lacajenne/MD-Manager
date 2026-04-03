@@ -1,4 +1,34 @@
 
+[2026-04-03]
+
+Questions/notes on the testing framework
+
+Describe the test flow logic - setup - run - assert - waiting & syncrhonization - teardown
+Elaborate on polling, explicit waits, retries, timeouts
+Elaborate on the flow of test data
+Is anything mocked?
+Is data cleaned up? when?
+Is test execution idempotent?
+ 
+How readable are the existing scenarios?
+How easy it is for a new contributor to add a new meaningful test scenario?
+How hard would it be to introduce a Gherkin-like feature file layer?
+ 
+What are the most relevant current limitations of the framework?
+How many functional areas / test families cannot be implemented in the framework due to its incompleteness?
+ 
+Is parallel test execution a meaningful topic in this context? Does the framework support it?
+Elaborate on the risk of test flakiness and the corresponding mitigation strategy
+ 
+When tests fail, how easy is it to figure out why?
+How good are logging and reporting?
+ 
+How well is the framework documented?
+Are there guardrails that prevent misuse of components and common mistakes?
+
+
+=====================================================================================================================================================
+
 [2026-04-02]
 
 Conversation with Aleksandra and Constantin Safoschnik. We need to have a clear roadmap on the automation of tests in the client environments.
