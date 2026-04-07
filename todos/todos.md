@@ -42,7 +42,7 @@
 - [stakeholders] Collaborate with Tomasz Pastuszka on running their tests in SC1
 
 # urgent
-- [stakeholders] prepare for the meeting on testing on the 7th of April (with Constantin Safoschnik)
+- [stakeholders] prepare for the meeting on testing with Constantin Safoschnik and Driss
 - [stakeholders] arrange for a tour of the testing framework with Paul - also show the pipeline and the report - first collect information from Mykola
 - [team] One-on-one with Driss: communicate his promotion to IC7 and the 6.7% raise - his contribution was recognized - all was done that was possible to adjust his salary, within constraints
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola - define a restricted workgroup - discuss the points raised by Piotr

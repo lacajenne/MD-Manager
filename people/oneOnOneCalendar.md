@@ -1,16 +1,16 @@
 
 Last one on one meeting
 
-- Chhitiz Shrestha - 260303 
-- Dmytro Pavlenko 
+- Chhitiz Shrestha - 260303 - 260407 
+- Dmytro Pavlenko - 260326
 - Driss Biya - 260305
-- Felix Larsen 
-- Kasper Fehrend  
+- Kasper Fehrend - 260421
 - Marcus Pagh - 260311
 - Mathias Hecht - 260312
 - Matteo Christian Vogt - 260319
-- Mykola Yevstihnieiev 
-- Stefan Mayer 
+- Mykola Yevstihnieiev - 260408
+- Stefan Mayer - 260422
+- Felix Larsen (PARENTAL LEAVE)
 
 
 
