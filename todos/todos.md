@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-02
+> **Last Updated:** 2026-03-08
 
 # the morning rites
 - check the calendar in Outlook
@@ -41,12 +41,9 @@
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 - [stakeholders] Collaborate with Tomasz Pastuszka on running their tests in SC1
 
-# urgent
+# high priority
 - [stakeholders] prepare for the meeting on testing with Constantin Safoschnik and Driss
-- [stakeholders] arrange for a tour of the testing framework with Paul - also show the pipeline and the report - first collect information from Mykola
 - [team] One-on-one with Driss: communicate his promotion to IC7 and the 6.7% raise - his contribution was recognized - all was done that was possible to adjust his salary, within constraints
-- [testing] work on the Testing Strategy draft Word document with Driss and Ola - define a restricted workgroup - discuss the points raised by Piotr
-- [stakeholders] FX Forwards issue from Dmytro - BLOCKED 
 - [testing] daily scheduled, running testing pipeline in SC1TEST - achieve a stable pipeline
 - [stakeholders] organize a workshop on the SC1 testing (writing new tests and importing existing ones) - wait for Driss to be back
     - involve Nikola Sobota and Rahum Maddi - keep Tomasz Pastuszka in the loop - the session needs to be recorded and reusable
@@ -56,19 +53,22 @@
 - [learn] Wait for followup of mail from Nikki Keen "Welcome to the CQ change leadership development program!" - the deadline is the 14th of April
 - [stakeholders] Discuss with the team - create a dashboard/wiki/document showing clearly what automated tests are running, what flows are covered, how many scenarios and so on
     this is for visibility - feedback to Dawid 
-- [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  
-    - we want to share the ownership of the framework
-    -- include topic: visibility of teams work, testing effort and ongoing processes
-    -- discuss mid term stategy goals [teamStrategy-260402.md]
 
 # under way
-- [learn] study the SC1 testing framework
+- [testing] work on the Testing Strategy draft Word document with Driss and Ola - define a restricted workgroup - discuss the points raised by Piotr
+- [stakeholders] presentation of the SC1 test framework with Paul - also show the pipeline and the report - answer framework questions with Mykola
 - [learn] study actual Value Stream mappings (with Artur)
 - [strategy] with Tina - Swiss Knives scaling request - review document from Tina and discuss with Tina and Aleksandra
 - [admin] create a ticket to stop cVation people from being called to do training they are not paid for - ask Sofia Lorcet - feedback to Kasper
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  
+    - we want to share the ownership of the framework
+    -- include topic: visibility of teams work, testing effort and ongoing processes
+    -- discuss mid term stategy goals [teamStrategy-260402.md]
+- [stakeholders] FX Forwards issue from Dmytro - BLOCKED 
+- [learn] study the SC1 testing framework
 - [260331.15:00][stakeholders] testing discussion with Tomasz Pastuska - with Mykola and Stefan
 - [team] one-on-one series with Henrik Palm
 - [admin] check Chhitiz's parental leave in March - check that everything is fine 
