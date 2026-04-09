@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-08
+> **Last Updated:** 2026-03-09
 
 # the morning rites
 - check the calendar in Outlook
@@ -59,13 +59,13 @@
 
 # under way
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola - define a restricted workgroup - discuss the points raised by Piotr
-- [stakeholders] presentation of the SC1 test framework with Paul - also show the pipeline and the report - answer framework questions with Mykola
 - [learn] study actual Value Stream mappings (with Artur)
 - [strategy] with Tina - Swiss Knives scaling request - review document from Tina and discuss with Tina and Aleksandra
-- [admin] create a ticket to stop cVation people from being called to do training they are not paid for - ask Sofia Lorcet - feedback to Kasper
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [stakeholders] write a presentation of the SC1 test framework for Paul - also show the pipeline and the report - answer framework questions with Mykola
+- [admin] create a ticket to stop cVation people from being called to do training they are not paid for - ask Sofia Lorcet - feedback to Kasper
 - [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  
     - we want to share the ownership of the framework
     -- include topic: visibility of teams work, testing effort and ongoing processes
