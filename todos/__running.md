@@ -1,4 +1,18 @@
 
+[2026-04-10]
+
+Feedback from Paul on SC1 Testing FW presentation
+
+we want visibility/transparency on the goals we have for test automation - how many tests to we plan to onboard in the next weeks/months
+
+clarify name of stage "manually run batch jobs" - update presentation
+
+check the PPT with Driss and publish it to a wider audience
+
+think of creating a live dashboard on the tests and their execution - involve the team and Richard 
+
+=====================================================================================================================================================
+
 [2026-04-03]
 
 Questions/notes on the testing framework
