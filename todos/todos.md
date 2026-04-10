@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-09
+> **Last Updated:** 2026-03-10
 
 # the morning rites
 - check the calendar in Outlook
@@ -43,16 +43,18 @@
 
 # high priority
 - [stakeholders] prepare for the meeting on testing with Constantin Safoschnik and Driss
-- [team] One-on-one with Driss: communicate his promotion to IC7 and the 6.7% raise - his contribution was recognized - all was done that was possible to adjust his salary, within constraints
 - [testing] daily scheduled, running testing pipeline in SC1TEST - achieve a stable pipeline
 - [stakeholders] organize a workshop on the SC1 testing (writing new tests and importing existing ones) - wait for Driss to be back
     - involve Nikola Sobota and Rahum Maddi - keep Tomasz Pastuszka in the loop - the session needs to be recorded and reusable
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # burning
-- [stakeholders] react on email from Razvan with Anette - get feedback from Kasper 
+- [team] One-on-one with Driss: communicate his promotion to IC7 and the 6.7% raise - his contribution was recognized - all was done that was possible to adjust his salary, within constraints
+- [stakeholders] email from Thomas Olsen - check with Driss - share with Aleksandra - go back to Thomas
+- [stakeholders] email from Razvan - check status  
 
 # todo 
+- [team] check Real Journey for Chhitiz in Workday
 - [learn] Wait for followup of mail from Nikki Keen "Welcome to the CQ change leadership development program!" - the deadline is the 14th of April
 - [stakeholders] Discuss with the team - create a dashboard/wiki/document showing clearly what automated tests are running, what flows are covered, how many scenarios and so on
     this is for visibility - feedback to Dawid 
@@ -64,6 +66,7 @@
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [stakeholders] react on email from Razvan with Anette - get feedback from Kasper 
 - [stakeholders] write a presentation of the SC1 test framework for Paul - also show the pipeline and the report - answer framework questions with Mykola
 - [admin] create a ticket to stop cVation people from being called to do training they are not paid for - ask Sofia Lorcet - feedback to Kasper
 - [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  
