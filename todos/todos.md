@@ -54,6 +54,7 @@
 - [stakeholders] email from Razvan - check status  
 
 # todo 
+- [team] discuss Mykola's message with Aleksandra
 - [team] check Real Journey for Chhitiz in Workday
 - [learn] Wait for followup of mail from Nikki Keen "Welcome to the CQ change leadership development program!" - the deadline is the 14th of April
 - [stakeholders] Discuss with the team - create a dashboard/wiki/document showing clearly what automated tests are running, what flows are covered, how many scenarios and so on
