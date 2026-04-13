@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-10
+> **Last Updated:** 2026-03-13
 
 # the morning rites
 - check the calendar in Outlook
@@ -25,20 +25,17 @@
 - [stakeholders] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
 - [admin] Chhitiz - check meeting notes [2026-02-19-bettina.md] - check his longer absence with the team
 
-# on a fixed date
-- [260413-to-16][learn] Lead with Impact in Copenhagen    
+# on a fixed date   
 - [260921-to-24][learn][admin] Lead with Impact in Copenhagen - book travel
 
 # current focus
-- [stakeholders] Support Payam when people go to his team asking for help on moving from SP to SC1
 - [stakeholders] Get familiar with the SK stakeholders and build collaboration processes
 - [testing] Testing Strategy
-- [people] Getting to know all stakeholders and managers - use SK backlog composition as priority guide
+- [testing] Have a stable scheduled pipeline run in SC1TEST
 
 # items to follow
 - [stakeholders] E2E tests from Hanna Babii (monitoring solutions) to the SC1 tests - start with a simple scenario
 - [testing] Epic 521791 - book Driss for a talk - include items into the testing strategy
-- [stakeholders] Ryan - Mathias - CORIC setup in SC1
 - [stakeholders] Collaborate with Tomasz Pastuszka on running their tests in SC1
 
 # high priority
@@ -61,13 +58,15 @@
     this is for visibility - feedback to Dawid 
 
 # under way
+- [260413-to-16][learn] Lead with Impact in Copenhagen 
+- [stakeholders] Ryan - Mathias - CORIC setup in SC1
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola - define a restricted workgroup - discuss the points raised by Piotr
 - [learn] study actual Value Stream mappings (with Artur)
-- [strategy] with Tina - Swiss Knives scaling request - review document from Tina and discuss with Tina and Aleksandra
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
-- [stakeholders] react on email from Razvan with Anette - get feedback from Kasper 
+- [strategy] with Tina - Swiss Knives scaling request - review document from Tina and discuss with Tina and Aleksandra
+- [strategy] with Tina - Swiss Knives scaling request - review document from Tina and discuss with Tina and Aleksandra- [stakeholders] react on email from Razvan with Anette - get feedback from Kasper 
 - [stakeholders] write a presentation of the SC1 test framework for Paul - also show the pipeline and the report - answer framework questions with Mykola
 - [admin] create a ticket to stop cVation people from being called to do training they are not paid for - ask Sofia Lorcet - feedback to Kasper
 - [retro] include topic : create a channel on the updates to the testing framework in SC1 - to give feedback to some complaints about it - discuss it with the team  
