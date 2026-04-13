@@ -51,12 +51,12 @@
 # todo 
 - [team] discuss Mykola's message with Aleksandra
 - [team] check Real Journey for Chhitiz in Workday
-- [learn] Wait for followup of mail from Nikki Keen "Welcome to the CQ change leadership development program!" - the deadline is the 14th of April
 - [stakeholders] Discuss with the team - create a dashboard/wiki/document showing clearly what automated tests are running, what flows are covered, how many scenarios and so on
     this is for visibility - feedback to Dawid 
 
 # under way
 - [260413-to-16][learn] Lead with Impact in Copenhagen 
+- [learn] Wait for followup of mail from Nikki Keen "Welcome to the CQ change leadership development program!" - the deadline is the 14th of April
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola - define a restricted workgroup - discuss the points raised by Piotr
 - [learn] study actual Value Stream mappings (with Artur)
