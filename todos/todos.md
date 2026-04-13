@@ -23,7 +23,6 @@
 # longer term
 - [learn] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
 - [stakeholders] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
-- [admin] Chhitiz - check meeting notes [2026-02-19-bettina.md] - check his longer absence with the team
 
 # on a fixed date   
 - [260921-to-24][learn][admin] Lead with Impact in Copenhagen - book travel
@@ -46,7 +45,6 @@
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # burning
-- [team] One-on-one with Driss: communicate his promotion to IC7 and the 6.7% raise - his contribution was recognized - all was done that was possible to adjust his salary, within constraints
 - [stakeholders] email from Thomas Olsen - check with Driss - share with Aleksandra - go back to Thomas
 - [stakeholders] email from Razvan - check status  
 
@@ -65,6 +63,8 @@
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [team] One-on-one with Driss: communicate his promotion to IC7 and the 6.7% raise - his contribution was recognized - all was done that was possible to adjust his salary, within constraints
+- [admin] Chhitiz - check meeting notes [2026-02-19-bettina.md] - check his longer absence with the team
 - [strategy] with Tina - Swiss Knives scaling request - review document from Tina and discuss with Tina and Aleksandra
 - [strategy] with Tina - Swiss Knives scaling request - review document from Tina and discuss with Tina and Aleksandra- [stakeholders] react on email from Razvan with Anette - get feedback from Kasper 
 - [stakeholders] write a presentation of the SC1 test framework for Paul - also show the pipeline and the report - answer framework questions with Mykola
