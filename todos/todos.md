@@ -38,6 +38,9 @@
 - [stakeholders] Collaborate with Tomasz Pastuszka on running their tests in SC1
 
 # high priority
+- [learn] do the CQ thing from Nikki
+- [admin] expenses claim 
+- [team] request for a new position to replace Dmytro Pavlenko
 - [learn] book travel to Copenhagen in September
 - [stakeholders] prepare for the meeting on testing with Constantin Safoschnik and Driss
 - [testing] daily scheduled, running testing pipeline in SC1TEST - achieve a stable pipeline
@@ -46,6 +49,8 @@
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # burning
+- [stakeholders] knowledge sharing with Driss and Aleksandra - all pipelines - call to action
+- [stakeholders] issue from Tetyana Pavlenko
 - [stakeholders] email from Thomas Olsen - check with Driss - share with Aleksandra - go back to Thomas
 - [stakeholders] email from Razvan - check status  
 
