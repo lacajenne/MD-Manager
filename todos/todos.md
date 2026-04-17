@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-13
+> **Last Updated:** 2026-03-17
 
 # the morning rites
 - check the calendar in Outlook
@@ -25,7 +25,7 @@
 - [stakeholders] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
 
 # on a fixed date   
-- [260921-to-24][learn][admin] Lead with Impact in Copenhagen - book travel
+- [260921-to-24][learn][admin] Lead with Impact in Copenhagen
 
 # current focus
 - [stakeholders] Get familiar with the SK stakeholders and build collaboration processes
@@ -38,6 +38,7 @@
 - [stakeholders] Collaborate with Tomasz Pastuszka on running their tests in SC1
 
 # high priority
+- [learn] book travel to Copenhagen in September
 - [stakeholders] prepare for the meeting on testing with Constantin Safoschnik and Driss
 - [testing] daily scheduled, running testing pipeline in SC1TEST - achieve a stable pipeline
 - [stakeholders] organize a workshop on the SC1 testing (writing new tests and importing existing ones) - wait for Driss to be back
