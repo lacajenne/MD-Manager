@@ -15,28 +15,28 @@
 - review the todo list
 
 # longer time focus
-- Kanban themes with Artur and the team
+- stabilize the way the team works - introduce more Agility and ways to reflect and improve
 - moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST
-- we need a clearly defined collaboration process with stakeholders - it is important that all parties see value in the way we want to do things
+- achieve a clearly defined collaboration process with stakeholders - it is important that all parties see value in the way we want to do things
 - SC1 Release, Evergreen, E2E pipelines in SC1TEST and in customer environments
 
 # longer term
-- [learn] Outcome Teams (Value Teams) and Deliverable Owners - check with Tina
-- [stakeholders] with Driss and Farah Khan - organize a discussion with the DMS Value Stream regarding DM Core upgrades, configuration deployment and so on 
+- all SC1 components must be taken into account for a smooth operation of SC1 - collaboration with PD 
 
 # on a fixed date   
 - [260921-to-24][learn][admin] Lead with Impact in Copenhagen
 
 # current focus
-- [stakeholders] Get familiar with the SK stakeholders and build collaboration processes
 - [testing] Testing Strategy
-- [testing] Have a stable scheduled pipeline run in SC1TEST
+- [testing] Have a stable scheduled pipeline run in SC1TEST - publish it - must be visible to everyone
 
 # items to follow
-- [testing] knowledge sharing session on the SC1 testing - pipelines, framework, contribution
 - [stakeholders] E2E tests from Hanna Babii (monitoring solutions) to the SC1 tests - start with a simple scenario
 - [testing] Epic 521791 - book Driss for a talk - include items into the testing strategy
 - [stakeholders] Collaborate with Tomasz Pastuszka on running their tests in SC1
+- [stakeholders] email from Thomas Olsen - Intech and LTL testing
+- [stakeholders] issue from Tetyana Pavlenko
+- [stakeholders] Ryan - Mathias - CORIC setup in SC1
 
 # high priority
 - [learn] book travel to Copenhagen in September
@@ -44,22 +44,19 @@
     - involve Nikola Sobota and Rahum Maddi - keep Tomasz Pastuszka in the loop - the session needs to be recorded and reusable
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
-# burning
-
 # todo 
 - [team] check Real Journey for Chhitiz in Workday
-- [stakeholders] Discuss with the team - create a dashboard/wiki/document showing clearly what automated tests are running, what flows are covered - feedback to Dawid 
+- [stakeholders][testing] following the knowledge sharing on SC1 testing, create wiki extensions for visibility 
+- [learn] study actual Value Stream mappings (with Artur)
+
+# burning
 
 # under way
-- [stakeholders] email from Thomas Olsen - check with Driss - share with Aleksandra - go back to Thomas
-- [stakeholders] issue from Tetyana Pavlenko
 - [stakeholders] knowledge sharing with Driss and Aleksandra - all pipelines - call to action
 - [testing] daily scheduled, running testing pipeline in SC1TEST - achieve a stable pipeline
 - [team] request for a new position to replace Dmytro Pavlenko
 - [learn] do the CQ thing from Nikki
-- [stakeholders] Ryan - Mathias - CORIC setup in SC1
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
-- [learn] study actual Value Stream mappings (with Artur)
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
