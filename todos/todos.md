@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-17
+> **Last Updated:** 2026-03-21
 
 # the morning rites
 - check the calendar in Outlook
@@ -33,43 +33,42 @@
 - [testing] Have a stable scheduled pipeline run in SC1TEST
 
 # items to follow
+- [testing] knowledge sharing session on the SC1 testing - pipelines, framework, contribution
 - [stakeholders] E2E tests from Hanna Babii (monitoring solutions) to the SC1 tests - start with a simple scenario
 - [testing] Epic 521791 - book Driss for a talk - include items into the testing strategy
 - [stakeholders] Collaborate with Tomasz Pastuszka on running their tests in SC1
 
 # high priority
-- [learn] do the CQ thing from Nikki
-- [admin] expenses claim 
-- [team] request for a new position to replace Dmytro Pavlenko
 - [learn] book travel to Copenhagen in September
-- [stakeholders] prepare for the meeting on testing with Constantin Safoschnik and Driss
-- [testing] daily scheduled, running testing pipeline in SC1TEST - achieve a stable pipeline
 - [stakeholders] organize a workshop on the SC1 testing (writing new tests and importing existing ones) - wait for Driss to be back
     - involve Nikola Sobota and Rahum Maddi - keep Tomasz Pastuszka in the loop - the session needs to be recorded and reusable
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # burning
-- [stakeholders] knowledge sharing with Driss and Aleksandra - all pipelines - call to action
-- [stakeholders] issue from Tetyana Pavlenko
 - [stakeholders] email from Thomas Olsen - check with Driss - share with Aleksandra - go back to Thomas
 - [stakeholders] email from Razvan - check status  
 
 # todo 
 - [team] discuss Mykola's message with Aleksandra
 - [team] check Real Journey for Chhitiz in Workday
-- [stakeholders] Discuss with the team - create a dashboard/wiki/document showing clearly what automated tests are running, what flows are covered, how many scenarios and so on
-    this is for visibility - feedback to Dawid 
+- [stakeholders] Discuss with the team - create a dashboard/wiki/document showing clearly what automated tests are running, what flows are covered - feedback to Dawid 
 
 # under way
-- [260413-to-16][learn] Lead with Impact in Copenhagen 
-- [learn] Wait for followup of mail from Nikki Keen "Welcome to the CQ change leadership development program!" - the deadline is the 14th of April
+- [stakeholders] issue from Tetyana Pavlenko
+- [stakeholders] knowledge sharing with Driss and Aleksandra - all pipelines - call to action
+- [testing] daily scheduled, running testing pipeline in SC1TEST - achieve a stable pipeline
+- [team] request for a new position to replace Dmytro Pavlenko
+- [learn] do the CQ thing from Nikki
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola - define a restricted workgroup - discuss the points raised by Piotr
 - [learn] study actual Value Stream mappings (with Artur)
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
-- [team] One-on-one with Driss: communicate his promotion to IC7 and the 6.7% raise - his contribution was recognized - all was done that was possible to adjust his salary, within constraints
+- [learn] Wait for followup of mail from Nikki Keen "Welcome to the CQ change leadership development program!" - the deadline is the 14th of April
+- [admin] expenses claim 
+- [260413-to-16][learn] Lead with Impact in Copenhagen 
+- [team] One-on-one with Driss: communicate his promotion to IC7 and the 6.7% raise - his contribution was recognized - all was done that was possible to adjust his salary
 - [admin] Chhitiz - check meeting notes [2026-02-19-bettina.md] - check his longer absence with the team
 - [strategy] with Tina - Swiss Knives scaling request - review document from Tina and discuss with Tina and Aleksandra
 - [strategy] with Tina - Swiss Knives scaling request - review document from Tina and discuss with Tina and Aleksandra- [stakeholders] react on email from Razvan with Anette - get feedback from Kasper 
