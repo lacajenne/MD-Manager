@@ -45,26 +45,26 @@
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # burning
-- [stakeholders] email from Thomas Olsen - check with Driss - share with Aleksandra - go back to Thomas
-- [stakeholders] email from Razvan - check status  
 
 # todo 
-- [team] discuss Mykola's message with Aleksandra
 - [team] check Real Journey for Chhitiz in Workday
 - [stakeholders] Discuss with the team - create a dashboard/wiki/document showing clearly what automated tests are running, what flows are covered - feedback to Dawid 
 
 # under way
+- [stakeholders] email from Thomas Olsen - check with Driss - share with Aleksandra - go back to Thomas
 - [stakeholders] issue from Tetyana Pavlenko
 - [stakeholders] knowledge sharing with Driss and Aleksandra - all pipelines - call to action
 - [testing] daily scheduled, running testing pipeline in SC1TEST - achieve a stable pipeline
 - [team] request for a new position to replace Dmytro Pavlenko
 - [learn] do the CQ thing from Nikki
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
-- [testing] work on the Testing Strategy draft Word document with Driss and Ola - define a restricted workgroup - discuss the points raised by Piotr
+- [testing] work on the Testing Strategy draft Word document with Driss and Ola
 - [learn] study actual Value Stream mappings (with Artur)
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [team] discuss Mykola's message with Aleksandra
+- [stakeholders] email from Razvan - check status  
 - [learn] Wait for followup of mail from Nikki Keen "Welcome to the CQ change leadership development program!" - the deadline is the 14th of April
 - [admin] expenses claim 
 - [260413-to-16][learn] Lead with Impact in Copenhagen 
