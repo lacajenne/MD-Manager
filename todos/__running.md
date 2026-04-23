@@ -1,4 +1,41 @@
 
+[2026-04-23]
+
+Trouble with SRODEV - it is a perpetual conflict of needs and a fight - people shut down services and block each other. 
+Swiss Knives are also partially affected - Mathias suggests SKs should remove the dependence on SRODEV and find a way to move out of it.
+Dmytro Pavlenko would propose a different model to give the SKs a disruption free environment for SKs to do dev work on.
+	Need of an extra environment - according to Mathias the cost of friction is anyway higher. 
+Mathias thinks we need to double down on the SC1STABLE concept - SC1TEST is still too unreliable.
+
+
+Language alignment
+
+Data Management setup
+	Environments: test, dev, prod
+	Systems: a single complete instance of all components (Gain, cloud services, Web UI...)
+	Each environment has usually multiple systems
+
+SC1 setup described in terms of the PD language
+	SC1DEV, QAM-DEV are systems in the dev environment
+	SC1TEST, QAM-TEST are systems in the test environment
+	SC1GOLD, QAM-PROD, ARDEA-GOLD are systems in the prod environment
+
+	SC1XXX systems share some infrastructure, same for QAMXXX systems
+		the Coric component in the SC1DEV system does not share infrastructure with the SCD component 
+			they are not under the same Azure subscription (to be verified)
+
+but people do not use the system term and refer to SC1DEV, SC1TEST... as environments
+	system is used to indicate a software component, like SCD in general (not a specific instance)
+
+
+"Gain does not do GOLD" - discussion
+	reach out Tomasz Pastuszka for discussions on XMGR vs git on configuration management
+		reach out to the architects: Mina Daoud, Christian Rysko
+			can also reach out to Mathias 
+
+
+=====================================================================================================================================================
+
 [2026-04-10]
 
 Feedback from Paul on SC1 Testing FW presentation
