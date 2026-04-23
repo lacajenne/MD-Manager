@@ -1,6 +1,27 @@
 
 [2026-04-23]
 
+Environment discussion with the team
+
+QUESTIONS
+
+what happens when some configuration bounces back at some later stage - client test for example
+
+NOTES
+
+SC1 Release discussions 
+	need to make it clear that the main focus of the Swiss Knives is on the STANDARD PART - not client environments
+	of course SKs are still involved in the client environments
+
+we want to go to a concept of a bundle of configuration
+
+we need a new environment for the work of Swiss Knives
+	this environment needs to be stable - high impact on team productivity
+		- without a continuous uncontrolled flow of configuration
+		- without services being arbitrarily stopped 
+
+	
+Standup
 Trouble with SRODEV - it is a perpetual conflict of needs and a fight - people shut down services and block each other. 
 Swiss Knives are also partially affected - Mathias suggests SKs should remove the dependence on SRODEV and find a way to move out of it.
 Dmytro Pavlenko would propose a different model to give the SKs a disruption free environment for SKs to do dev work on.
@@ -8,7 +29,7 @@ Dmytro Pavlenko would propose a different model to give the SKs a disruption fre
 Mathias thinks we need to double down on the SC1STABLE concept - SC1TEST is still too unreliable.
 
 
-Language alignment
+Language alignment - chat with Mathias
 
 Data Management setup
 	Environments: test, dev, prod
