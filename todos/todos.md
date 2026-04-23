@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-21
+> **Last Updated:** 2026-03-23
 
 # the morning rites
 - check the calendar in Outlook
@@ -15,9 +15,8 @@
 - review the todo list
 
 # longer time focus
-- stabilize the way the team works - introduce more Agility and ways to reflect and improve
-- moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST
-- achieve a clearly defined collaboration process with stakeholders - it is important that all parties see value in the way we want to do things
+- moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST - figure out who writes the test - make sure there is enough capacity
+- achieve a clearly defined collaboration process with stakeholders - value must be clearly visible - collaboration must be symmetrical
 - SC1 Release, Evergreen, E2E pipelines in SC1TEST and in customer environments
 
 # longer term
@@ -28,7 +27,7 @@
 
 # current focus
 - [testing] Testing Strategy
-- [testing] Have a stable scheduled pipeline run in SC1TEST - publish it - must be visible to everyone
+- [testing] Have stable scheduled pipelines run in SC1TEST - use real data with the data pipeline - publish the whole - must be visible to everyone
 
 # items to follow
 - [stakeholders] E2E tests from Hanna Babii (monitoring solutions) to the SC1 tests - start with a simple scenario
@@ -52,8 +51,8 @@
 # burning
 
 # under way
-- [stakeholders] knowledge sharing with Driss and Aleksandra - all pipelines - call to action
-- [testing] daily scheduled, running testing pipeline in SC1TEST - achieve a stable pipeline
+- [stakeholders] knowledge sharing with Driss and Aleksandra - all pipelines - call to action -- what next? who writes tests and how
+- [testing] daily scheduled, running testing pipelines in SC1TEST - use real data in the tests (not dummy data)
 - [team] request for a new position to replace Dmytro Pavlenko
 - [learn] do the CQ thing from Nikki
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
