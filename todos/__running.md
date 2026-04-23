@@ -30,7 +30,7 @@ but people do not use the system term and refer to SC1DEV, SC1TEST... as environ
 
 "Gain does not do GOLD" - discussion
 	reach out Tomasz Pastuszka for discussions on XMGR vs git on configuration management
-		reach out to the architects: Mina Daoud, Christian Rysko
+		reach out to the architects: Mina Daoud, Christian Rysgaard
 			can also reach out to Mathias 
 
 
