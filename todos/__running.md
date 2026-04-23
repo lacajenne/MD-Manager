@@ -20,6 +20,9 @@ we need a new environment for the work of Swiss Knives
 		- without a continuous uncontrolled flow of configuration
 		- without services being arbitrarily stopped 
 
+We urgently need to develop a health check on SC1TEST before we do our test run 
+	- to check that the system is in a test-compatible state
+
 	
 Standup
 Trouble with SRODEV - it is a perpetual conflict of needs and a fight - people shut down services and block each other. 
