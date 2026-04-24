@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-23
+> **Last Updated:** 2026-03-24
 
 # the morning rites
 - check the calendar in Outlook
@@ -23,6 +23,7 @@
 - all SC1 components must be taken into account for a smooth operation of SC1 - collaboration with PD 
 
 # on a fixed date   
+- [20260427.12:00][learn] do the CQ assessment from Nikki and the coaching session
 - [260921-to-24][learn][admin] Lead with Impact in Copenhagen
 
 # current focus
@@ -33,7 +34,7 @@
 - [stakeholders] E2E tests from Hanna Babii (monitoring solutions) to the SC1 tests - start with a simple scenario
 - [testing] Epic 521791 - book Driss for a talk - include items into the testing strategy
 - [stakeholders] Collaborate with Tomasz Pastuszka on running their tests in SC1
-- [stakeholders] email from Thomas Olsen - Intech and LTL testing
+- [stakeholders] Intech and LTL 
 - [stakeholders] issue from Tetyana Pavlenko
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 
@@ -52,9 +53,8 @@
 
 # under way
 - [stakeholders] knowledge sharing with Driss and Aleksandra - all pipelines - call to action -- what next? who writes tests and how
-- [testing] daily scheduled, running testing pipelines in SC1TEST - use real data in the tests (not dummy data)
+- [testing] scheduled, running testing pipelines in SC1TEST - use real data in the tests (not dummy data)
 - [team] request for a new position to replace Dmytro Pavlenko
-- [learn] do the CQ thing from Nikki
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
