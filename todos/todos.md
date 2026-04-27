@@ -23,7 +23,6 @@
 - all SC1 components must be taken into account for a smooth operation of SC1 - collaboration with PD 
 
 # on a fixed date   
-- [20260427.12:00][learn] do the CQ assessment from Nikki and the coaching session
 - [260921-to-24][learn][admin] Lead with Impact in Copenhagen
 
 # current focus
@@ -59,6 +58,7 @@
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [20260427.12:00][learn] do the CQ assessment from Nikki and the coaching session
 - [team] discuss Mykola's message with Aleksandra
 - [stakeholders] email from Razvan - check status  
 - [learn] Wait for followup of mail from Nikki Keen "Welcome to the CQ change leadership development program!" - the deadline is the 14th of April
