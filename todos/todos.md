@@ -44,7 +44,6 @@
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # todo 
-- [team] check Real Journey for Chhitiz in Workday
 - [stakeholders][testing] following the knowledge sharing on SC1 testing, create wiki extensions for visibility 
 - [learn] study actual Value Stream mappings (with Artur)
 
@@ -58,6 +57,7 @@
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [team] check Real Journey for Chhitiz in Workday
 - [20260427.12:00][learn] do the CQ assessment from Nikki and the coaching session
 - [team] discuss Mykola's message with Aleksandra
 - [stakeholders] email from Razvan - check status  
