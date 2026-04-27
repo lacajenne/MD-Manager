@@ -1,3 +1,13 @@
+My Notes
+
+My time as a manager has been quite short so far. I have noticed some themes, but I think it is early to really identify pros and cons of my style.
+I did not have many significant events showing positive or negative aspects of my style so far.
+Feedback so far has been good. I see myself represented pretty well by the Champion type, except I have a good focus also on getting things done.
+Also, all my scores are pretty close to the average range. I think the Adapter style is also a good description of how I work. 
+
+Also, I already see some challenges and issues that I have but I not not have enough information to know whether those come
+from over-relying on my strengths or from "blind spots".
+
 
 Usually People See You As
 
@@ -46,12 +56,6 @@ Most Of The Time You
 	
 	
 	
-Other Notes
-My time as a manager has been quite short so far. I have noticed some themes, but I think it is early to really identify pros and cons of my style.
-I did not have many significant events showing positive or negative aspects of my style so far.
-Feedback so far has been good. I see myself represented pretty well by the Champion type, except I have a good focus also on getting things done.
-Also, all my scores are pretty close to the average range. I think the Adapter style is also a good description of how I work. 
-I actually see it as more fitting than Champion. 
 
 
 
