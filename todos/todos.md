@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-24
+> **Last Updated:** 2026-03-28
 
 # the morning rites
 - check the calendar in Outlook
@@ -57,6 +57,7 @@
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [testing] create a User Story template for the request of an E2E test in the Swiss Knives backlog
 - [team] check Real Journey for Chhitiz in Workday
 - [20260427.12:00][learn] do the CQ assessment from Nikki and the coaching session
 - [team] discuss Mykola's message with Aleksandra

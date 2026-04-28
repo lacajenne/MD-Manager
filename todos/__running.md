@@ -1,4 +1,34 @@
 
+[2026-04-27]
+
+Chat with Driss
+
+SERVICE REQUEST
+
+A Service Request is like a task/ticket/story - to be picked by the relevant team
+	we want a service request for a new test to be automated by the SKs
+
+could be similar to when someone requires a new Snowflake or something similar
+	it starts as a service request
+		it gets into the backlog
+			is prioritized and managed by the SK
+			
+we want the service request to follow a template (for e2e test automation)
+
+service request under Service Release Office - Swiss Knives backlog - we need to create the new item type
+
+we can do work Kanban-style if necessary
+
+create new type of service request - could already present it on wednesday
+
+Artur proposes we use User Story because adding a new type would affect everyone else as well
+
+Aleksandra proposes
+	that we trace these items to outcomes
+	that we use a real story to create a template 
+
+=====================================================================================================================================================
+
 [2026-04-23]
 
 Environment discussion with the team
