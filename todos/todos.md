@@ -46,13 +46,14 @@
 # todo 
 - [stakeholders][testing] following the knowledge sharing on SC1 testing, create wiki extensions for visibility 
 - [learn] study actual Value Stream mappings (with Artur)
+- [admin] check budget Excel with Aleksandra
 
 # burning
 
 # under way
 - [stakeholders] knowledge sharing with Driss and Aleksandra - all pipelines - call to action -- what next? who writes tests and how
 - [testing] scheduled, running testing pipelines in SC1TEST - use real data in the tests (not dummy data)
-- [team] request for a new position to replace Dmytro Pavlenko
+- [team][admin] request for a new position to replace Dmytro Pavlenko
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
