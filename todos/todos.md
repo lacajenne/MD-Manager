@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-28
+> **Last Updated:** 2026-03-29
 
 # the morning rites
 - check the calendar in Outlook
@@ -15,19 +15,15 @@
 - review the todo list
 
 # longer time focus
-- moving tests of SK stakeholders into the SC1 framework, automate and execute them in SC1TEST - figure out who writes the test - make sure there is enough capacity
-- achieve a clearly defined collaboration process with stakeholders - value must be clearly visible - collaboration must be symmetrical
+- a stable workflow for tests coming from stakeholders to SK and being executed in scheduled pipelines regularly - an effective collaboration 
 - SC1 Release, Evergreen, E2E pipelines in SC1TEST and in customer environments
-
-# longer term
-- all SC1 components must be taken into account for a smooth operation of SC1 - collaboration with PD 
 
 # on a fixed date   
 - [260921-to-24][learn][admin] Lead with Impact in Copenhagen
 
 # current focus
 - [testing] Testing Strategy
-- [testing] Have stable scheduled pipelines run in SC1TEST - use real data with the data pipeline - publish the whole - must be visible to everyone
+- [testing] Have stable scheduled pipelines run in SC1TEST - use real data with the data pipeline - publish the whole - call to action
 
 # items to follow
 - [stakeholders] E2E tests from Hanna Babii (monitoring solutions) to the SC1 tests - start with a simple scenario
@@ -38,6 +34,7 @@
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 
 # high priority
+- [admin] check budget Excel with Aleksandra
 - [learn] book travel to Copenhagen in September
 - [stakeholders] organize a workshop on the SC1 testing (writing new tests and importing existing ones) - wait for Driss to be back
     - involve Nikola Sobota and Rahum Maddi - keep Tomasz Pastuszka in the loop - the session needs to be recorded and reusable
@@ -46,18 +43,16 @@
 # todo 
 - [stakeholders][testing] following the knowledge sharing on SC1 testing, create wiki extensions for visibility 
 - [learn] study actual Value Stream mappings (with Artur)
-- [admin] check budget Excel with Aleksandra
 
 # burning
 
 # under way
 - [stakeholders] knowledge sharing with Driss and Aleksandra - all pipelines - call to action -- what next? who writes tests and how
-- [testing] scheduled, running testing pipelines in SC1TEST - use real data in the tests (not dummy data)
-- [team][admin] request for a new position to replace Dmytro Pavlenko
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [testing] discuss the process of E2E test automation with Driss and Dawid - document discussion in Miro
 - [testing] create a User Story template for the request of an E2E test in the Swiss Knives backlog
 - [team] check Real Journey for Chhitiz in Workday
 - [20260427.12:00][learn] do the CQ assessment from Nikki and the coaching session
