@@ -41,17 +41,21 @@
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # todo 
+- [learn] figure out some more about ambassadors
+- [testing] discuss email from Marcus on VDIs - with Driss and Marcus
+- [testing] meeting with Aleksandra and Driss - share information on the story template - discuss on how to share progress through the phases
 - [stakeholders][testing] following the knowledge sharing on SC1 testing, create wiki extensions for visibility 
 - [learn] study actual Value Stream mappings (with Artur)
 
 # burning
 
 # under way
-- [stakeholders] knowledge sharing with Driss and Aleksandra - all pipelines - call to action -- what next? who writes tests and how
+
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
 - [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
 
 # DONE
+- [stakeholders] knowledge sharing with Driss and Aleksandra - all pipelines - call to action -- what next? who writes tests and how
 - [testing] discuss the process of E2E test automation with Driss and Dawid - document discussion in Miro
 - [testing] create a User Story template for the request of an E2E test in the Swiss Knives backlog
 - [team] check Real Journey for Chhitiz in Workday
