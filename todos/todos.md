@@ -46,6 +46,9 @@
 - [learn] study actual Value Stream mappings (with Artur)
 
 # burning
+- [admin] get help from team on resource groups in Excel (filters: Type 'Everything Else', Department 'Service Orchestration') 
+    - identify the correct values of Type and Department, update the ResourceMappings tab in the Excel
+        - complete with Aleksandra, review and submit
 
 # under way
 - [team][testing] support Dmytro with FX Forward
