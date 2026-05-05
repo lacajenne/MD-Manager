@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-03-29
+> **Last Updated:** 2026-05-05
 
 # the morning rites
 - check the calendar in Outlook
@@ -27,7 +27,7 @@
 
 # items to follow
 - [stakeholders] E2E tests from Hanna Babii (monitoring solutions) to the SC1 tests - start with a simple scenario
-- [testing] Epic 521791 - book Driss for a talk - include items into the testing strategy
+- [testing] Epic 521791 - use to track progress on testing 
 - [stakeholders] Collaborate with Tomasz Pastuszka on running their tests in SC1
 - [stakeholders] Intech and LTL 
 - [stakeholders] issue from Tetyana Pavlenko
@@ -42,19 +42,18 @@
 
 # todo 
 - [learn] figure out some more about ambassadors
-- [testing] discuss email from Marcus on VDIs - with Driss and Marcus
 - [testing] meeting with Aleksandra and Driss - share information on the story template - discuss on how to share progress through the phases
-- [stakeholders][testing] following the knowledge sharing on SC1 testing, create wiki extensions for visibility 
 - [learn] study actual Value Stream mappings (with Artur)
 
 # burning
 
 # under way
-
+- [team][testing] support Dmytro with FX Forward
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
-- [learn] do course "VSM Foundation" in Flowtopia - finish it by the end of March
+- [learn] do course "VSM Foundation" in Flowtopia 
 
 # DONE
+- [testing] discuss email from Marcus on VDIs - with Driss and Marcus
 - [stakeholders] knowledge sharing with Driss and Aleksandra - all pipelines - call to action -- what next? who writes tests and how
 - [testing] discuss the process of E2E test automation with Driss and Dawid - document discussion in Miro
 - [testing] create a User Story template for the request of an E2E test in the Swiss Knives backlog
