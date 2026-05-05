@@ -34,7 +34,6 @@
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 
 # high priority
-- [admin] check budget Excel with Aleksandra
 - [learn] book travel to Copenhagen in September
 - [stakeholders] organize a workshop on the SC1 testing (writing new tests and importing existing ones) - wait for Driss to be back
     - involve Nikola Sobota and Rahum Maddi - keep Tomasz Pastuszka in the loop - the session needs to be recorded and reusable
@@ -46,7 +45,7 @@
 - [learn] study actual Value Stream mappings (with Artur)
 
 # burning
-- [admin] get help from team on resource groups in Excel (filters: Type 'Everything Else', Department 'Service Orchestration') 
+- [admin] budget Excel with Aleksandra - get help from team on resource groups in Excel (filters: Type 'Everything Else', Department 'Service Orchestration') 
     - identify the correct values of Type and Department, update the ResourceMappings tab in the Excel
         - complete with Aleksandra, review and submit
 
