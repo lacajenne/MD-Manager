@@ -1,4 +1,20 @@
 
+[2026-05-05]
+
+Budget excel from Payam - Azure costs
+https://simcorp-my.sharepoint.com/:x:/r/personal/pmcf_simcorp_com/_layouts/15/Doc.aspx?sourcedoc=%7BB9DAE4FB-009D-4D45-BD70-22BBF156EF0B%7D&file=Azure%20costs%20Cross%20Charging.xlsx&fromShare=true&action=default&mobileredirect=true
+
+Azure subscription: Standard Platform - Product Division
+
+in the cost center
+- amortized cost
+- group by: resource groups
+- granularity: monthly
+
+download excel after applying all filters
+
+=====================================================================================================================================================
+
 [2026-04-27]
 
 Chat with Driss
