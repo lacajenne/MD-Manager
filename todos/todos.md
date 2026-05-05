@@ -51,7 +51,7 @@
         - complete with Aleksandra, review and submit
 
 # under way
-- [team][testing] support Dmytro with FX Forward
+- [stakeholders][team][testing] FW Forward blockage for Dmytro - emails with Kateryna - escalation with Thomas
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
 - [learn] do course "VSM Foundation" in Flowtopia 
 
