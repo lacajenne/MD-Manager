@@ -1,6 +1,18 @@
 
 [2026-05-05]
 
+Topics:
+- salary review for Dmytro
+- Azure costs Excel - trying to get info from the team
+- discussion with Kateryna - there is some perspective from Driss
+- discussion on parental leaves and communication with cVation
+- support for Tetyana Pavlenko - issue with Nicholas Preetzmann 
+- Driss wants a TOGAF certification - figure out if possible - figure out the process
+
+=====================================================================================================================================================
+
+[2026-05-05]
+
 Budget excel from Payam - Azure costs
 https://simcorp-my.sharepoint.com/:x:/r/personal/pmcf_simcorp_com/_layouts/15/Doc.aspx?sourcedoc=%7BB9DAE4FB-009D-4D45-BD70-22BBF156EF0B%7D&file=Azure%20costs%20Cross%20Charging.xlsx&fromShare=true&action=default&mobileredirect=true
 
