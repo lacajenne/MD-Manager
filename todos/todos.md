@@ -48,9 +48,13 @@
 # burning
 - [team] Learning Quest for Driss on TOGAF certification 
 - [stakeholders] issue from Tetyana Pavlenko - escalate the request to Nicholas Preetzmann via email - involve Paul
-- [admin] budget Excel with Aleksandra - get help from team on resource groups in Excel (filters: Type 'Everything Else', Department 'Service Orchestration') 
-    - identify the correct values of Type and Department, update the ResourceMappings tab in the Excel
-        - complete with Aleksandra, review and submit
+- [admin] Azure budget Excel with Aleksandra - get help from team on resource groups in Excel (filters: Type 'Everything Else', Department 'Service Orchestration') 
+        citrix* : Value Streams
+        dwh item : not clear - but it is peanuts (0.144 EUR) - guess we can leave it with Everything Else
+        pr stuff: Testing As A Service
+        sc1 stuff: Value Streams 
+        xmgr item: Shared
+    - complete with Aleksandra, review and submit
 
 # under way
 - [stakeholders][team][testing] FW Forward blockage for Dmytro Pavlenko - emails with Kateryna - escalation with Thomas 
