@@ -30,7 +30,6 @@
 - [testing] Epic 521791 - use to track progress on testing 
 - [stakeholders] Collaborate with Tomasz Pastuszka on running their tests in SC1
 - [stakeholders] Intech and LTL 
-- [stakeholders] issue from Tetyana Pavlenko
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 
 # high priority
@@ -40,17 +39,22 @@
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # todo 
+- [testing] discuss email from Sven Rinke with Aleksandra 
+- [team] support request from Richard Tatham about connecting ADO pipelines to XMGR
 - [learn] figure out some more about ambassadors
 - [testing] meeting with Aleksandra and Driss - share information on the story template - discuss on how to share progress through the phases
 - [learn] study actual Value Stream mappings (with Artur)
 
 # burning
+- [team] Learning Quest for Driss on TOGAF certification 
+- [stakeholders] issue from Tetyana Pavlenko - escalate the request to Nicholas Preetzmann via email - involve Paul
 - [admin] budget Excel with Aleksandra - get help from team on resource groups in Excel (filters: Type 'Everything Else', Department 'Service Orchestration') 
     - identify the correct values of Type and Department, update the ResourceMappings tab in the Excel
         - complete with Aleksandra, review and submit
 
 # under way
-- [stakeholders][team][testing] FW Forward blockage for Dmytro - emails with Kateryna - escalation with Thomas
+- [stakeholders][team][testing] FW Forward blockage for Dmytro Pavlenko - emails with Kateryna - escalation with Thomas 
+- [admin][team] salary review for Dmytro Pavlenko - email by Anna Pora
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
 - [learn] do course "VSM Foundation" in Flowtopia 
 

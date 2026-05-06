@@ -1,13 +1,12 @@
 
 [2026-05-05]
 
-Topics:
-- salary review for Dmytro
-- Azure costs Excel - trying to get info from the team
-- discussion with Kateryna - there is some perspective from Driss
-- discussion on parental leaves and communication with cVation
-- support for Tetyana Pavlenko - issue with Nicholas Preetzmann 
-- Driss wants a TOGAF certification - figure out if possible - figure out the process
+Request from Richard Tatham
+
+I need some Swiss Knives expertise and I don't know who in your team to talk to. I want to query XMGR over API from Azure DevOps, 
+to check the status of deliverables and contributions. But XMGR is normally only accessible inside Citrix, so how do I connect our Azure DevOps pipeline to it?
+ 
+Could you ask your team if any of them know about these topics, so that we can talk?
 
 =====================================================================================================================================================
 
