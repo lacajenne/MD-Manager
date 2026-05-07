@@ -47,7 +47,6 @@
 
 # burning
 
-
 # under way
 - [admin] organize recurring meeting with Driss and Aleksandra on the Azure cost budget Excel - the 3rd of each month is a deadline
 - [stakeholders] issue from Tetyana Pavlenko - escalate the request to Nicholas Preetzmann via email - involve Paul
