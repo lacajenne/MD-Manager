@@ -13,7 +13,7 @@
 - check the one-on-one calendar of the Swiss Knives
 - check the HOTTO bookmark folder in Chrome
 - review the todo list
-- before the 3rd of each month - 
+- before the 3rd of each month - update Excel file with Azure costs budget - with Driss and Aleksandra
 
 # longer time focus
 - a stable workflow for tests coming from stakeholders to SK and being executed in scheduled pipelines regularly - an effective collaboration 
@@ -43,11 +43,13 @@
 - [team] support request from Richard Tatham about connecting ADO pipelines to XMGR - running file on [2026-05-05]
 - [learn] figure out some more about ambassadors
 - [learn] study actual Value Stream mappings (with Artur)
+- [admin] relocate Payams Excel to VS with Aleksandra
 
 # burning
-- [admin] organize recurring meeting with Driss and Aleksandra on the Azure cost budget Excel - the 3rd of each month is a deadline
+
 
 # under way
+- [admin] organize recurring meeting with Driss and Aleksandra on the Azure cost budget Excel - the 3rd of each month is a deadline
 - [stakeholders] issue from Tetyana Pavlenko - escalate the request to Nicholas Preetzmann via email - involve Paul
 - [team] Learning Quest for Driss on TOGAF certification 
 - [stakeholders][team][testing] FW Forward blockage for Dmytro Pavlenko - emails with Kateryna - escalation with Thomas 
