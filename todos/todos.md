@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-05-05
+> **Last Updated:** 2026-05-07
 
 # the morning rites
 - check the calendar in Outlook
@@ -13,6 +13,7 @@
 - check the one-on-one calendar of the Swiss Knives
 - check the HOTTO bookmark folder in Chrome
 - review the todo list
+- before the 3rd of each month - 
 
 # longer time focus
 - a stable workflow for tests coming from stakeholders to SK and being executed in scheduled pipelines regularly - an effective collaboration 
@@ -29,7 +30,6 @@
 - [stakeholders] E2E tests from Hanna Babii (monitoring solutions) to the SC1 tests - start with a simple scenario
 - [testing] Epic 521791 - use to track progress on testing 
 - [stakeholders] Collaborate with Tomasz Pastuszka on running their tests in SC1
-- [stakeholders] Intech and LTL 
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 
 # high priority
@@ -39,15 +39,24 @@
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # todo 
-- [testing] discuss email from Sven Rinke with Aleksandra 
-- [team] support request from Richard Tatham about connecting ADO pipelines to XMGR
+- [team] monitor Chhitiz and his velocity - figure out whether there is a problem - design a solution with the team - consider pairing up 
+- [team] support request from Richard Tatham about connecting ADO pipelines to XMGR - running file on [2026-05-05]
 - [learn] figure out some more about ambassadors
-- [testing] meeting with Aleksandra and Driss - share information on the story template - discuss on how to share progress through the phases
 - [learn] study actual Value Stream mappings (with Artur)
 
 # burning
-- [team] Learning Quest for Driss on TOGAF certification 
+- [admin] organize recurring meeting with Driss and Aleksandra on the Azure cost budget Excel - the 3rd of each month is a deadline
+
+# under way
 - [stakeholders] issue from Tetyana Pavlenko - escalate the request to Nicholas Preetzmann via email - involve Paul
+- [team] Learning Quest for Driss on TOGAF certification 
+- [stakeholders][team][testing] FW Forward blockage for Dmytro Pavlenko - emails with Kateryna - escalation with Thomas 
+- [admin][team] salary review for Dmytro Pavlenko - email by Anna Pora
+- [testing] work on the Testing Strategy draft Word document with Driss and Ola
+- [learn] do course "VSM Foundation" in Flowtopia 
+
+# DONE
+- [testing] meeting with Aleksandra and Driss - share information on the story template - discuss on how to share progress through the phases
 - [admin] Azure budget Excel with Aleksandra - get help from team on resource groups in Excel (filters: Type 'Everything Else', Department 'Service Orchestration') 
         citrix* : Value Streams
         dwh item : not clear - but it is peanuts (0.144 EUR) - guess we can leave it with Everything Else
@@ -55,14 +64,6 @@
         sc1 stuff: Value Streams 
         xmgr item: Shared
     - complete with Aleksandra, review and submit
-
-# under way
-- [stakeholders][team][testing] FW Forward blockage for Dmytro Pavlenko - emails with Kateryna - escalation with Thomas 
-- [admin][team] salary review for Dmytro Pavlenko - email by Anna Pora
-- [testing] work on the Testing Strategy draft Word document with Driss and Ola
-- [learn] do course "VSM Foundation" in Flowtopia 
-
-# DONE
 - [testing] discuss email from Marcus on VDIs - with Driss and Marcus
 - [stakeholders] knowledge sharing with Driss and Aleksandra - all pipelines - call to action -- what next? who writes tests and how
 - [testing] discuss the process of E2E test automation with Driss and Dawid - document discussion in Miro
