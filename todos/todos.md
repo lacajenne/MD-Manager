@@ -48,7 +48,7 @@
 - [learn] study actual Value Stream mappings (with Artur)
 
 # burning
-- [admin] make clarity around the new Azure subscription with Henrik - it needs to be justified - how do we manage it - how does it affect budget calculations and reporting
+- [admin] make clarity around the new Azure subscription with Henrik Palm - it needs to be justified - how do we manage it - how does it affect budget calculations and reporting
 
 # under way
 - [stakeholders] issue from Tetyana Pavlenko - escalate the request to Nicholas Preetzmann via email - involve Paul
