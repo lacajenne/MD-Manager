@@ -42,6 +42,7 @@
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # todo 
+- [admin] vacation request for June trip to Tirol 
 - [team] figure out how to arrange for a team event - how, where, when
 - [team][testing] organize a kickoff for the Agile ceremonies on testing for the Swiss Knives
 - [tech] replace the MS Copilot with Claude

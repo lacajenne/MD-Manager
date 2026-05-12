@@ -4,7 +4,7 @@ Swiss Knives
 - Chhitiz Shrestha 
 - Dmytro Pavlenko (external)
 - Driss Biya 
-- Felix Larsen (cVation) - check what to do as soon as he is back - one-on-one meetings 
+- Felix Larsen (cVation) 
 - Kasper Fehrend (cVation) 
 - Marcus Pagh (cVation) 
 - Mathias Hecht (cVation) 
@@ -12,9 +12,5 @@ Swiss Knives
 - Mykola Yevstihnieiev 
 - Stefan Mayer 
 
-The main portfolio of the team is
-- testing
-- configuration
-- infrastructure 
- 
+
 
