@@ -16,6 +16,7 @@
 - before the 3rd of each month - update Excel file with Azure costs budget - with Driss and Aleksandra
 
 # longer time focus
+- a well structured, self organized and visible Swiss Knives team - not dependent on cVation
 - a stable workflow for tests coming from stakeholders to SK and being executed in scheduled pipelines regularly - an effective collaboration 
 - SC1 Release, Evergreen, E2E pipelines in SC1TEST and in customer environments
 
@@ -23,13 +24,13 @@
 - [260921-to-24][learn][admin] Lead with Impact in Copenhagen
 
 # current focus
-- [testing] Testing Strategy
+- [testing] Testing strategy 
 - [testing] Have stable scheduled pipelines run in SC1TEST - use real data with the data pipeline - publish the whole - call to action
-- [team] knowledge transfer and shadowing from cVation to SimCorp - getting new resources 
+- [team] knowledge transfer and shadowing from cVation to SimCorp - team scaling
 
 # items to follow
 - [admin] consider subscription "ReleaseOffice SC1 SK DEV" when budgeting Azure costs
-- [team] monitor Chhitiz and his velocity - figure out whether there is a problem - design a solution with the team - suggest pairing up 
+- [team] monitor Chhitiz and his velocity  
 - [stakeholders] E2E tests from Hanna Babii (monitoring solutions) to the SC1 tests - start with a simple scenario
 - [testing] Epic 521791 - use to track progress on testing 
 - [stakeholders] Collaborate with Tomasz Pastuszka on running their tests in SC1
@@ -37,13 +38,13 @@
 
 # high priority
 - [learn] book travel to Copenhagen in September
-- [stakeholders] organize a workshop on the SC1 testing (writing new tests and importing existing ones) - wait for Driss to be back
+- [stakeholders] organize a workshop on the SC1 testing (writing new tests and importing existing ones) 
     - involve Nikola Sobota and Rahum Maddi - keep Tomasz Pastuszka in the loop - the session needs to be recorded and reusable
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # todo 
 - [admin] vacation request for June trip to Tirol 
-- [team] figure out how to arrange for a team event - how, where, when
+- [team] figure out how to arrange for a team event - who to ask, how, where, when
 - [team][testing] organize a kickoff for the Agile ceremonies on testing for the Swiss Knives
 - [tech] replace the MS Copilot with Claude
 - [team] talk to SimCorpers about shadowing cVation people and covering their activities - remind them of the Swiss Knives' role definition
