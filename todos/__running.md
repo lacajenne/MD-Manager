@@ -1,4 +1,33 @@
 
+[2026-05-12]
+
+list of stuff to do and follow
+
+- new azure subscription - ReleaseOffice SC1 SK DEV
+	- it was needed to put new resources needed by the team in it
+	- resources are not an extra - we need to pay for them but they are an already established necessity
+	- we need to know to what cost center the resources in the subscription should be associated 
+	- reach out to Aleksandra to ask how to tag resources in the subscription 
+
+- change from ms copilot to claude
+
+- escalation for Tetyana Pavlenko
+	https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdev.azure.com%2FSimCorpCloud%2FProject%2520Unicorn%2F_workitems%2Fedit%2F504029&data=05%7C02%7CKasper.Fehrend%40simcorp.com%7Cd6eda7d9ee8c4b67496708dea0f21271%7Caa81b43f39694fd480c984c411508d82%7C0%7C0%7C639125158725570169%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=K83rlv9mMu4P%2BPrBnxQcMCKgB8A6ukTI9cvmKY0UzXM%3D&reserved=0
+
+- talk with Driss and Artur
+	- agile ceremonies for the testing work of the Swiss Knives
+	- location and implementation of test plans for clients
+
+- meeting after the 26th of may with Swiss Knives, Aleksandra, Paul - on the vision about the testing work of the Swiss Knives
+
+- kickoff of Agile ceremonies for testing with the Swiss Knives
+
+- figure out if a Swiss Knives team event is possible, where and when 
+
+- reach out to SimCorpers in the Swiss Knives about taking over the cVation activities - remind them of the Swiss Knive role definition
+
+=====================================================================================================================================================
+
 [2026-05-05]
 
 Request from Richard Tatham

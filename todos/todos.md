@@ -28,6 +28,7 @@
 - [team] knowledge transfer and shadowing from cVation to SimCorp - getting new resources 
 
 # items to follow
+- [admin] consider subscription "ReleaseOffice SC1 SK DEV" when budgeting Azure costs
 - [team] monitor Chhitiz and his velocity - figure out whether there is a problem - design a solution with the team - suggest pairing up 
 - [stakeholders] E2E tests from Hanna Babii (monitoring solutions) to the SC1 tests - start with a simple scenario
 - [testing] Epic 521791 - use to track progress on testing 
@@ -41,16 +42,20 @@
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # todo 
+- [team] figure out how to arrange for a team event - how, where, when
+- [team][testing] organize a kickoff for the Agile ceremonies on testing for the Swiss Knives
 - [tech] replace the MS Copilot with Claude
-- [team] talk to SimCorpers and Driss about shadowing cVation people and covering their activities
+- [team] talk to SimCorpers about shadowing cVation people and covering their activities - remind them of the Swiss Knives' role definition
 - [team] support request from Richard Tatham about connecting ADO pipelines to XMGR - running file on [2026-05-05]
 - [learn] figure out some more about ambassadors
 - [learn] study actual Value Stream mappings (with Artur)
 
 # burning
+- [team][testing] arrange a team event after the 26th of May with the team, Paul and Aleksandra - on the vision for the testing work of the Swiss Knives
 - [admin] make clarity around the new Azure subscription with Henrik Palm - it needs to be justified - how do we manage it - how does it affect budget calculations and reporting
 
 # under way
+- [testing] discuss with Driss and Artur - placement of test plans for clients - Agile ceremonies for testing work within the Swiss Knives
 - [stakeholders] issue from Tetyana Pavlenko - escalate the request to Nicholas Preetzmann via email - involve Paul
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
 - [learn] do course "VSM Foundation" in Flowtopia 
