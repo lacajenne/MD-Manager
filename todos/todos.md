@@ -41,12 +41,14 @@
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # todo 
+- [tech] replace the MS Copilot with Claude
 - [team] talk to SimCorpers and Driss about shadowing cVation people and covering their activities
 - [team] support request from Richard Tatham about connecting ADO pipelines to XMGR - running file on [2026-05-05]
 - [learn] figure out some more about ambassadors
 - [learn] study actual Value Stream mappings (with Artur)
 
 # burning
+- [admin] make clarity around the new Azure subscription with Henrik - it needs to be justified - how do we manage it - how does it affect budget calculations and reporting
 
 # under way
 - [stakeholders] issue from Tetyana Pavlenko - escalate the request to Nicholas Preetzmann via email - involve Paul
