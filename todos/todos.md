@@ -25,8 +25,10 @@
 # current focus
 - [testing] Testing Strategy
 - [testing] Have stable scheduled pipelines run in SC1TEST - use real data with the data pipeline - publish the whole - call to action
+- [team] knowledge transfer and shadowing from cVation to SimCorp - getting new resources 
 
 # items to follow
+- [team] monitor Chhitiz and his velocity - figure out whether there is a problem - design a solution with the team - suggest pairing up 
 - [stakeholders] E2E tests from Hanna Babii (monitoring solutions) to the SC1 tests - start with a simple scenario
 - [testing] Epic 521791 - use to track progress on testing 
 - [stakeholders] Collaborate with Tomasz Pastuszka on running their tests in SC1
@@ -39,24 +41,24 @@
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # todo 
+- [team] talk to SimCorpers and Driss about shadowing cVation people and covering their activities
 - [team] support request from Richard Tatham about connecting ADO pipelines to XMGR - running file on [2026-05-05]
 - [learn] figure out some more about ambassadors
 - [learn] study actual Value Stream mappings (with Artur)
-- [admin] relocate Payams Excel to VS with Aleksandra
 
 # burning
 
 # under way
-- [team] monitor Chhitiz and his velocity - figure out whether there is a problem - design a solution with the team - suggest pairing up 
-- [admin] organize recurring meeting with Driss and Aleksandra on the Azure cost budget Excel - the 3rd of each month is a deadline
 - [stakeholders] issue from Tetyana Pavlenko - escalate the request to Nicholas Preetzmann via email - involve Paul
-- [team] Learning Quest for Driss on TOGAF certification 
-- [stakeholders][team][testing] FW Forward blockage for Dmytro Pavlenko - emails with Kateryna - escalation with Thomas 
-- [admin][team] salary review for Dmytro Pavlenko - email by Anna Pora
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
 - [learn] do course "VSM Foundation" in Flowtopia 
 
 # DONE
+- [admin] relocate Payams Excel to VS with Aleksandra
+- [stakeholders][team][testing] FW Forward blockage for Dmytro Pavlenko - emails with Kateryna - escalation with Thomas 
+- [admin][team] salary review for Dmytro Pavlenko - email by Anna Pora
+- [team] Learning Quest for Driss on TOGAF certification 
+- [admin] organize recurring meeting with Driss and Aleksandra on the Azure cost budget Excel - the 3rd of each month is a deadline
 - [testing] meeting with Aleksandra and Driss - share information on the story template - discuss on how to share progress through the phases
 - [admin] Azure budget Excel with Aleksandra - get help from team on resource groups in Excel (filters: Type 'Everything Else', Department 'Service Orchestration') 
         citrix* : Value Streams
