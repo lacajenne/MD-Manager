@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-05-07
+> **Last Updated:** 2026-05-12
 
 # the morning rites
 - check the calendar in Outlook
@@ -39,7 +39,6 @@
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # todo 
-- [team] monitor Chhitiz and his velocity - figure out whether there is a problem - design a solution with the team - consider pairing up 
 - [team] support request from Richard Tatham about connecting ADO pipelines to XMGR - running file on [2026-05-05]
 - [learn] figure out some more about ambassadors
 - [learn] study actual Value Stream mappings (with Artur)
@@ -48,6 +47,7 @@
 # burning
 
 # under way
+- [team] monitor Chhitiz and his velocity - figure out whether there is a problem - design a solution with the team - suggest pairing up 
 - [admin] organize recurring meeting with Driss and Aleksandra on the Azure cost budget Excel - the 3rd of each month is a deadline
 - [stakeholders] issue from Tetyana Pavlenko - escalate the request to Nicholas Preetzmann via email - involve Paul
 - [team] Learning Quest for Driss on TOGAF certification 
