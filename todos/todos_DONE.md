@@ -1,5 +1,7 @@
-**Last Updated:** 2026-05-12
+**Last Updated:** 2026-05-13
 
+- [team] figure out how to arrange for a team event - who to ask, how, where, when
+- [admin] vacation request for June trip to Tirol 
 - [admin] relocate Payams Excel to VS with Aleksandra
 - [stakeholders][team][testing] FW Forward blockage for Dmytro Pavlenko - emails with Kateryna - escalation with Thomas 
 - [admin][team] salary review for Dmytro Pavlenko - email by Anna Pora

@@ -24,9 +24,10 @@
 - [260921-to-24][learn][admin] Lead with Impact in Copenhagen
 
 # current focus
-- [testing] Testing strategy 
+- [team] Hiring and team scaling
+- [testing] Testing for Testing Services and ADC - manual test plans in ADO and execution tracking
 - [testing] Have stable scheduled pipelines run in SC1TEST - use real data with the data pipeline - publish the whole - call to action
-- [team] Knowledge transfer and shadowing from cVation to SimCorp - team scaling
+- [team] Knowledge transfer and shadowing from cVation to SimCorp 
 
 # items to follow
 - [admin] consider subscription "ReleaseOffice SC1 SK DEV" when budgeting Azure costs
@@ -37,15 +38,13 @@
 - [stakeholders] Ryan - Mathias - CORIC setup in SC1
 
 # high priority
-- [learn] book travel to Copenhagen in September
+- [learn] book travel to Copenhagen in September - in combination with team event
 - [stakeholders] organize a workshop on the SC1 testing (writing new tests and importing existing ones) 
     - involve Nikola Sobota and Rahum Maddi - keep Tomasz Pastuszka in the loop - the session needs to be recorded and reusable
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # todo 
 - [testing] understand: SC1 DWH and support from Paulina Zyskowska
-- [admin] vacation request for June trip to Tirol 
-- [team] figure out how to arrange for a team event - who to ask, how, where, when
 - [team][testing] organize a kickoff for the Agile ceremonies on testing for the Swiss Knives
 - [tech] replace the MS Copilot with Claude
 - [team] talk to SimCorpers about shadowing cVation people and covering their activities - remind them of the Swiss Knives' role definition
@@ -54,7 +53,7 @@
 - [learn] study actual Value Stream mappings (with Artur)
 
 # burning
-- [team][admin] prepare for the hiring process 
+- [team][admin] prepare for the hiring process of two new people in the Swiss Knives - Warsaw
     - get job descriptions from Kateryna and adapt them (those used for the Swiss Knives)
     - fix details such as levels (IC5, IC6...)
     - involve Driss
