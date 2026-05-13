@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-05-12
+> **Last Updated:** 2026-05-13
 
 # the morning rites
 - check the calendar in Outlook
@@ -26,7 +26,7 @@
 # current focus
 - [testing] Testing strategy 
 - [testing] Have stable scheduled pipelines run in SC1TEST - use real data with the data pipeline - publish the whole - call to action
-- [team] knowledge transfer and shadowing from cVation to SimCorp - team scaling
+- [team] Knowledge transfer and shadowing from cVation to SimCorp - team scaling
 
 # items to follow
 - [admin] consider subscription "ReleaseOffice SC1 SK DEV" when budgeting Azure costs
@@ -54,11 +54,18 @@
 - [learn] study actual Value Stream mappings (with Artur)
 
 # burning
+- [team][admin] prepare for the hiring process 
+    - get job descriptions from Kateryna and adapt them (those used for the Swiss Knives)
+    - fix details such as levels (IC5, IC6...)
+    - involve Driss
+    - prepare for the interview - initial selection/elmimination process, criteria, how many rounds, what to ask, tests...
 - [team][testing] arrange a team event after the 26th of May with the team, Paul and Aleksandra - on the vision for the testing work of the Swiss Knives
+- [team][admin] get team feedback and organize team event in Copenhagen 16-18 September - book 
 - [admin] make clarity around the new Azure subscription with Henrik Palm - it needs to be justified - how do we manage it - how does it affect budget calculations and reporting
 
 # under way
-- [testing] discuss with Driss and Artur - placement of test plans for clients - Agile ceremonies for testing work within the Swiss Knives
+- [testing] discuss with Driss and Artur - placement of test plans for clients - Agile ceremonies for testing work within the Swiss Knives - set milestones on the adoption
+    - figure out how to use effectively test plans in ADO - taking their limitations into account
 - [stakeholders] issue from Tetyana Pavlenko - escalate the request to Nicholas Preetzmann via email - involve Paul
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
 - [learn] do course "VSM Foundation" in Flowtopia 
