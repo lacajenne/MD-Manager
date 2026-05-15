@@ -1,5 +1,7 @@
 **Last Updated:** 2026-05-13
 
+- [admin] make clarity around the new Azure subscription with Henrik Palm - it needs to be justified - how do we manage it - how does it affect budget calculations and reporting
+- [team][testing] arrange a team event after the 26th of May with the team, Paul and Aleksandra - on the vision for the testing work of the Swiss Knives
 - [team] figure out how to arrange for a team event - who to ask, how, where, when
 - [admin] vacation request for June trip to Tirol 
 - [admin] relocate Payams Excel to VS with Aleksandra

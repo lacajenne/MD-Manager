@@ -21,6 +21,7 @@
 - SC1 Release, Evergreen, E2E pipelines in SC1TEST and in customer environments
 
 # on a fixed date   
+- [260605.15:00][team][stakeholders][testing] on the vision for the testing work of the Swiss Knives
 - [260921-to-24][learn][admin] Lead with Impact in Copenhagen
 
 # current focus
@@ -44,6 +45,7 @@
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # todo 
+[team][stakeholders][testing] on the vision for the testing work of the Swiss Knives - prepare Agile ceremonies draft model with Artur and Driss
 - [testing] understand: SC1 DWH and support from Paulina Zyskowska
 - [team][testing] organize a kickoff for the Agile ceremonies on testing for the Swiss Knives
 - [tech] replace the MS Copilot with Claude
@@ -58,9 +60,7 @@
     - fix details such as levels (IC5, IC6...)
     - involve Driss
     - prepare for the interview - initial selection/elmimination process, criteria, how many rounds, what to ask, tests...
-- [team][testing] arrange a team event after the 26th of May with the team, Paul and Aleksandra - on the vision for the testing work of the Swiss Knives
 - [team][admin] get team feedback and organize team event in Copenhagen 16-18 September - book 
-- [admin] make clarity around the new Azure subscription with Henrik Palm - it needs to be justified - how do we manage it - how does it affect budget calculations and reporting
 
 # under way
 - [testing] discuss with Driss and Artur - placement of test plans for clients - Agile ceremonies for testing work within the Swiss Knives - set milestones on the adoption
