@@ -54,6 +54,7 @@
 - [learn] study actual Value Stream mappings (with Artur)
 
 # burning
+- [admin] work on infrastructure upgrade for SC1 - consider cost increase with Aleksandra 
 - [team][admin] prepare for the hiring process of two new people in the Swiss Knives - Warsaw
     - get job descriptions from Kateryna and adapt them (those used for the Swiss Knives)
     - fix details such as levels (IC5, IC6...)
