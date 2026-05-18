@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-05-15
+> **Last Updated:** 2026-05-18
 
 # the morning rites
 - check the calendar in Outlook
@@ -45,7 +45,6 @@
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
 
 # todo 
-[team][stakeholders][testing] on the vision for the testing work of the Swiss Knives - prepare Agile ceremonies draft model with Artur and Driss
 - [testing] understand: SC1 DWH and support from Paulina Zyskowska
 - [team][testing] organize a kickoff for the Agile ceremonies on testing for the Swiss Knives
 - [tech] replace the MS Copilot with Claude
@@ -63,6 +62,7 @@
 - [team][admin] get team feedback and organize team event in Copenhagen 16-18 September - book 
 
 # under way
+- [team][stakeholders][testing] on the vision for the testing work of the Swiss Knives - prepare Agile ceremonies draft model with Artur and Driss
 - [testing] discuss with Driss and Artur - placement of test plans for clients - Agile ceremonies for testing work within the Swiss Knives - set milestones on the adoption
     - figure out how to use effectively test plans in ADO - taking their limitations into account
 - [stakeholders] issue from Tetyana Pavlenko - escalate the request to Nicholas Preetzmann via email - involve Paul
