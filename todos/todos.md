@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-05-18
+> **Last Updated:** 2026-05-21
 
 # the morning rites
 - check the calendar in Outlook
@@ -54,7 +54,7 @@
 - [learn] study actual Value Stream mappings (with Artur)
 
 # burning
-- [admin] work on infrastructure upgrade for SC1 - consider cost increase with Aleksandra 
+- [admin] work on infrastructure costs with Aleksandra - upgrade costs and cost reduction (from Mathias, with Driss)
 - [team][admin] prepare for the hiring process of two new people in the Swiss Knives - Warsaw
     - get job descriptions from Kateryna and adapt them (those used for the Swiss Knives)
     - fix details such as levels (IC5, IC6...)
