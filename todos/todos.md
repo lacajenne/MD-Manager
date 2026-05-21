@@ -47,7 +47,6 @@
 # todo 
 - [testing] understand: SC1 DWH and support from Paulina Zyskowska
 - [team][testing] organize a kickoff for the Agile ceremonies on testing for the Swiss Knives
-- [tech] replace the MS Copilot with Claude
 - [team] talk to SimCorpers about shadowing cVation people and covering their activities - remind them of the Swiss Knives' role definition
 - [team] support request from Richard Tatham about connecting ADO pipelines to XMGR - running file on [2026-05-05]
 - [learn] figure out some more about ambassadors
