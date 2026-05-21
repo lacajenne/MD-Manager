@@ -1,4 +1,14 @@
 
+[2026-05-21]
+
+Notes from the discussion with Mathias on the Azure costs
+
+- the red items are resources for the late Standard Platform - no one is using them and they should be deleted or assigned to someone else for the cost
+- the purple items are catalogs generating powerful VMs for developers - maybe we can reach out to the Straw Hats team to make them cheaper
+	- this would involve creating new catalogs, moving there and deleting the old ones 
+
+=====================================================================================================================================================
+
 [2026-05-12]
 
 list of stuff to do and follow
