@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-05-21
+> **Last Updated:** 2026-05-22
 
 # the morning rites
 - check the calendar in Outlook
@@ -21,14 +21,14 @@
 - SC1 Release, Evergreen, E2E pipelines in SC1TEST and in customer environments
 
 # on a fixed date   
-- [260605.15:00][team][stakeholders][testing] on the vision for the testing work of the Swiss Knives
+- [260610.16:00][team][stakeholders][testing] on the vision for the testing work of the Swiss Knives
 - [260921-to-24][learn][admin] Lead with Impact in Copenhagen
 
 # current focus
 - [team] Hiring and team scaling
 - [testing] Testing for Testing Services and ADC - manual test plans in ADO and execution tracking
 - [testing] Have stable scheduled pipelines run in SC1TEST - use real data with the data pipeline - publish the whole - call to action
-- [team] Knowledge transfer and shadowing from cVation to SimCorp 
+- [team] Knowledge transfer and shadowing from cVation to SimCorp - pairing up SimCorpers with cVation people
 
 # items to follow
 - [admin] consider subscription "ReleaseOffice SC1 SK DEV" when budgeting Azure costs
@@ -46,8 +46,6 @@
 
 # todo 
 - [testing] understand: SC1 DWH and support from Paulina Zyskowska
-- [team][testing] organize a kickoff for the Agile ceremonies on testing for the Swiss Knives
-- [team] talk to SimCorpers about shadowing cVation people and covering their activities - remind them of the Swiss Knives' role definition
 - [team] support request from Richard Tatham about connecting ADO pipelines to XMGR - running file on [2026-05-05]
 - [learn] figure out some more about ambassadors
 - [learn] study actual Value Stream mappings (with Artur)
@@ -62,6 +60,7 @@
 - [team][admin] get team feedback and organize team event in Copenhagen 16-18 September - book 
 
 # under way
+- [team][testing] organize a kickoff for the Agile ceremonies on testing for the Swiss Knives
 - [team][stakeholders][testing] on the vision for the testing work of the Swiss Knives - prepare Agile ceremonies draft model with Artur and Driss
 - [testing] discuss with Driss and Artur - placement of test plans for clients - Agile ceremonies for testing work within the Swiss Knives - set milestones on the adoption
     - figure out how to use effectively test plans in ADO - taking their limitations into account
