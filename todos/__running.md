@@ -9,6 +9,13 @@ Notes from the discussion with Mathias on the Azure costs
 
 =====================================================================================================================================================
 
+[2026-05-20]
+
+Note from Tina
+Apparently there is a bunch of APAC consultants who will start using CDMS2.0 process to help on a new client. They will need introduction session to the process. Marcus did such a session last time and he is ok to do it again. I am just letting you know as maybe one of the internal Swiss Knives (could be Driss or someone else) should team up with Marcus and maybe get into these topics. Not sure if it makes sense but at least you could consider it with the team. It is about having more internla people doing what cVation is doing.
+
+=====================================================================================================================================================
+
 [2026-05-12]
 
 list of stuff to do and follow

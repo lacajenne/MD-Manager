@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-05-22
+> **Last Updated:** 2026-05-27
 
 # the morning rites
 - check the calendar in Outlook
@@ -36,19 +36,17 @@
 - [stakeholders] E2E tests from Hanna Babii (monitoring solutions) to the SC1 tests - start with a simple scenario
 - [testing] Epic 521791 - use to track progress on testing 
 - [stakeholders] Collaborate with Tomasz Pastuszka on running their tests in SC1
-- [stakeholders] Ryan - Mathias - CORIC setup in SC1
+- [team] Stefan to pair with Marcus on the APAC onboarding - see note from Tina - knowledge transfer to SimCorpers
 
-# high priority
-- [learn] book travel to Copenhagen in September - in combination with team event
+# todo 
+- [learn] study actual Value Stream mappings (with Artur)
 - [stakeholders] organize a workshop on the SC1 testing (writing new tests and importing existing ones) 
     - involve Nikola Sobota and Rahum Maddi - keep Tomasz Pastuszka in the loop - the session needs to be recorded and reusable
     - plan: (1) Technical introduction to BJG runners - (2) Existing flows and alignment on what to migrate - (3) Contributing to the framework and pipelines
-
-# todo 
-- [testing] understand: SC1 DWH and support from Paulina Zyskowska
-- [team] support request from Richard Tatham about connecting ADO pipelines to XMGR - running file on [2026-05-05]
-- [learn] figure out some more about ambassadors
-- [learn] study actual Value Stream mappings (with Artur)
+- [admin] act to reduce Azure costs following leads from Mathias
+- [team] discuss proposal from Mykola with Aleksandra 
+- [team] talk to Chhitiz about his attitude/performance and what is expected of him - build psychological safety - discuss with Aleksandra
+- [team] clarify what is going to happen with Felix
 
 # burning
 - [admin] work on infrastructure costs with Aleksandra - upgrade costs and cost reduction (from Mathias, with Driss)
@@ -57,13 +55,9 @@
     - fix details such as levels (IC5, IC6...)
     - involve Driss
     - prepare for the interview - initial selection/elmimination process, criteria, how many rounds, what to ask, tests...
-- [team][admin] get team feedback and organize team event in Copenhagen 16-18 September - book 
 
 # under way
-- [team][testing] organize a kickoff for the Agile ceremonies on testing for the Swiss Knives
-- [team][stakeholders][testing] on the vision for the testing work of the Swiss Knives - prepare Agile ceremonies draft model with Artur and Driss
-- [testing] discuss with Driss and Artur - placement of test plans for clients - Agile ceremonies for testing work within the Swiss Knives - set milestones on the adoption
-    - figure out how to use effectively test plans in ADO - taking their limitations into account
+- [team][testing] organize a kickoff for the Agile ceremonies on testing for the Swiss Knives - prepare an agenda
 - [stakeholders] issue from Tetyana Pavlenko - escalate the request to Nicholas Preetzmann via email - involve Paul
 - [testing] work on the Testing Strategy draft Word document with Driss and Ola
 - [learn] do course "VSM Foundation" in Flowtopia 

@@ -1,5 +1,9 @@
-**Last Updated:** 2026-05-13
+**Last Updated:** 2026-05-27
 
+- [testing] discuss with Driss and Artur - placement of test plans for clients - Agile ceremonies for testing work within the Swiss Knives - set milestones on the adoption
+    - figure out how to use effectively test plans in ADO - taking their limitations into account
+- [team][stakeholders][testing] on the vision for the testing work of the Swiss Knives - prepare Agile ceremonies draft model with Artur and Driss
+- [learn] book travel to Copenhagen in September - in combination with team event
 - [tech] replace the MS Copilot with Claude
 - [admin] make clarity around the new Azure subscription with Henrik Palm - it needs to be justified - how do we manage it - how does it affect budget calculations and reporting
 - [team][testing] arrange a team event after the 26th of May with the team, Paul and Aleksandra - on the vision for the testing work of the Swiss Knives
