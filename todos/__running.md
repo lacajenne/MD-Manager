@@ -1,4 +1,23 @@
 
+[2026-05-28]
+
+Notes for the chat with Chhitiz
+
+You're doing good work, and I think you have the potential to do even more
+
+Building more independence is one of the things that will really accelerate your growth as a developer 
+	— it's one of those skills that opens a lot of doors
+	
+This isn't about being a perfect developer or knowing everything. It's about ownership 
+— feeling like this is your work, your problem to crack, and going after it with that mindset. 
+The asking for help is fine; I think you can do more to take the wheel
+
+What I value most isn't knowing all the answers — it's the drive to find them. 
+I want to see you treating your tasks as fully yours, not just something that gets handed back and forth. 
+That attitude is what makes a developer really stand out.
+
+=====================================================================================================================================================
+
 [2026-05-21]
 
 Notes from the discussion with Mathias on the Azure costs

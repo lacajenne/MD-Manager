@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-05-27
+> **Last Updated:** 2026-05-28
 
 # the morning rites
 - check the calendar in Outlook
@@ -46,7 +46,6 @@
 - [admin] act to reduce Azure costs following leads from Mathias
 - [team] discuss proposal from Mykola with Aleksandra 
 - [team] talk to Chhitiz about his attitude/performance and what is expected of him - build psychological safety - discuss with Aleksandra
-- [team] clarify what is going to happen with Felix
 
 # burning
 - [admin] work on infrastructure costs with Aleksandra - upgrade costs and cost reduction (from Mathias, with Driss)
