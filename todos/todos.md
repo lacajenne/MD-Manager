@@ -17,3 +17,7 @@
 - [260610.16:00][team][stakeholders][testing] on the vision for the testing work of the Swiss Knives
 - [260921-to-24][learn][admin] Lead with Impact in Copenhagen
 
+# ToDo Miro board
+https://miro.com/app/board/uXjVHShkoFk=/
+
+
