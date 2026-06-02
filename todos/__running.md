@@ -1,4 +1,20 @@
 
+[2026-06-02]
+
+Notes on the team and its KPIS
+- the testing part is not a problem - we are introducing new ways, we can define KPIs in an adaptable way
+- cVation/configuration the team is changing and is not clear what is happening and when 
+- difficult to approach discussions and make plans without clarity - every different scenario implies a different approach
+- it does not seem to make sense to expect that whoever picks the work up from cVation works like them 
+	- they will need to find their way - or be told how to? will they be still Swiss Knives if so?
+- can we even define KPIs as long as we do not know exactly what is going to happen in terms of what people we will have and how they will work?
+- assuming we want the configuration part to flow like the testing part, can this work? is it the most sensible option?
+	- would allow us more control
+	- we could define and measure KPIs
+	- what if this does not work and we get no results?
+
+=====================================================================================================================================================
+
 [2026-05-28]
 
 Notes for the chat with Chhitiz

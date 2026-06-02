@@ -1,6 +1,6 @@
 # 📝 Master To-Do List
 
-> **Last Updated:** 2026-06-01
+> **Last Updated:** 2026-06-02
 
 # the morning rites
 - check the calendar in Outlook
@@ -31,12 +31,13 @@
 # burning
 
 # under way
+- [team][admin] define team KPIs - discuss with Driss and Kasper - use Claude
 - [team] Mykola - talk with Matthew Gisby - align with Aleksandra
 - [admin] act to reduce Azure costs following leads from Mathias - Driss working on it
 - [team][admin] hiring process of two new people in the Swiss Knives - Warsaw
     - get second position from Tommy - request the requisition
     - prepare for the interview - initial selection/elmimination process, criteria, how many rounds, what to ask, tests...
-- [team][testing] organize a kickoff for the Agile ceremonies on testing for the Swiss Knives - prepare an agenda
+- [team][testing] organize the kickoff for the Agile ceremonies on testing for the Swiss Knives - prepare an agenda
 - [stakeholders] issue from Tetyana Pavlenko - escalate the request to Nicholas Preetzmann via email - involve Paul
 
 # learn
