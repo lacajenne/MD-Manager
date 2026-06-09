@@ -13,6 +13,20 @@ Notes on the team and its KPIS
 	- we could define and measure KPIs
 	- what if this does not work and we get no results?
 
+Discussion with Kasper 
+Numbers of X we support - as KPIs
+- people 
+- clients 
+- deliverables
+- onboarded configurators
+
+- time to deploy full standard configuration to an environment
+
+- sometimes it is the change that shows the story - from 2 to 6 clients in one go 
+- it is all hard to measure 
+
+- try to ask Kateryna how they measure outcome num
+
 =====================================================================================================================================================
 
 [2026-05-28]
