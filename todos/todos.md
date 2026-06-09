@@ -1,5 +1,3 @@
-> **Last Updated:** 2026-06-02
-
 # the morning rites
 - check the calendar in Outlook
 - check all new emails 
