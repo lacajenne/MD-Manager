@@ -6,6 +6,8 @@
 - BPaaS Gateway: the digital front door to the Business Process as a Service 
     — where clients see reports, dashboards, processing statuses, exceptions, and communicate with their service team.
 
+- CDMS: Configuration Deployment Management Service
+
 - CDS: Configuration Deployment Service
 
 - ETF: Exchange Traded Fund

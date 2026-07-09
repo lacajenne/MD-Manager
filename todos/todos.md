@@ -11,10 +11,6 @@
 - review the todo list
 - before the 3rd of each month - update Excel file with Azure costs budget - with Driss and Aleksandra
 
-# on a fixed date   
-- [260610.16:00][team][stakeholders][testing] on the vision for the testing work of the Swiss Knives
-- [260921-to-24][learn][admin] Lead with Impact in Copenhagen
-
 # ToDo Miro board
 https://miro.com/app/board/uXjVHShkoFk=/
 
